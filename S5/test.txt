@@ -1,0 +1,7 @@
+void main()
+{
+	int x,y,rs;
+	readint(x);
+	readint(y);
+	println(x * y);
+}
