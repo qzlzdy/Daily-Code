@@ -1,3 +1,3 @@
-# Old-Java-Code
+# Daily Code
 
-Old Java Code
+Code used in daily life.
