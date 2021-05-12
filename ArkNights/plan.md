@@ -1,111 +1,82 @@
-精二：60
+精二：54
 
-满级：28
+六十：28
+
+满级：26
 
 专三：14
 
-| 干员 | 备注 | 精二 | 满级 | 1-专三 | 2-专三 | 3-专三 |
-| ---- | ---- | ------ | ------ | ------ | ---- | ---- |
-| 阿米娅-Caster | 女儿 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 阿米娅-Berserker | 女儿 | $\empty$ | $\empty$ | $ \surd $ | $ \surd $ | $\empty$ |
-| 伊芙利特 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 艾雅法拉 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| W | 限定 | $ \surd $ | $ \surd $ |  |  |  |
-| 陈 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 莫斯提马 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 铃兰 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 麦哲伦 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 歌蕾蒂亚 | 活动赠送 | | | | | |
-| 年 | 限定 | $ \surd $ | $ \surd $ |  |  |  |
-| 星熊 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 泥岩 | 六星 | $ \surd $ |  |  |  |  |
-| 森蚺 | 六星 | $ \surd $ |  |  |  |  |
-| 闪灵 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 夜莺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $\empty$ | $ \empty $ | $\empty$ |
-| 暗索 | 成就 | $ \surd $ | $ \surd $ |  |  |  |
-| 白雪 | 成就 | $ \surd $  | $ \surd $ |  |  |  |
-| 普罗旺斯 | 成就 | $ \surd $ | $ \surd $ |  |  |  |
-| 守林人 | 成就 |            |           |  |  |  |
-| 玫兰莎 | 成就 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 炎熔 | 成就 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 红豆 | 成就 | | | | | |
-| 远山 | 成就 | | | | | |
-| 梅尔 | 成就 | | | | | |
-| 华法琳 | 成就 | | | | | |
-| 调香师 | 成就 | $ \surd $ | | | | |
-| 雷蛇 | 成就 |  | | | | |
-| 铸铁 | 成就 | $ \surd $ |  |  |  |  |
-| 因陀罗 | 成就 | $ \surd $ |  |  |  |  |
-| 德克萨斯 | 成就 | $ \surd $ |      |        |        |        |
-| 幽灵鲨 | 成就 | $ \surd $ |      |        |        |        |
-| 夜烟 | 成就 |  | | | | |
-| 炎狱炎熔 | 异格任务 | | | | | |
-| 暴行 | 开服赠送 | $ \surd $ |  |  |  |  |
-| 火神 | 公开招募 | $ \surd $ |  |  |  |  |
-| 格拉尼 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 锡兰 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 雪稚 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 柏喙 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 断罪者 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 苦艾 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 亚叶 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 稀音 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 特米米 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 薄绿 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 鞭刃 | 活动赠送 | $ \surd $ |  |  |  |  |
-| 罗宾 | 活动赠送 |  | | | | |
-| 图耶 | 活动赠送 |  | | | | |
-| 暴雨 | 活动赠送 | | | | | |
-| 嘉维卡 | 信用商店 | $ \surd $ |  |  |  |  |
-| 蛇屠箱 | 红票区 | $ \surd $ |  |  |  |  |
-| 食铁兽 | 红票区 | $ \surd $ |  |  |  |  |
-| 坚雷 | 信用商店-二期 | $ \surd $ |  |  |  |  |
-| 微风 | 红票区-二期 | $ \surd $ |  |  |  |  |
-| 芬   | 服饰 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
-| 芙蓉 | 服饰 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
-| 崖心 | 服饰 | $ \surd $ | | | | |
-| 末药 | 服饰 | $ \surd $ | | | | |
-| 空 | 服饰 | $ \surd $ | | | | |
-| 古米 | 服饰 | $ \surd $ | | | | |
-| 天火 | 服饰 | | | | | |
-| 陨星 | 服饰 | $ \surd $ | | | | |
-| 赫默 | 服饰 | | | | | |
-| 杰西卡 | 服饰 | | | | | |
-| 可颂 | 服饰 | | | | | |
-| 初雪 | 服饰 | | | | | |
-| 卡提 | 服饰 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 诗怀雅 | 服饰 | | | | | |
-| 雷蛇 | 服饰 | | | | | |
-| 白面鸮 | 服饰 | $ \surd $ | | | | |
-| 凛冬 | 服饰 | $ \surd $ | | | | |
-| 灰喉 | 服饰 | | | | | |
-| 米格鲁 | 服饰 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 拉普兰德 | 服饰 | $ \surd $ | | | | |
-| 狮蝎 | 服饰 | $ \surd $ | | | | |
-| 真理 | 服饰 | | | | | |
-| 猎蜂 | 服饰 | | | | | |
-| 夜魔 | 服饰 | | | | | |
-| 星极 | 服饰 | | | | | |
-| 宴 | 服饰 | | | | | |
-| 临光 | 服饰 | | | | | |
-| 白金 | 服饰 | $ \surd $ | | | | |
-| 格劳克斯 | 服饰 | | | | | |
-| 阿消 | 服饰 | | | | | |
-| 四月 | 服饰 | | | | | |
-| 杜宾 | 服饰 | | | | | |
-| 砾 | 服饰 | $ \surd $ | | | | |
-| 芳汀 | 服饰 | | | | | |
-| 絮雨 | 服饰 | | | | | |
-| 燧石 | 服饰 | | | | | |
-| 清流 | 组合包 | | | | | |
+| 干员 | 备注 | 精二 | 六十 | 满级 | 1-专三 | 2-专三 | 3-专三 |
+| ---- | ---- | ------ | ------ | ------ | ---- | ---- | ---- |
+| 阿米娅-Caster | 女儿 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 阿米娅-Berserker | 女儿 | $\empty$ | $\empty$ | $\empty$ | $ \surd $ | $ \surd $ | $\empty$ |
+| 伊芙利特 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 艾雅法拉 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 莫斯提马 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 麦哲伦 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 歌蕾蒂娅 | 活动赠送 | $ \surd $ | | | | | |
+| 年 | 限定 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 星熊 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 泥岩 | 六星 | $ \surd $ |  |  |  |  |  |
+| 森蚺 | 六星 | $ \surd $ |  |  |  |  |  |
+| 闪灵 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 夜莺 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 拉普兰德 | 强力干员 | $ \surd $ | $ \surd $ |  |  |  |$\empty$|
+| 狮蝎 | 强力干员 | $ \surd $ |  | | | |$\empty$|
+| 红 | 强力干员 | $ \surd $ |  | | |  |$\empty$|
+| 临光 | 强力干员 |  |  | | |  |$\empty$|
+| 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $\empty$ | $ \empty $ | $\empty$ |
+| 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $\empty$ |
+| 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $\empty$ |
+| 普罗旺斯 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $\empty$ |
+| 守林人 | 成就 |            |            |           |  |  | $\empty$ |
+| 玫兰莎 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
+| 炎熔 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
+| 红豆 | 成就 | | | | | | $\empty$ |
+| 远山 | 成就 | | | | | | $\empty$ |
+| 梅尔 | 成就 | | | | | | $\empty$ |
+| 华法琳 | 成就 | | | | | | $\empty$ |
+| 调香师 | 成就 | $ \surd $ |  | | | | $\empty$ |
+| 雷蛇 | 成就 |  |  | | | | $\empty$ |
+| 铸铁 | 成就 | $ \surd $ |  |  |  |  | $\empty$ |
+| 因陀罗 | 成就 | $ \surd $ |  |  |  |  | $\empty$ |
+| 德克萨斯 | 成就 | $ \surd $ | $ \surd $ |      |        |        | $\empty$ |
+| 幽灵鲨 | 成就 | $ \surd $ |  |      |        |        | $\empty$ |
+| 夜烟 | 成就 |  |  | | | | $\empty$ |
+| 地灵 | 成就 | | | | | | $\empty$ |
+| 暴行 | 成就 | $ \surd $ |  |  |  |  | $\empty$ |
+| 炎狱炎熔 | 异格任务 | | | | | | $\empty$ |
+| 火神 | 公开招募 | $ \surd $ |  |  |  |  | $\empty$ |
+| 嘉维卡 | 信用商店 | $ \surd $ |  |  |  |  | $\empty$ |
+| 蛇屠箱 | 红票区 | $ \surd $ |  |  |  |  | $\empty$ |
+| 食铁兽 | 红票区 | $ \surd $ |  |  |  |  | $\empty$ |
+| 坚雷 | 信用商店-二期 | $ \surd $ |  |  |  |  | $\empty$ |
+| 微风 | 红票区-二期 | $ \surd $ |  |  |  |  | $\empty$ |
+| 清流 | 组合包 | | | | | | $\empty$ |
+| 格拉尼 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 锡兰 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 雪稚 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 柏喙 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 断罪者 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 苦艾 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 亚叶 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 稀音 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 特米米 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 薄绿 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 鞭刃 | 活动赠送 | $ \surd $ |  |  |  |  | $\empty$ |
+| 罗宾 | 活动赠送 |  |  | | | | $\empty$ |
+| 图耶 | 活动赠送 |  |  | | | | $\empty$ |
+| 暴雨 | 活动赠送 | | | | | | $\empty$ |
