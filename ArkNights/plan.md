@@ -15,12 +15,14 @@
 | 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 凯尔希 |对BOSS |  |  |  |  |  |  |
 | 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 风笛 | 六星 |  |  |  |  |  |  |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
