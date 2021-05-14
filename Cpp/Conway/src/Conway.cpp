@@ -1,55 +1,35 @@
+#include <Conway.h>
+
 #include <chrono>
 #include <iostream>
 #include <random>
 #include <thread>
-#include <vector>
 
 using namespace std;
 
-string symbol = "0123456798abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
-class Conway{
-public:
-    Conway(unsigned width, unsigned height);
-    void run();
-    void init();
-private:
-    void print();
-    void countAliveCell();
-    void evolve();
-    vector<vector<char> > world;
-    vector<vector<char> > count;
-    bool active;
-    unsigned height;
-    unsigned width;
-    unsigned index;
-};
-
-Conway::Conway(unsigned width, unsigned height){
-    world = vector<vector<char> >(height, vector<char>(width, ' '));
-    count = vector<vector<char> >(height, vector<char>(width));
-    active = true;
+Conway::Conway(unsigned width, unsigned height) : root(&root){
+    world = vector<vector<Cell> >(height, vector<Cell>(width));
+    count = vector<vector<unsigned char> >(height, vector<unsigned char>(width));
     this->height = height;
     this->width = width;
-    index = 0;
 }
 
 void Conway::run(){
-    do{
+    while(true){
         print();
 	countAliveCell();
         evolve();
-        this_thread::sleep_for(250ms);
-    }while(active);
+        this_thread::sleep_for(100ms);
+    }
 }
 
 void Conway::init(){
     random_device rd;
     mt19937 gen(rd());
-    bernoulli_distribution d(0.05);
+    bernoulli_distribution d(0.375);
     for(unsigned i = 0; i < height; ++i){
         for(unsigned j = 0; j < width; ++j){
-            world[i][j] = d(gen) ? '0' : ' ';
+            world[i][j] = d(gen) ? Cell(&root) : Cell();
         }
     }
 }
@@ -57,11 +37,10 @@ void Conway::init(){
 void Conway::print(){
     for(auto &row : world){
         for(auto &cell : row){
-            cout << cell;
+            cout << " #"[cell.isAlive()];
         }
         cout << endl;
     }
-    cout << endl;
 }
 
 void Conway::countAliveCell(){
@@ -72,7 +51,7 @@ void Conway::countAliveCell(){
     }
     for(unsigned i = 0; i < height; ++i){
         for(unsigned j = 0; j < width; ++j){
-            if(world[i][j] == ' '){
+            if(!world[i][j].isAlive()){
                 continue;
             }
             bool u = i > 0;
@@ -108,25 +87,14 @@ void Conway::countAliveCell(){
 }
 
 void Conway::evolve(){
-    active = false;
-    index = (index + 1) % symbol.length();
     for(unsigned i = 0; i < height; ++i){
         for(unsigned j = 0; j < width; ++j){
-            char origin = world[i][j];
-            if(world[i][j] != ' ' && (count[i][j] < 2 || count[i][j] > 3)){
-                world[i][j] = ' ';
+            if(world[i][j].isAlive() && (count[i][j] < 2 || count[i][j] > 3)){
+                world[i][j] = Cell();
             }
-            else if(world[i][j] == ' ' && count[i][j] == 3){
-                world[i][j] = symbol[index];
+            else if(!world[i][j].isAlive() && count[i][j] == 3){
+                world[i][j] = Cell(&root);
             }
-            active |= origin != world[i][j];
         }
     }
-}
-
-int main(){
-    Conway game(180, 50);
-    game.init();
-    game.run();
-    return 0;
 }
