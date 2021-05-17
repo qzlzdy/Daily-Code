@@ -6,36 +6,45 @@
 
 using namespace std;
 
-Cell::Cell(){
-    alive = false;
-    identifier = "";
-    parent = nullptr;
-}
-
-Cell::Cell(Cell *parent){
-    alive = true;
+Cell::Cell(unsigned long long bt){
+    ++birthCount;
+    birthTime = bt;
     random_device rd;
     mt19937 gen(rd());
-    uniform_int_distribution<> dis(33, 126);
+    uniform_int_distribution<> idDis(33, 126);
     ostringstream buffer;
     for(int i = 0; i < 16; ++i){
-        buffer << (char)dis(gen);
+        buffer << (char)idDis(gen);
     }
     identifier = buffer.str();
-    this->parent = parent->getParent();
+    uniform_int_distribution<> genesDis(0, 255);
+    unsigned char genes = (unsigned char)genesDis(gen);
+    DNA = vector<unsigned char>(16, genes);
+}
+
+Cell::~Cell(){
+    ++deathCount;
+}
+
+unsigned long long Cell::getBirthCount(){
+    return birthCount;
+}
+
+unsigned long long Cell::getDeathCount(){
+    return deathCount;
 }
 
 string Cell::getIdentifier() const{
     return identifier;
 }
 
-Cell *Cell::getParent(){
-    // if(parent != this){
-    //     parent = parent->getParent();
-    // }
-    return parent;
+unsigned long long Cell::getBirthTime() const{
+    return birthTime;
 }
 
-bool Cell::isAlive() const{
-    return alive;
+vector<unsigned char> Cell::getDNA() const{
+    return DNA;
 }
+
+unsigned long long Cell::birthCount = 0;
+unsigned long long Cell::deathCount = 0;
