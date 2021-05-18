@@ -23,6 +23,15 @@ void Conway::step(){
 
 }
 
+ostream &operator<<(ostream &out, Conway &conway){
+    for(auto &row : conway.world){
+        for(auto &cell : row){
+            cout << "+ "[cell == nullptr];
+        }
+    }
+    return out;
+}
+
 unsigned long long Conway::time = 0;
 
 void Conway::init(){
