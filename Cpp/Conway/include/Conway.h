@@ -15,6 +15,9 @@ public:
 private:
     static unsigned long long time;
     void init();
+    bool isValid(unsigned x, unsigned y);
+    unsigned width;
+    unsigned height;
     std::vector<std::vector<Cell *> > world;
 };
 
