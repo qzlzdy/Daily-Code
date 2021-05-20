@@ -1,8 +1,8 @@
-精二：55
+精二：53--50
 
-六十：28
+六十：28--38
 
-满级：26
+满级：26--26
 
 专三：14
 
@@ -15,14 +15,14 @@
 | 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 凯尔希 |对BOSS | $ \surd $ |  |  |  |  |  |
+| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  |  |  |  |
 | 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 风笛 | 六星 |  |  |  |  |  |  |
+| 风笛 | 六星 | $ \surd $ |  |  |  |  |  |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
@@ -36,10 +36,6 @@
 | 森蚺 | 六星 | $ \surd $ |  |  |  |  |  |
 | 闪灵 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
-| 拉普兰德 | 强力干员 | $ \surd $ | $ \surd $ |  |  |  |$\empty$|
-| 狮蝎 | 强力干员 | $ \surd $ |  | | | |$\empty$|
-| 红 | 强力干员 | $ \surd $ |  | | |  |$\empty$|
-| 临光 | 强力干员 |  |  | | |  |$\empty$|
 | 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $\empty$ | $ \empty $ | $\empty$ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $\empty$ |
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $\empty$ |
