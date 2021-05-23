@@ -1,6 +1,6 @@
 精二：53--50
 
-六十：28--38
+六十：30--38
 
 满级：26--26
 
@@ -22,7 +22,7 @@
 | 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 风笛 | 六星 | $ \surd $ |  |  |  |  |  |
+| 风笛 | 六星 | $ \surd $ | $ \surd $ |  |  |  |  |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
