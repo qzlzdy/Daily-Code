@@ -1,0 +1,15 @@
+{"name": "AvroVector", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "default": [], "items": [
+    {"name": "AvroScalar", "type": "record", "fields": [{"name": "intern", "type": ["null", "boolean", "int", "long", "float", "double", "string"]}]},
+    "AvroVector",
+    {"name": "AvroTable", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "default": [], "items": [
+        {"name": "cbool", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "boolean"]}}]},
+        {"name": "cint", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "int"]}}]},
+        {"name": "clong", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "long"]}}]},
+        {"name": "cfloat", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "float"]}}]},
+        {"name": "cdouble", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "double"]}}]},
+        {"name": "cstring", "type": "record", "fields": [{"name": "intern", "type": {"type": "array", "items": ["null", "string"]}}]}]}}
+    ]},
+    {"name": "AvroDictionary", "type": "record", "fields": [{"name": "intern", "type": {
+        "type": "map", "values": ["AvroScalar", "AvroVector", "AvroTable", "AvroDictionary"]
+    }}]}]}}]
+}
