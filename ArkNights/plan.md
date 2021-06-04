@@ -1,8 +1,8 @@
 精二：54--50
 
-六十：33--38
+六十：35--38
 
-满级：26--26
+满级：28--26
 
 专三：14
 
@@ -41,8 +41,8 @@
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 普罗旺斯 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 守林人 | 成就 | $ \surd $ | $ \surd $ |           |  |  | $ \empty $ |
-| 玫兰莎 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 炎熔 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
+| 玫兰莎 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
+| 炎熔 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 红豆 | 成就 | | | | | | $ \empty $ |
 | 远山 | 成就 | | | | | | $ \empty $ |
 | 梅尔 | 成就 | | | | | | $ \empty $ |
