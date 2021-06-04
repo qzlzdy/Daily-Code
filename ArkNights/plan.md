@@ -1,6 +1,6 @@
 精二：54--50
 
-六十：32--38
+六十：33--38
 
 满级：26--26
 
@@ -40,7 +40,7 @@
 | 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $\empty$ |
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $\empty$ |
 | 普罗旺斯 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $\empty$ |
-| 守林人 | 成就 | $ \surd $ |            |           |  |  | $\empty$ |
+| 守林人 | 成就 | $ \surd $ | $ \surd $ |           |  |  | $\empty$ |
 | 玫兰莎 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
 | 炎熔 | 成就 | $ \empty $ |  | | $ \empty $ | $ \empty $ | $ \empty $ |
 | 红豆 | 成就 | | | | | | $\empty$ |
