@@ -8,11 +8,7 @@ using namespace std;
 namespace fs = filesystem;
 
 int main(){
-#if define LINUX
-    fs::path root = "/run/media/qzlzdy/Data/qzlzdy/welfare";
-#else /* WINDOWS */
     fs::path root = "D:\\qzlzdy\\welfare";
-#endif
     map<int, string> suffix;
     auto getId = [](const string &name){
         return stoi(name.substr(1));
