@@ -4,6 +4,8 @@
 #include <map>
 #include <string>
 
+#include "sqlite3.h"
+
 using namespace std;
 namespace fs = filesystem;
 
