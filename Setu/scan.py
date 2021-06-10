@@ -6,7 +6,7 @@ from torchvision import transforms
 
 db = sqlite3.connect('Setu.db')
 
-model = torch.hub.load('RF5/danbooru-pretrained', 'resnet50')
+model = torch.hub.load('~/Python/RF5_danbooru-pretrained_master', 'resnet50', source='local')
 model.eval()
 
 preprocess = transform.Compose([
@@ -16,7 +16,7 @@ preprocess = transform.Compose([
 ])
 
 def tag(path):
-    input_image = Image.open(path)
+    input_image = Image.open(path).convert('RGB')
     input_tensor = preprocess(input_image)
     input_batch = input_tensor.unsqueeze(0)
 
@@ -37,5 +37,4 @@ def tag(path):
     else:
         db.commit()
 
-
-
+db.close()
