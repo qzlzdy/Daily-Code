@@ -12,7 +12,7 @@ endif()
 add_compile_options(-std=c++11 -fPIC ${platform_macro} -Wall -g)
 
 include_directories(../include include)
-link_directories(${CMAKE_BINARY_DIR} lib)
+link_directories(${CMAKE_BINARY_DIR} ${CMAKE_SOURCE_DIR}/lib)
 aux_source_directory(src PluginSrc)
 
 add_library(PluginRabbitMQ SHARED ${PluginSrc})
