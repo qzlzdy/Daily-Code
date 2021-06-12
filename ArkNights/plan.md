@@ -1,4 +1,4 @@
-精二：55--50
+精二：56--50
 
 六十：36--38
 
@@ -44,7 +44,7 @@
 | 玫兰莎 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 炎熔 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 红豆 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
-| 远山 | 成就 | | | | | | $ \empty $ |
+| 远山 | 成就 | $ \surd $ | | | | | $ \empty $ |
 | 梅尔 | 成就 | | | | | | $ \empty $ |
 | 华法琳 | 成就 | | | | | | $ \empty $ |
 | 调香师 | 成就 | $ \surd $ |  | | | | $ \empty $ |
