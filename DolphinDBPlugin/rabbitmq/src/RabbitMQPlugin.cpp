@@ -2,11 +2,11 @@
 
 #include "amqpcpp.h"
 #include "amqpcpp/libevent.h"
-#include "ConstantMarshall.h"
 #include "event2/event.h"
 #include "EventLoop.h"
 #include "dolphindb.pb.h"
 #include "ScalarImp.h"
+#include "ConstantMarshall.h"
 
 #include <cassert>
 #include <sstream>
@@ -126,8 +126,11 @@ static int parseFlags(const VectorSP &vec){
         else if(flag == "exclusive"){
             flags |= AMQP::exclusive;
         }
+        else if(flag == "internal"){
+            flags |= AMQP::internal;
+        }
         else{
-            throw IllegalArgumentException(__FUNCTION__, "flags must be a string");
+            throw IllegalArgumentException(__FUNCTION__, "unknown flag '" + flag + "'");
         }
     }
     return flags;
@@ -168,6 +171,75 @@ ConstantSP declareQueue(Heap *heap, vector<ConstantSP> &arguments){
     }
     else{
         channel->declareQueue(name, flags).onSuccess(onDeclareSuccess).onError(onDeclareError);
+    }
+
+    return new Void();
+}
+
+static AMQP::ExchangeType parseType(string type){
+    if(type == "fanout"){
+        return AMQP::ExchangeType::fanout;
+    }
+    else if(type == "direct"){
+        return AMQP::ExchangeType::direct;
+    }
+    else if(type == "topic"){
+        return AMQP::ExchangeType::topic;
+    }
+    else if(type == "headers"){
+        return AMQP::ExchangeType::headers;
+    }
+    else if(type == "consistent_hash"){
+        return AMQP::ExchangeType::consistent_hash;
+    }
+    else{
+        throw IllegalArgumentException(__FUNCTION__, "unknown type '" + type + "'");
+    }
+}
+
+ConstantSP declareExchange(Heap *heap, vector<ConstantSP> &arguments){
+    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ channel handle"){
+        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
+    }
+    AMQP::TcpChannel *channel = reinterpret_cast<AMQP::TcpChannel *>(arguments[0]->getLong());
+    
+    string name = "";
+    if(arguments.size() > 1 && !arguments[1]->isNull()){
+        if(arguments[1]->getType() != DT_STRING){
+            throw IllegalArgumentException(__FUNCTION__, "name must be a string");
+        }
+        name = arguments[1]->getString();
+    }
+
+    AMQP::ExchangeType type = AMQP::ExchangeType::fanout;
+    if(arguments.size() > 2 && !arguments[2]->isNull()){
+        if(arguments[2]->getType() != DT_STRING){
+            throw IllegalArgumentException(__FUNCTION__, "type must be a string");
+        }
+        type = parseType(arguments[2]->getString());
+    }
+
+    int flags = 0;
+    if(arguments.size() > 3 && !arguments[3]->isNull()){
+        if(arguments[3]->getType() != DT_STRING){
+            throw IllegalArgumentException(__FUNCTION__, "flags must be a string vector");
+        }
+        flags = parseFlags(arguments[3]);
+    }
+
+    auto onDeclareSuccess = [](){
+        cout << "Exchange declare succeed" << endl;
+    };
+
+    auto onDeclareError = [](const char *message){
+        cerr << "Exchange declare failed because " << message << endl;
+    };
+
+    if(name == ""){
+        channel->declareExchange(type, flags).onSuccess(onDeclareSuccess).onError(onDeclareError);
+    }
+    else{
+        channel->declareExchange(name, type, flags).onSuccess(onDeclareSuccess).onError(onDeclareError);
     }
 
     return new Void();
@@ -295,10 +367,6 @@ static void publish(AMQP::TcpChannel *channel, const string &exchange, const str
     else if(format == "protobuf"){
         data = protobufSerializeToString(message);
     }
-    else if(format == "avro"){
-        // TODO avro format
-        throw RuntimeException("not support yet");
-    }
     else{
         throw RuntimeException("unsupport format: " + format);
     }
@@ -398,6 +466,16 @@ static DictionarySP unserialize(const ddbprotobuf::Dictionary &pbDict){
         ddbDictionary->set(keys->get(i), values->get(i));
     }
     return ddbDictionary;
+}
+
+ConstantSP consume(Heap *heap, vector<ConstantSP> &arguments){
+    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ channel handle"){
+        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
+    }
+    // AMQP::TcpChannel *channel = reinterpret_cast<AMQP::TcpChannel *>(arguments[0]->getLong());
+    
+    // channel->consume();
+    return new Void();
 }
 
 ConstantSP test(Heap *heap, vector<ConstantSP> &arguments){
