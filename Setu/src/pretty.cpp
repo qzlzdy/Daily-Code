@@ -1,16 +1,13 @@
 #include <filesystem>
 #include <fstream>
-#include <iostream>
 #include <map>
 #include <string>
-
-#include "sqlite3.h"
 
 using namespace std;
 namespace fs = filesystem;
 
 int main(){
-    fs::path root = "D:\\qzlzdy\\welfare";
+    fs::path root = "D:\\qzlzdy\\setu";
     map<int, string> suffix;
     auto getId = [](const string &name){
         return stoi(name.substr(1));
@@ -33,21 +30,45 @@ int main(){
             }
         }
     }
-    ofstream ChangeLog("CHANGELOG.txt");
-    ChangeLog << "[INFO] Image Number: " << count << endl;
+    int prevCount;
+    ifstream prevCountFile(".prevCount");
+    prevCountFile >> prevCount;
+    prevCountFile.close();
+    
+    ofstream currCountFile(".prevCount");
+    currCountFile << count;
+    currCountFile.close();
+    
+    ofstream ChangeLog("update.sql");
     int cursor = 1;
     while(last > count){
         while(suffix.find(cursor) != suffix.end()){
+            if(currsor > prevCount){
+                ChangeLog << "INSERT INTO Illustrations (id, extension) "
+                          << "VALUES (" << cursor << ", " << suffix[last] << ");" << endl;
+            }
             ++cursor;
         }
         fs::path old_p = root / fs::path(getName(last) + suffix[last]);
         fs::path new_p = root / fs::path(getName(cursor) + suffix[last]);
         fs::rename(old_p, new_p);
-        ChangeLog << "[INFO] Rename " << old_p.string() << " to " << new_p.string() << endl;
+        if(cursor > prevCount){
+            ChangeLog << "INSERT INTO Illustrations (id, extension) "
+                      << "VALUES (" << cursor << ", " << suffix[last] << ");" << endl;
+        }
+        else{
+            ChangeLog << "UDPATE Illustrations "
+                      << "SET extension = '" << suffix[last] << "' "
+                      << "WHERE id = " << cursor << ";" << endl;
+        }
         ++cursor;
         do{
             --last;
         }while(suffix.find(last) == suffix.end());
+    }
+    while(cursor < count){
+        ChangeLog << "INSERT INTO Illustrations (id, extension) "
+                  << "VALUES (" << cursor << ", " << suffix[cursor] << ");" << endl;
     }
     ChangeLog.close();
     return 0;

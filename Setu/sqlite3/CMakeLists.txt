@@ -1,6 +1,6 @@
-add_library(sqlite3 sqlite3.c)
+add_library(sqlite3 SHARED sqlite3.c)
 
-add_compile_options(-DSQLITE_ENABLE_FTS5)
+add_compile_definitions(SQLITE_THREADSAFE=2)
 
 target_link_libraries(sqlite3 pthread dl m)
 

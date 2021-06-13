@@ -10,6 +10,6 @@ add_compile_options(-fPIC -Wall)
 
 add_subdirectory(sqlite3)
 
-add_executable(pretty src/pretty.cpp)
+add_executable(scan src/scan.cpp)
 
-target_link_libraries(pretty sqlite3)
+target_link_libraries(scan sqlite3)
