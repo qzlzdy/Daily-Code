@@ -3,6 +3,8 @@
 #include <map>
 #include <string>
 
+#include <iostream>
+
 using namespace std;
 namespace fs = filesystem;
 
@@ -24,7 +26,7 @@ int main(){
         if(extension != ".gif" && extension != ".mp4"){
             ++count;
             int id = getId(stem.string());
-            suffix[id] = extension.string();
+            suffix[id] = extension.string().substr(1);
             if(id > last){
                 last = id;
             }
@@ -43,7 +45,7 @@ int main(){
     int cursor = 1;
     while(last > count){
         while(suffix.find(cursor) != suffix.end()){
-            if(currsor > prevCount){
+            if(cursor > prevCount){
                 ChangeLog << "INSERT INTO Illustrations (id, extension) "
                           << "VALUES (" << cursor << ", " << suffix[last] << ");" << endl;
             }
@@ -66,9 +68,11 @@ int main(){
             --last;
         }while(suffix.find(last) == suffix.end());
     }
+    cursor = cursor > prevCount ? cursor : prevCount + 1;
     while(cursor < count){
         ChangeLog << "INSERT INTO Illustrations (id, extension) "
                   << "VALUES (" << cursor << ", " << suffix[cursor] << ");" << endl;
+        ++cursor;
     }
     ChangeLog.close();
     return 0;
