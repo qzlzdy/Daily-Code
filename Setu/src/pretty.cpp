@@ -45,7 +45,7 @@ int main(){
         while(suffix.find(cursor) != suffix.end()){
             if(cursor > prevCount){
                 ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                          << "VALUES (" << cursor << ", " << suffix[last] << ");" << endl;
+                          << "VALUES (" << cursor << ", '" << suffix[last] << "');" << endl;
             }
             ++cursor;
         }
@@ -54,7 +54,7 @@ int main(){
         fs::rename(old_p, new_p);
         if(cursor > prevCount){
             ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                      << "VALUES (" << cursor << ", " << suffix[last] << ");" << endl;
+                      << "VALUES (" << cursor << ", '" << suffix[last] << "');" << endl;
         }
         else{
             ChangeLog << "UPDATE Illustrations "
@@ -69,7 +69,7 @@ int main(){
     cursor = cursor > prevCount ? cursor : prevCount + 1;
     while(cursor <= count){
         ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                  << "VALUES (" << cursor << ", " << suffix[cursor] << ");" << endl;
+                  << "VALUES (" << cursor << ", '" << suffix[cursor] << "');" << endl;
         ++cursor;
     }
     ChangeLog.close();
