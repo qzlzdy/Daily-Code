@@ -49,8 +49,8 @@ int main(){
             }
             ++cursor;
         }
-        fs::path old_p = root / fs::path(getName(last) + suffix[last]);
-        fs::path new_p = root / fs::path(getName(cursor) + suffix[last]);
+        fs::path old_p = root / fs::path(getName(last) + "." + suffix[last]);
+        fs::path new_p = root / fs::path(getName(cursor) + "." + suffix[last]);
         fs::rename(old_p, new_p);
         if(cursor > prevCount){
             ChangeLog << "INSERT INTO Illustrations (id, extension) "
@@ -67,7 +67,7 @@ int main(){
         }while(suffix.find(last) == suffix.end());
     }
     cursor = cursor > prevCount ? cursor : prevCount + 1;
-    while(cursor < count){
+    while(cursor <= count){
         ChangeLog << "INSERT INTO Illustrations (id, extension) "
                   << "VALUES (" << cursor << ", " << suffix[cursor] << ");" << endl;
         ++cursor;
