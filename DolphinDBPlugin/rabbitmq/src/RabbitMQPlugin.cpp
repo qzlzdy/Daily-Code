@@ -468,47 +468,7 @@ static DictionarySP unserialize(const ddbprotobuf::Dictionary &pbDict){
     return ddbDictionary;
 }
 
-ConstantSP consume(Heap *heap, vector<ConstantSP> &arguments){
-    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ channel handle"){
-        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
-    }
-    // AMQP::TcpChannel *channel = reinterpret_cast<AMQP::TcpChannel *>(arguments[0]->getLong());
-    
-    // channel->consume();
-    return new Void();
-}
-
-ConstantSP test(Heap *heap, vector<ConstantSP> &arguments){
-    string data;
-    ddbprotobuf::DolphinMessage ddbMessage;
-    ddbprotobuf::Scalar *pbScalar;
-    ddbprotobuf::Vector *pbVector;
-    ddbprotobuf::Table *pbTable;
-    ddbprotobuf::Dictionary *pbDictionary;
-    switch(arguments[0]->getForm()){
-    case DF_SCALAR:
-        pbScalar = new ddbprotobuf::Scalar(protobufSerialize(arguments[0]));
-        ddbMessage.set_allocated_df_scalar(pbScalar);
-        break;
-    case DF_VECTOR:
-        pbVector = new ddbprotobuf::Vector(protobufSerialize(static_cast<VectorSP>(arguments[0])));
-        ddbMessage.set_allocated_df_vector(pbVector);
-        break;
-    case DF_TABLE:
-        pbTable = new ddbprotobuf::Table(protobufSerialize(static_cast<TableSP>(arguments[0])));
-        ddbMessage.set_allocated_df_table(pbTable);
-        break;
-    case DF_DICTIONARY:
-        pbDictionary = new ddbprotobuf::Dictionary(protobufSerialize(static_cast<DictionarySP>(arguments[0])));
-        ddbMessage.set_allocated_df_dictionary(pbDictionary);
-        break;
-    default:
-        throw RuntimeException("can not serialize " + Util::getDataFormString(arguments[0]->getForm()) + " form");
-    }
-    ddbMessage.SerializeToString(&data);
-
-    cout << data << endl;
-
+static ConstantSP test(const string &data){
     ddbprotobuf::DolphinMessage recv;
     recv.ParseFromString(data);
     switch(recv.form_case()){
@@ -521,6 +481,46 @@ ConstantSP test(Heap *heap, vector<ConstantSP> &arguments){
     case ddbprotobuf::DolphinMessage::kDfDictionaryFieldNumber:
         return unserialize(recv.df_dictionary());
     default:
-        throw RuntimeException("known field number in DolphinMessage");
+        throw RuntimeException("unknown field number in DolphinMessage");
     }
 }
+
+AMQP::TcpChannel *ch;
+TableSP table;
+ConstantSP consume(Heap *heap, vector<ConstantSP> &arguments){
+    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ connection handle"){
+        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
+    }
+    AMQP::TcpConnection *connection = reinterpret_cast<AMQP::TcpConnection *>(arguments[0]->getLong());
+    ch = new AMQP::TcpChannel(connection);
+
+    table = arguments[1];
+
+    auto startCb = [](const string &consumertag){
+        cout << "consume operation started: " << consumertag << endl;
+    };
+
+    auto errorCb = [](const char *message){
+        cout << "consume operation failed: " << message << endl;
+    };
+
+    auto messageCb = [](const AMQP::Message &message, uint64_t deliveryTag, bool redelivered){
+        string data(message.body(), message.bodySize());
+        TableSP X = test(data);
+        vector<ConstantSP> V;
+        for(INDEX i = 0; i < X->columns(); ++i){
+            V.push_back(X->getColumn(i));
+        }
+        INDEX insertRow;
+        string errMsg;
+        table->append(V, insertRow, errMsg);
+        cerr << errMsg << endl;
+
+        ch->ack(deliveryTag); 
+    };
+    
+    ch->consume("test", "xxx").onReceived(messageCb).onSuccess(startCb).onError(errorCb);
+    return new Void();
+}
+
+#include <utili

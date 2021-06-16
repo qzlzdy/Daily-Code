@@ -11,6 +11,7 @@ extern "C" ConstantSP channel(Heap *heap, std::vector<ConstantSP> &arguments);
 extern "C" ConstantSP declareQueue(Heap *heap, std::vector<ConstantSP> &arguments);
 extern "C" ConstantSP declareExchange(Heap *heap, std::vector<ConstantSP> &arguments);
 extern "C" ConstantSP publish(Heap *heap, std::vector<ConstantSP> &arguments);
-// extern "C" ConstantSP consume(Heap *heap, std::vector<ConstantSP> &arguments);
+
+extern "C" ConstantSP consume(Heap *heap, std::vector<ConstantSP> &arguments);
 
 #endif
