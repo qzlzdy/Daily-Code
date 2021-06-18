@@ -196,7 +196,7 @@ publish(channel, exchange, routingKey, message, [format＝'default'])
 #### 3.5.4 例子
 
 ```bash
-rabbitmq::publish(ch, "", "test", "Hello World")
+rabbitmq::publish(ch, '', 'test', 'Hello World')
 ```
 
 ### 3.6 declareExchange
@@ -225,5 +225,40 @@ declareExchange(channel, [name], [type='fanout'], [flags])
 
 ```bash
 rabbitmq::declareExchange(ch, 'test-exchange', 'fanout', ['autodelete'])
+```
+
+### 3.7 consume
+
+#### 3.7.1 语法
+
+```bash
+consume(channel, queue, handle, [format], [tag], [flags])
+```
+
+#### 3.7.2 参数
+
+`ch`：表示Channel的对象
+
+`queue`：订阅的队列名称，字符串标量
+
+`handle`：处理订阅数据的handle，能接受一个参数的函数
+
+`format`：订阅数据的格式，字符串标量，取值范围同`publish`
+
+`tag`：消费者标识，字符串标量
+
+`flags`：字符串向量，可为空。支持的取值：`nolocal`，`noack`，`exclusive`
+
+#### 3.7.3 详情
+
+订阅队列
+
+#### 3.7.4 例子
+
+```bash
+def handle(msg){
+	# do nothing
+}
+consume(ch, 'test', handle)
 ```
 

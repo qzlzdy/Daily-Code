@@ -129,6 +129,12 @@ static int parseFlags(const VectorSP &vec){
         else if(flag == "internal"){
             flags |= AMQP::internal;
         }
+        else if(flag == "nolocal"){
+            flags |= AMQP::nolocal;
+        }
+        else if(flag == "noack"){
+            flags |= AMQP::noack;
+        }
         else{
             throw IllegalArgumentException(__FUNCTION__, "unknown flag '" + flag + "'");
         }
@@ -468,7 +474,7 @@ static DictionarySP unserialize(const ddbprotobuf::Dictionary &pbDict){
     return ddbDictionary;
 }
 
-static ConstantSP test(const string &data){
+static ConstantSP protobufUnserializeFromString(const string &data){
     ddbprotobuf::DolphinMessage recv;
     recv.ParseFromString(data);
     switch(recv.form_case()){
@@ -485,42 +491,98 @@ static ConstantSP test(const string &data){
     }
 }
 
-AMQP::TcpChannel *ch;
-TableSP table;
-ConstantSP consume(Heap *heap, vector<ConstantSP> &arguments){
-    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ connection handle"){
-        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
-    }
-    AMQP::TcpConnection *connection = reinterpret_cast<AMQP::TcpConnection *>(arguments[0]->getLong());
-    ch = new AMQP::TcpChannel(connection);
-
-    table = arguments[1];
-
+static void consume(Heap *heap, AMQP::TcpChannel *channel, const string &queue, FunctionDefSP &handle,
+                    const string &format, const string &tag, int flags){
     auto startCb = [](const string &consumertag){
         cout << "consume operation started: " << consumertag << endl;
     };
 
     auto errorCb = [](const char *message){
-        cout << "consume operation failed: " << message << endl;
+        cerr << "consume operation failed: " << message << endl;
     };
 
-    auto messageCb = [](const AMQP::Message &message, uint64_t deliveryTag, bool redelivered){
+    auto messageCb = [heap, channel, handle, format](const AMQP::Message &message, uint64_t deliveryTag, bool redelivered){
         string data(message.body(), message.bodySize());
-        TableSP X = test(data);
-        vector<ConstantSP> V;
-        for(INDEX i = 0; i < X->columns(); ++i){
-            V.push_back(X->getColumn(i));
+        if(format == "default"){
+            DataInputStreamSP in = new DataInputStream(data.data(), data.length());
+            ConstantUnmarshallFactory factory(in, nullptr);
+            short flag;
+            IO_ERR ret = in->readShort(flag);
+            auto data_form = static_cast<DATA_FORM>(flag >> 8);
+            ConstantUnmarshall *unmarshall = factory.getConstantUnmarshall(data_form);
+            if(unmarshall == nullptr){
+                throw RuntimeException("failed to parse the incoming object");
+            }
+            if(!unmarshall->start(flag, true, ret)){
+                unmarshall->reset();
+                throw IOException("failed to parse the incoming object");
+            }
+            vector<ConstantSP> args = {unmarshall->getConstant()};
+            handle->call(heap, args);
         }
-        INDEX insertRow;
-        string errMsg;
-        table->append(V, insertRow, errMsg);
-        cerr << errMsg << endl;
-
-        ch->ack(deliveryTag); 
+        else if(format == "bytestream"){
+            vector<ConstantSP> args = {new String(data)};
+            handle->call(heap, args);
+        }
+        else if(format == "protobuf"){
+            ConstantSP msg = protobufUnserializeFromString(data);
+            vector<ConstantSP> args = {msg};
+            handle->call(heap, args);
+        }
+        else{
+            throw RuntimeException("unsupported format");
+        }
+        channel->ack(deliveryTag);
     };
     
-    ch->consume("test", "xxx").onReceived(messageCb).onSuccess(startCb).onError(errorCb);
-    return new Void();
+    if(tag == ""){
+        channel->consume(queue, flags).onReceived(messageCb).onSuccess(startCb).onError(errorCb);
+    }
+    else{
+        channel->consume(queue, tag, flags).onReceived(messageCb).onSuccess(startCb).onError(errorCb);
+    }
 }
 
-#include <utili
+ConstantSP consume(Heap *heap, vector<ConstantSP> &arguments){
+    if(arguments[0]->getType() != DT_RESOURCE || arguments[0]->getString() != "RabbitMQ channel handle"){
+        throw IllegalArgumentException(__FUNCTION__, "channel must be a RabbitMQ connection channel handle");
+    }
+    AMQP::TcpChannel *channel = reinterpret_cast<AMQP::TcpChannel *>(arguments[0]->getLong());
+
+    if(arguments[1]->getType() != DT_STRING){
+        throw IllegalArgumentException(__FUNCTION__, "queue must be a string");
+    }
+    string queue = arguments[1]->getString();
+
+    if(arguments[2]->getType() != DT_FUNCTIONDEF){
+        throw IllegalArgumentException(__FUNCTION__, "handle must be a function which can accept one parameter");
+    }
+    FunctionDefSP handle = arguments[2];
+
+    string format = "default";
+    if(arguments.size() > 3 && !arguments[3]->isNull()){
+        if(arguments[3]->getType() != DT_STRING){
+            throw IllegalArgumentException(__FUNCTION__, "format must be a string");
+        }
+        format = arguments[3]->getString();
+    }
+
+    string tag = "";
+    if(arguments.size() > 4 && !arguments[4]->isNull()){
+        if(arguments[4]->getType() != DT_STRING){
+            throw IllegalArgumentException(__FUNCTION__, "tag must be a string");
+        }
+        tag = arguments[4]->getString();
+    }
+
+    int flags = 0;
+    if(arguments.size() > 5 && !arguments[5]->isNull()){
+        if(arguments[5]->getForm() != DF_VECTOR){
+            throw IllegalArgumentException(__FUNCTION__, "flags must be a string vector");
+        }
+        flags = parseFlags(arguments[5]);
+    }
+
+    consume(heap, channel, queue, handle, format, tag, flags);
+    return new Void();
+}
