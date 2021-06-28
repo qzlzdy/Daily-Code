@@ -60,6 +60,8 @@ int main(){
             ChangeLog << "UPDATE Illustrations "
                       << "SET extension = '" << suffix[last] << "' "
                       << "WHERE id = " << cursor << ";" << endl;
+            ChangeLog << "DELETE FROM have "
+                      << "WHERE illust_id = " << cursor << ";" << endl;
         }
         ++cursor;
         do{
