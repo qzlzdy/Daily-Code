@@ -1,6 +1,6 @@
 精二：58--51(+7)
 
-六十：38--39(-1)
+六十：39--39(0)
 
 满级：28--27(+1)
 
@@ -15,7 +15,7 @@
 | 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  |  |  |  |
+| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  |  |  | $ \surd $ |
 | 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
@@ -46,7 +46,7 @@
 | 红豆 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 远山 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 梅尔 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
-| 华法琳 | 成就 | $ \surd $ |  | | | | $ \empty $ |
+| 华法琳 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 调香师 | 成就 | $ \surd $ |  | | | | $ \empty $ |
 | 雷蛇 | 成就 |  |  | | | | $ \empty $ |
 | 因陀罗 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
