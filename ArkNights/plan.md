@@ -1,10 +1,10 @@
-精二：59--51(+8)
+精二：59--52(+7)
 
-六十：39--39(0)
+六十：40--40(0)
 
-满级：29--27(+2)
+满级：29--28(+1)
 
-专三：15
+专三：16
 
 | 干员 | 备注 | 精二 | 六十 | 满级 | 1-专三 | 2-专三 | 3-专三 |
 | ---- | ---- | ------ | ------ | ------ | ---- | ---- | ---- |
@@ -15,7 +15,7 @@
 | 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  |  |  | $ \surd $ |
+| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
 | 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
@@ -47,7 +47,7 @@
 | 远山 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 梅尔 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 华法琳 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
-| 调香师 | 成就 | $ \surd $ |  | | | | $ \empty $ |
+| 调香师 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 雷蛇 | 成就 |  |  | | | | $ \empty $ |
 | 因陀罗 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 铸铁 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
