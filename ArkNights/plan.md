@@ -2,7 +2,7 @@
 
 六十：41--41(0)
 
-满级：29--29(0)
+满级：30--29(+1)
 
 专三：17
 
@@ -25,7 +25,7 @@
 | 风笛 | 六星 | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
+| 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  | $ \surd $ |  |
 | 莫斯提马 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 麦哲伦 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
@@ -62,6 +62,8 @@
 | 杜林 | 成就 | $ \empty $ | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 坚雷 | 成就     | $ \surd $ |  |  |  |  | $ \empty $ |
 | 砾 | 成就     | $ \surd $ |  | | | | $ \empty $ |
+| 芬 | 成就 | $ \empty $ | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
+| 苏苏洛 | 成就 |  |  | |  |  | $ \empty $ |
 | 炎狱炎熔 | 异格任务 | | | | | | $ \empty $ |
 | 火神 | 公开招募 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 嘉维卡 | 信用商店 | $ \surd $ |  |  |  |  | $ \empty $ |

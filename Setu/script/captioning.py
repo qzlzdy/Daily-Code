@@ -21,7 +21,15 @@ def getPath(illust_id):
     return path.format(id=illust_id, ext=cur.fetchone()[0])
 
 def captioning(illust_id):
-    input_image = Image.open(getPath(illust_id)).convert('RGB')
+    try:
+        input_image = Image.open(getPath(illust_id)).convert('RGB')
+    except:
+        ext = 'png'
+        if getPath(illust_id)[-3:] == 'png':
+            ext = 'jpg'
+        db.execute("UPDATE Illustrations SET extension = ? WHERE id = ?", (ext, illust_id))
+        db.commit()
+        input_image = Image.open(getPath(illust_id)).convert('RGB')
     input_tensor = preprocess(input_image)
     input_batch = input_tensor.unsqueeze(0)
 
@@ -37,8 +45,10 @@ def captioning(illust_id):
             (int(illust_id), int(i))
         )
     db.commit()
-        
-for i in range(101, 201):
+
+#l = [935, 2114, 2115, 2116, 2131, 15281, 17712]
+l = range(19085, 19426)
+for i in l:
     print('captioning illustration', i)
     captioning(i)
 
