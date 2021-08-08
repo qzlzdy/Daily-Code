@@ -1,16 +1,16 @@
 #include <filesystem>
+#include <fstream>
 #include <iostream>
 #include <string>
 
 using namespace std;
 namespace fs = filesystem;
 
-int main(int argc, char **argv){
-    if(argc != 2){
-        cerr << "Usage: " << argv[0] << " min_code" << endl;
-        return 1;
-    }
-    int idx = atoi(argv[1]);
+int main(){
+    int idx;
+    ifstream CountFile(".prevCount");
+    CountFile >> idx;
+    CountFile.close();
     fs::path root = "D:\\qzlzdy\\setu";
     for(auto &file : fs::directory_iterator(root)){
         fs::path filename = file.path().filename();
@@ -24,8 +24,8 @@ int main(int argc, char **argv){
         default:{
             fs::path oldname = root / filename;
             fs::path newname =
-                root / fs::path("H" + to_string(idx++) + extension);
-            // fs::rename(oldname, newname);
+                root / fs::path("H" + to_string(++idx) + extension);
+            fs::rename(oldname, newname);
             cout << "rename " << oldname.string()
                  << " as " << newname.string() << endl;
             break;
