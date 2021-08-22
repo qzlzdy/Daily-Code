@@ -36,7 +36,7 @@
 | 森蚺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |  |
 | 闪灵 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
-| 桃金娘 | 特批 | | | | $ \empty $ | $ \empty $ | $ \empty $ |
+| 桃金娘 | 特批 | | | |  |  | $ \empty $ |
 | 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
