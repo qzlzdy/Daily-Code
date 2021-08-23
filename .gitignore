@@ -6,3 +6,5 @@ build/
 
 *.db
 *.db-journal
+
+*.user
