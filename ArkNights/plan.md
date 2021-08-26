@@ -1,8 +1,8 @@
-精二：60--54(+6)
+精二：61--54(+7)
 
-六十：41--42(-1)
+六十：43--42(+1)
 
-满级：30--30(0)
+满级：31--30(+1)
 
 专三：18
 
@@ -15,7 +15,7 @@
 | 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
+| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
@@ -36,7 +36,7 @@
 | 森蚺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |  |
 | 闪灵 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
-| 桃金娘 | 特批 | | | |  |  | $ \empty $ |
+| 桃金娘 | 特批 | $ \surd $ | $ \surd $ | |  |  | $ \empty $ |
 | 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
@@ -50,7 +50,7 @@
 | 华法琳 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 调香师 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 雷蛇 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
-| 因陀罗 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
+| 因陀罗 | 成就 | $ \surd $ | $ \surd $ |  |  |  | $ \empty $ |
 | 铸铁 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 夜烟 | 成就 |  |  | | | | $ \empty $ |
 | 幽灵鲨 | 成就 | $ \surd $ |  |      |        |        | $ \empty $ |
