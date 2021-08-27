@@ -65,6 +65,9 @@
 | 砾 | 成就     | $ \surd $ |  | | | | $ \empty $ |
 | 芬 | 成就 | $ \empty $ | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 苏苏洛 | 成就 |  |  | |  |  | $ \empty $ |
+| 特米米 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
+| 阿消 | 成就 | | | | | | $ \empty $ |
+| 卡缇 | 成就 | $ \empty $ | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
 | 炎狱炎熔 | 异格任务 | | | | | | $ \empty $ |
 | 火神 | 公开招募 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 嘉维卡 | 信用商店 | $ \surd $ |  |  |  |  | $ \empty $ |
@@ -79,7 +82,6 @@
 | 苦艾 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 亚叶 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 稀音 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
-| 特米米 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 薄绿 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 鞭刃 | 活动赠送 | $ \surd $ |  |  |  |  | $ \empty $ |
 | 罗宾 | 活动赠送 |  |  | | | | $ \empty $ |
