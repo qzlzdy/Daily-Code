@@ -1,10 +1,10 @@
-精二：61--54(+7)
+精二：61--55(+6)
 
-六十：43--42(+1)
+六十：44--43(+1)
 
-满级：31--30(+1)
+满级：32--31(+1)
 
-专三：18
+专三：19
 
 | 干员 | 备注 | 精二 | 六十 | 满级 | 1-专三 | 2-专三 | 3-专三 |
 | ---- | ---- | ------ | ------ | ------ | ---- | ---- | ---- |
@@ -21,10 +21,10 @@
 | 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 风笛 | 六星 | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
+| 风笛 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 泥岩 | 六星 | $ \surd $ | $ \surd $ |  |  |  |  |
+| 泥岩 | 六星 | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
 | 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
@@ -51,7 +51,7 @@
 | 调香师 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 雷蛇 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 因陀罗 | 成就 | $ \surd $ | $ \surd $ |  |  |  | $ \empty $ |
-| 铸铁 | 成就 | $ \surd $ |  |  |  |  | $ \empty $ |
+| 铸铁 | 成就 | $ \surd $ | $ \surd $ |  |  |  | $ \empty $ |
 | 夜烟 | 成就 |  |  | | | | $ \empty $ |
 | 幽灵鲨 | 成就 | $ \surd $ |  |      |        |        | $ \empty $ |
 | 德克萨斯 | 成就 | $ \surd $ | $ \surd $ |      |        |        | $ \empty $ |
