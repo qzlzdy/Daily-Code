@@ -1,10 +1,10 @@
-精二：61--55(+6)
+精二：62--56(+6)
 
-六十：44--43(+1)
+六十：44--44(0)
 
-满级：32--31(+1)
+满级：33--32(+1)
 
-专三：19
+专三：20
 
 | 干员 | 备注 | 精二 | 六十 | 满级 | 1-专三 | 2-专三 | 3-专三 |
 | ---- | ---- | ------ | ------ | ------ | ---- | ---- | ---- |
@@ -24,7 +24,7 @@
 | 风笛 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 泥岩 | 六星 | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ | $ \surd $ |
+| 泥岩 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
@@ -36,7 +36,7 @@
 | 森蚺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |  |
 | 闪灵 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ |  |  |  |
-| 桃金娘 | 特批 | $ \surd $ | $ \surd $ | |  |  | $ \empty $ |
+| 桃金娘 | 特批 | $ \surd $ | $ \surd $ | | $ \surd $ | $ \surd $ | $ \empty $ |
 | 克罗丝 | 成就 | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 白雪 | 成就 | $ \surd $  | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
@@ -52,7 +52,7 @@
 | 雷蛇 | 成就 | $ \surd $ | $ \surd $ | | | | $ \empty $ |
 | 因陀罗 | 成就 | $ \surd $ | $ \surd $ |  |  |  | $ \empty $ |
 | 铸铁 | 成就 | $ \surd $ | $ \surd $ |  |  |  | $ \empty $ |
-| 夜烟 | 成就 |  |  | | | | $ \empty $ |
+| 夜烟 | 成就 | $ \surd $ |  | | | | $ \empty $ |
 | 幽灵鲨 | 成就 | $ \surd $ |  |      |        |        | $ \empty $ |
 | 德克萨斯 | 成就 | $ \surd $ | $ \surd $ |      |        |        | $ \empty $ |
 | 地灵 | 成就 | | | | | | $ \empty $ |
