@@ -2,28 +2,28 @@
 
 ## ArkNights
 
-明日方舟干员培养计划表
+[明日方舟](https://ak.hypergryph.com/)干员培养计划表
 
-## Cpp
+## Conway
 
-C/C++代码
+Cellular automata
 
 ## DolphinDBPlugin
 
-DolphinDB实习期间代码
+[DolphinDB](http://dolphindb.com)实习期间工作
 
 ## HDOJ
 
-HDOJ刷题代码
+[HDOJ](https://acm.hdu.edu.cn/)刷题源代码
 
 ## Homework
 
-本科期间课程设计代码
+本科期间课程设计源代码
 
 ## Java
 
-Java代码
+高中期间《算法导论》及部分Java实现源代码
 
 ## Setu
 
-色图库相关代码
+[猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库相关源代码
