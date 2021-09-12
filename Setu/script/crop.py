@@ -38,7 +38,7 @@ def detect(fileid, cascade_file = "./lbpcascade_animeface.xml"):
         i += 1
         #cv2.rectangle(image, (x, y), (x + w, y + h), (0, 0, 255), 2)
 
-l = [] + list(range(20768, 21396))
+l = [21407, 22087, 22174, 22189, 22205] + list(range(22346, 22644))
 for i in l:
     print('cropping illustration', i)
     detect(i)

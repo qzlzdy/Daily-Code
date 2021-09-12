@@ -8,5 +8,5 @@ HAVING 4 <= total AND total < 5
 ORDER BY total DESC
 
 UPDATE Categories
-SET name_cn = '绝对领域'
-WHERE id = 441
+SET name_cn = '运动内衣'
+WHERE id = 1874
