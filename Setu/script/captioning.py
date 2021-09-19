@@ -46,7 +46,7 @@ def captioning(illust_id):
         )
     db.commit()
 
-l = [21407, 22087, 22174, 22189, 22205] + list(range(22346, 22644))
+l = [1377, 4611, 4670, 15304, 21861] + list(range(22948, 23276))
 for i in l:
     print('captioning illustration', i)
     captioning(i)

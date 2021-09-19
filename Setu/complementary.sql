@@ -4,9 +4,9 @@ JOIN Categories
 ON cate_id = id
 WHERE name_cn ISNULL
 GROUP BY cate_id
-HAVING 4 <= total AND total < 5
+HAVING 4 <= total AND total < 6
 ORDER BY total DESC
 
 UPDATE Categories
-SET name_cn = '运动内衣'
-WHERE id = 1874
+SET name_cn = '立乌帽子'
+WHERE id = 1461

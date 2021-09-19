@@ -1,6 +1,6 @@
 SELECT
   COUNT(*) as Total,
-  ROUND(COUNT(*) / 226.43, 2) as Percent,
+  ROUND(COUNT(*) / 232.75, 2) as Percent,
   name_en, name_cn
 FROM have 
 JOIN Categories
