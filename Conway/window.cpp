@@ -120,13 +120,6 @@ QColor Window::getColor(size_t i, size_t j){
     if(!cell.isAlive()){
         return Qt::white;
     }
-    unsigned age = cell.getAge();
-    Cell::Gender sex = cell.getSex();
-    switch(sex){
-    case Cell::Male:
-        return QColor(0, 0, 255 - age * 12);
-    case Cell::Female:
-        return QColor(255 - age * 12, 0, 0);
-    }
-    return Qt::white;
+    auto x = cell.getCharacter();
+    return QColor((x >> 16) & 0xff, (x >> 8) & 0xff, x & 0xff);
 }

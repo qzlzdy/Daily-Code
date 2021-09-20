@@ -16,6 +16,7 @@ public:
     void birth(const Cell &Father, const Cell &Mother);
     void die();
     unsigned getAge() const;
+    uint64_t getCharacter() const;
     Gender getSex() const;
     void grow();
     bool isAlive() const;

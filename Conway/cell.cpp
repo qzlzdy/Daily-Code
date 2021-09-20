@@ -34,7 +34,8 @@ void Cell::birth(bool init){
 
 void Cell::birth(const Cell &Father, const Cell &Mother){
     birth(false);
-    Character = Father.Character ^ Mother.Character;
+    Character = Father.Character + Mother.Character;
+    Character >>= 1;
 }
 
 void Cell::die(){
@@ -43,6 +44,10 @@ void Cell::die(){
 
 unsigned Cell::getAge() const{
     return Age;
+}
+
+uint64_t Cell::getCharacter() const{
+    return Character;
 }
 
 Cell::Gender Cell::getSex() const{
