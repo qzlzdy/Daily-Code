@@ -1,35 +1,35 @@
-专九：18
+专九：19
 
-专六：3 / 24
+专六：1 / 24
 
 专三：0 / 30
 
 满级：33 / 36
 
-精二：45 / 42
+精二：44 / 42
 
 | 干员 | 备注 | 精二 | 满级 | 1-专三 | 2-专三 | 3-专三 |
 | ---- | ---- | ------ | ------ | ---- | ---- | ---- |
 | 阿米娅-Caster | 女儿 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 阿米娅-Berserker | 女儿 | $ \empty $ | $ \empty $ | $ \surd $ | $ \surd $ | $ \empty $ |
-| 伊芙利特 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 艾雅法拉 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 刻俄伯 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 煌 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 黑 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 凯尔希 |对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 塞雷娅 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 安洁莉娜 | 对BOSS | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 能天使 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 温蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 伊芙利特 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 艾雅法拉 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 刻俄伯 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 煌 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 黑 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 凯尔希 |精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 塞雷娅 | 精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 安洁莉娜 | 六星     | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 能天使 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 温蒂 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 风笛 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 泥岩 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 铃兰 | 六星 | $ \surd $ | $ \surd $ |  | $ \surd $ | $ \surd $ |
+| 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 陈 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 斯卡蒂 | 对精英 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
+| 斯卡蒂 | 六星     | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 麦哲伦 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
 | 歌蕾蒂娅 | 活动赠送 | $ \surd $ | | | | |
 | 年 | 限定 | $ \surd $ | $ \surd $ |  |  |  |
@@ -38,7 +38,6 @@
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
 | 星熊 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
 | 莫斯提马 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 桃金娘 | 特批 | $ \surd $ | | $ \surd $ | $ \surd $ | $ \empty $ |
 | 克罗丝 | 成就 | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 白雪 | 成就 | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
