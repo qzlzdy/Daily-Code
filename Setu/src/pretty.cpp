@@ -1,6 +1,8 @@
 #include <filesystem>
 #include <fstream>
+#include <iostream>
 #include <map>
+#include <sstream>
 #include <string>
 
 using namespace std;
@@ -38,14 +40,21 @@ int main(){
     ofstream currCountFile(".prevCount");
     currCountFile << count;
     currCountFile.close();
+    cout << "Total Number of Images: " << prevCount << " -> " << count << endl;
     
     ofstream ChangeLog("update.sql");
     int cursor = 1;
+    auto emitSql = [&](const string &sql){
+        ChangeLog << sql << endl;
+        cout << sql << endl;
+    };
     while(last > count){
         while(suffix.find(cursor) != suffix.end()){
             if(cursor > prevCount){
-                ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                          << "VALUES (" << cursor << ", '" << suffix[last] << "');" << endl;
+                ostringstream sql;
+                sql << "INSERT INTO Illustrations (id, extension) "
+                    << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+                emitSql(sql.str());
             }
             ++cursor;
         }
@@ -53,15 +62,21 @@ int main(){
         fs::path new_p = root / fs::path(getName(cursor) + "." + suffix[last]);
         fs::rename(old_p, new_p);
         if(cursor > prevCount){
-            ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                      << "VALUES (" << cursor << ", '" << suffix[last] << "');" << endl;
+            ostringstream sql;
+            sql << "INSERT INTO Illustrations (id, extension) "
+                << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+            emitSql(sql.str());
         }
         else{
-            ChangeLog << "UPDATE Illustrations "
-                      << "SET extension = '" << suffix[last] << "' "
-                      << "WHERE id = " << cursor << ";" << endl;
-            ChangeLog << "DELETE FROM have "
-                      << "WHERE illust_id = " << cursor << ";" << endl;
+            ostringstream sql;
+            sql << "UPDATE Illustrations "
+                << "SET extension = '" << suffix[last] << "' "
+                << "WHERE id = " << cursor << ";" << endl;
+            emitSql(sql.str());
+            sql.str("");
+            sql << "DELETE FROM have "
+                << "WHERE illust_id = " << cursor << ";" << endl;
+            emitSql(sql.str());
         }
         ++cursor;
         do{
@@ -70,8 +85,10 @@ int main(){
     }
     cursor = cursor > prevCount ? cursor : prevCount + 1;
     while(cursor <= count){
-        ChangeLog << "INSERT INTO Illustrations (id, extension) "
-                  << "VALUES (" << cursor << ", '" << suffix[cursor] << "');" << endl;
+        ostringstream sql;
+        sql << "INSERT INTO Illustrations (id, extension) "
+            << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+        emitSql(sql.str());
         ++cursor;
     }
     ChangeLog.close();
