@@ -71,11 +71,11 @@ int main(){
             ostringstream sql;
             sql << "UPDATE Illustrations "
                 << "SET extension = '" << suffix[last] << "' "
-                << "WHERE id = " << cursor << ";" << endl;
+                << "WHERE id = " << cursor << ";";
             emitSql(sql.str());
             sql.str("");
             sql << "DELETE FROM have "
-                << "WHERE illust_id = " << cursor << ";" << endl;
+                << "WHERE illust_id = " << cursor << ";";
             emitSql(sql.str());
         }
         ++cursor;
