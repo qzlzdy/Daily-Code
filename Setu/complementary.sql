@@ -8,5 +8,5 @@ HAVING 4 <= total AND total < 6
 ORDER BY total DESC
 
 UPDATE Categories
-SET name_cn = '立乌帽子'
-WHERE id = 1461
+SET name_cn = '手杖'
+WHERE id = 563
