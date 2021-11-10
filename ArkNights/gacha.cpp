@@ -69,26 +69,31 @@ double D(vector<double> &Prob){
 
 int main(){
     vector<double> Prob(300);
+    vector<double> Acc(300);
     double sum = 0;
     for(int i = 1; i < 300; ++i){
+        Acc[i - 1] = sum;
         Prob[i - 1] = getFirstSpecProb(i, 0.35);
         sum += Prob[i - 1];
     }
+    Acc[299] = 1;
     Prob[299] = 1 - sum;
 
     // Display
     for(int i = 0; i < 75; ++i){
-        cout << "P{Y=" << 4 * i + 1 << "} = "
-             << fixed << setprecision(6) << Prob[4 * i] << "\t";
-        cout << "P{Y=" << 4 * i + 2 << "} = "
-             << fixed << setprecision(6) << Prob[4 * i + 1] << "\t";
-        cout << "P{Y=" << 4 * i + 3 << "} = "
-             << fixed << setprecision(6) << Prob[4 * i + 2] << "\t";
-        cout << "P{Y=" << 4 * i + 4 << "} = "
-             << fixed << setprecision(6) << Prob[4 * i + 3];
+        cout << "P{Y<" << 4 * i + 1 << "} = "
+             << fixed << setprecision(6) << Acc[4 * i] << "\t";
+        cout << "P{Y<" << 4 * i + 2 << "} = "
+             << fixed << setprecision(6) << Acc[4 * i + 1] << "\t";
+        cout << "P{Y<" << 4 * i + 3 << "} = "
+             << fixed << setprecision(6) << Acc[4 * i + 2] << "\t";
+        cout << "P{Y<" << 4 * i + 4 << "} = "
+             << fixed << setprecision(6) << Acc[4 * i + 3];
         cout << endl;
     }
+/*
     cout << "E(X) = " << fixed << setprecision(6) << E(Prob) << endl;
     cout << "D(X) = " << fixed << setprecision(6) << D(Prob) << endl;
+*/
     return 0;
 }
