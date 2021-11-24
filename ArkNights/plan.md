@@ -1,8 +1,8 @@
 专九：19
 
-专六+：22 / 25
+专六+：23 / 25
 
-专三+：23 / 31
+专三+：24 / 31
 
 满级：33 / 37
 
@@ -25,7 +25,7 @@
 | 推进之王 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 风笛 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 嵯峨 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
-| 耀骑士临光 | 限定 | $ \surd $ |  |  |  |  |
+| 耀骑士临光 | 限定 | $ \surd $ |  |  | $ \surd $ | $ \surd $ |
 | W | 限定 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 泥岩 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
 | 铃兰 | 六星 | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ | $ \surd $ |
