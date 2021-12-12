@@ -4,9 +4,9 @@
 
 专三+：25 / 31
 
-满级：33 / 37
+满级：34 / 37
 
-精二：49 / 43
+精二：46 / 43
 
 | 干员 | 备注 | 精二 | 满级 | 1-专三 | 2-专三 | 3-专三 |
 | ---- | ---- | ------ | ------ | ---- | ---- | ---- |
@@ -40,13 +40,13 @@
 | 夜莺 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
 | 星熊 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
 | 莫斯提马 | 六星 | $ \surd $ | $ \surd $ |  |  |  |
-| 克罗丝 | 成就 | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
+| 克洛丝 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 暗索 | 成就 | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 白雪 | 成就 | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 普罗旺斯 | 成就 | $ \surd $ | $ \surd $ |  |  | $ \empty $ |
 | 守林人 | 成就 | $ \surd $ |           |  |  | $ \empty $ |
-| 玫兰莎 | 成就 | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
-| 炎熔 | 成就 | $ \surd $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
+| 玫兰莎 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
+| 炎熔 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 红豆 | 成就 | $ \surd $ | | | | $ \empty $ |
 | 远山 | 成就 | $ \surd $ | | | | $ \empty $ |
 | 梅尔 | 成就 | $ \surd $ | | | | $ \empty $ |
@@ -60,22 +60,25 @@
 | 德克萨斯 | 成就 | $ \surd $ |      |        |        | $ \empty $ |
 | 地灵 | 成就 | | | | | $ \empty $ |
 | 暴行 | 成就 |  |  |  |  | $ \empty $ |
-| 泡普卡 | 成就 | | | $ \empty $ | $ \empty $ | $ \empty $ |
+| 泡普卡 | 成就 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
 | 流星 | 成就 | | | | | $ \empty $ |
 | 微风 | 成就 |  |  |  |  | $ \empty $ |
 | 杜林 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
-| 坚雷 | 成就     |  |  |  |  | $ \empty $ |
-| 砾 | 成就     |  | | | | $ \empty $ |
+| 坚雷 | 成就 |  |  |  |  | $ \empty $ |
+| 砾 | 成就 |  | | | | $ \empty $ |
 | 芬 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 苏苏洛 | 成就 |  | |  |  | $ \empty $ |
 | 特米米 | 成就 |  |  |  |  | $ \empty $ |
 | 阿消 | 成就 | | | | | $ \empty $ |
 | 卡缇 | 成就 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
-| 空 | 成就 |  | |  |  | $ \empty $ |
+| 空 | 成就 | | | | | $ \empty $ |
 | 空爆 | 成就 | $ \empty $ | | $ \empty $ | $ \empty $ | $ \empty $ |
 | 白金 | 成就 | $ \surd $ | |  |  | $ \empty $ |
 | 白面鸮 | 成就 | $ \surd $ | |  |  | $ \empty $ |
 | 古米 | 成就 | $ \surd $ | |  |  | $ \empty $ |
+| 狮蝎 | 成就 | | | | | $ \empty $ |
+| 流星 | 成就 | | | | | $ \empty $ |
+| 香草 | 成就 | $ \empty $ | $ \surd $ | $ \empty $ | $ \empty $ | $ \empty $ |
 | 炎狱炎熔 | 异格任务 | | | | | $ \empty $ |
 | 临光 | 异格任务 | | | | | $ \empty $ |
 | 火神 | 公开招募 |  |  |  |  | $ \empty $ |
