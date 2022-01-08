@@ -16,15 +16,15 @@
 | 塞雷娅           | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |
 | 嵯峨             | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |
 | 风笛             | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |
-| 桃金娘           | 执旗手   | 第一批   | $\surd$  |          | $\surd$  | $\surd$  | $\empty$ |
+| 桃金娘           | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          |          |          |
-| 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          |          |
+| 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |
-| 红               | 处决者   | 第一批   |          |          |          |          | $\empty$ |
+| 红               | 处决者   | 第一批   | $\surd$  |          |          |          | $\empty$ |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |
-| 狮蝎             | 伏击客   | 第一批   |          |          |          |          | $\empty$ |
-| 薄绿             | 阵法术师 | 第一批   |          |          |          |          | $\empty$ |
+| 狮蝎             | 伏击客   | 第一批   | $\surd$  |          |          |          | $\empty$ |
+| 薄绿             | 阵法术师 | 第一批   | $\surd$  |          |          |          | $\empty$ |
 | 爱丽丝           | 秘术师   | 第一批   |          |          |          |          | $\empty$ |
 | 惊蛰             | 链术师   | 第一批   |          |          |          |          | $\empty$ |
 | 耶拉             | 驭械术师 | 第一批   |          |          |          |          | $\empty$ |
