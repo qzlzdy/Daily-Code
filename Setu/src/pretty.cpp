@@ -42,7 +42,7 @@ int main(){
     currCountFile.close();
     cout << "Total Number of Images: " << prevCount << " -> " << count << endl;
     
-    ofstream ChangeLog("update.sql");
+    ofstream ChangeLog("ChangeLog.txt");
     int cursor = 1;
     auto emitSql = [&](const string &sql){
         ChangeLog << sql << endl;
@@ -63,19 +63,12 @@ int main(){
         fs::rename(old_p, new_p);
         if(cursor > prevCount){
             ostringstream sql;
-            sql << "INSERT INTO Illustrations (id, extension) "
-                << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+            sql << "new " << cursor;
             emitSql(sql.str());
         }
         else{
             ostringstream sql;
-            sql << "UPDATE Illustrations "
-                << "SET extension = '" << suffix[last] << "' "
-                << "WHERE id = " << cursor << ";";
-            emitSql(sql.str());
-            sql.str("");
-            sql << "DELETE FROM have "
-                << "WHERE illust_id = " << cursor << ";";
+            sql << "rename " << cursor;
             emitSql(sql.str());
         }
         ++cursor;
@@ -86,8 +79,7 @@ int main(){
     cursor = cursor > prevCount ? cursor : prevCount + 1;
     while(cursor <= count){
         ostringstream sql;
-        sql << "INSERT INTO Illustrations (id, extension) "
-            << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+        sql << "new " << cursor;
         emitSql(sql.str());
         ++cursor;
     }
