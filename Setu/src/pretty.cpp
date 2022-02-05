@@ -52,8 +52,7 @@ int main(){
         while(suffix.find(cursor) != suffix.end()){
             if(cursor > prevCount){
                 ostringstream sql;
-                sql << "INSERT INTO Illustrations (id, extension) "
-                    << "VALUES (" << cursor << ", '" << suffix[last] << "');";
+                sql << "new " << cursor;
                 emitSql(sql.str());
             }
             ++cursor;
