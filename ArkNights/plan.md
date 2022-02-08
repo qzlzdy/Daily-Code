@@ -6,16 +6,22 @@
 | 阿米娅-Berserker | 术战者   | 女儿     | $\empty$ | $\empty$ | $\surd$  | $\surd$  | $\empty$ |         |
 | 艾雅法拉         | 中坚术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 伊芙利特         | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 耀骑士临光       | 无畏者   | 第二批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
+| Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
+| 耀骑士临光       | 无畏者   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  | $\surd$ |
 | 煌               | 强攻手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | 拉普兰德         | 领主     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | 能天使           | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | W                | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 年               | 铁卫     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
+| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 塞雷娅           | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 嵯峨             | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 风笛             | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 桃金娘           | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
+| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |         |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
@@ -55,7 +61,7 @@
 |                  | 行商     | 第一批   |          |          |          |          |          |         |
 | 刻俄伯           | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 炎狱炎熔         | 扩散术师 | 第二批   |          |          |          |          | $\empty$ |         |
-| 斯卡蒂           | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| 斯卡蒂           | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 凯尔希           | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 霜叶             | 领主     | 第二批   |          |          |          |          | $\empty$ |         |
 | 铸铁             | 术战者   | 第二批   | $\surd$  |          |          |          | $\empty$ |         |
