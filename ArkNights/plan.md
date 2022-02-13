@@ -6,24 +6,24 @@
 | 阿米娅-Berserker | 术战者   | 女儿     | $\empty$ | $\empty$ | $\surd$  | $\surd$  | $\empty$ |         |
 | 艾雅法拉         | 中坚术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 伊芙利特         | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
-| 耀骑士临光       | 无畏者   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  | $\surd$ |
+| 耀骑士临光       | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 煌               | 强攻手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
+| Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
 | 拉普兰德         | 领主     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | 能天使           | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
+| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | W                | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 年               | 铁卫     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
-| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
+| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 塞雷娅           | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 嵯峨             | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
+| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 风笛             | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 桃金娘           | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
-| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
+| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |         |
+| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 红               | 处决者   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
