@@ -8,25 +8,25 @@
 | 伊芙利特         | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 耀骑士临光       | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 煌               | 强攻手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
-| 拉普兰德         | 领主     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 拉普兰德         | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
 | 能天使           | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | W                | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
 | 年               | 铁卫     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
-| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 塞雷娅           | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | 嵯峨             | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 风笛             | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 桃金娘           | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
-| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
+| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |         |
-| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 红               | 处决者   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
 | 狮蝎             | 伏击客   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 莫斯提马         | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
