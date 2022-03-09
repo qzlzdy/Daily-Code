@@ -21,7 +21,7 @@
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |         |
 | Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |         |
 | Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
