@@ -17,7 +17,7 @@
 | 风笛             | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 桃金娘           | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
 | Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
-| 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  |          |         |
+| 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
