@@ -2,7 +2,8 @@
 
 ## ArkNights
 
-[明日方舟](https://ak.hypergryph.com/)干员培养计划表
+- [明日方舟](https://ak.hypergryph.com/)限定干员概率分布
+- 干员培养计划表
 
 ## Conway
 
@@ -18,12 +19,8 @@ Cellular automata
 
 ## Homework
 
-本科期间课程设计源代码
-
-## Java
-
-高中期间《算法导论》及部分Java实现源代码
+部分本科期间课程设计源代码
 
 ## Setu
 
-[猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库相关源代码
+[猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库PC端源代码
