@@ -30,14 +30,16 @@ static double getFirstSixProb(int Count){
     return FirstProb[Count - 1];
 }
 
+const unsigned MAX_GACHA_NB = 300;
+
 // 第Y首次出限定
 static double getFirstSpecProb(int Count, double a){
-    static array<double, 299> FirstProb;
+    static array<double, MAX_GACHA_NB - 1> FirstProb;
     static bool InitFirstProb = false;
     if(InitFirstProb){
         return FirstProb[Count - 1];
     }
-    for(int i = 1; i < 300; ++i){
+    for(int i = 1; i < MAX_GACHA_NB; ++i){
         double prob = 0;
         for(int j = 1; j < 100 && i - j > 0; ++j){
             prob += FirstProb[i - j - 1] * getFirstSixProb(j);
@@ -68,19 +70,19 @@ double D(vector<double> &Prob){
 }
 
 int main(){
-    vector<double> Prob(300);
-    vector<double> Acc(300);
+    vector<double> Prob(MAX_GACHA_NB);
+    vector<double> Acc(MAX_GACHA_NB);
     double sum = 0;
-    for(int i = 1; i < 300; ++i){
+    for(int i = 1; i < MAX_GACHA_NB; ++i){
         Acc[i - 1] = sum;
-        Prob[i - 1] = getFirstSpecProb(i, 0.35);
+        Prob[i - 1] = getFirstSpecProb(i, 0.3 * 5 / 60);
         sum += Prob[i - 1];
     }
-    Acc[299] = 1;
-    Prob[299] = 1 - sum;
+    Acc[MAX_GACHA_NB - 1] = 1;
+    Prob[MAX_GACHA_NB - 1] = 1 - sum;
 
     // Display
-    for(int i = 0; i < 75; ++i){
+    for(int i = 0; i < MAX_GACHA_NB / 4; ++i){
         cout << "P{Y<" << 4 * i + 1 << "} = "
              << fixed << setprecision(6) << Acc[4 * i] << "\t";
         cout << "P{Y<" << 4 * i + 2 << "} = "
@@ -91,9 +93,9 @@ int main(){
              << fixed << setprecision(6) << Acc[4 * i + 3];
         cout << endl;
     }
-/*
+
     cout << "E(X) = " << fixed << setprecision(6) << E(Prob) << endl;
     cout << "D(X) = " << fixed << setprecision(6) << D(Prob) << endl;
-*/
+
     return 0;
 }
