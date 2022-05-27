@@ -19,39 +19,39 @@
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 浊心斯卡蒂       | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$ |
-| 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
+| 泥岩             | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| 蜜莓             | 行医     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
-| 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
-| 莫斯提马         | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
+| 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  | $\surd$ |
+| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$ |
 | Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
-| 薄绿             | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
-| 爱丽丝           | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 黑               | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
-| 惊蛰             | 链术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
-| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
+| 早露             | 攻城手   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
+| 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
+| 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
+| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  |          |         |
+| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
+| 莫斯提马         | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
+| 薄绿             | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
+| 爱丽丝           | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 惊蛰             | 链术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | 陈               | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 因陀罗           | 斗士     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
-| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 羽毛笔           | 收割者   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 鞭刃             | 教官     | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
-| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 赤冬             | 武者     | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 |                  | 解放者   | 第一批   |          |          |          |          |          |         |
-| 黑               | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 早露             | 攻城手   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
 | 守林人           | 神射手   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 松果             | 散射手   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
-| 泥岩             | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 森蚺             | 决战者   | 第一批   | $\surd$  |          |          |          | $\surd$  |         |
 | 石棉             | 驭法铁卫 | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 灰毫             | 要塞     | 第一批   |          |          |          |          | $\empty$ |         |
 | 夜半             | 战术家   | 第一批   |          |          |          |          | $\empty$ |         |
 | 锡兰             | 疗养师   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
-| 蜜莓             | 行医     | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
-| 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  | $\surd$ |
 | 初雪             | 削弱者   | 第一批   |          |          |          |          | $\empty$ |         |
 | 九色鹿           | 护佑者   | 第一批   |          |          |          |          | $\empty$ |         |
 | 罗比菈塔         | 工匠     | 第一批   |          |          |          |          | $\empty$ |         |
