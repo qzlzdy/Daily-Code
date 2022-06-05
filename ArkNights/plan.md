@@ -25,7 +25,7 @@
 | 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  | $\surd$ |
 | 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$ |
 | Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
-| 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |         |
 | 黑               | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 早露             | 攻城手   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
