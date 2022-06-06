@@ -28,7 +28,7 @@
 | 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |         |
 | 黑               | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
-| 早露             | 攻城手   | 第一批   | $\surd$  |          |          | $\surd$  | $\surd$  |         |
+| 早露             | 攻城手   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
