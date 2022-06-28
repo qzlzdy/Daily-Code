@@ -21,6 +21,7 @@
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
 | 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
@@ -32,7 +33,6 @@
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
-| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  |          |         |
 | Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 莫斯提马         | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
 | 薄绿             | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
