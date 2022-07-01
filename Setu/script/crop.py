@@ -1,50 +1,57 @@
 import cv2
-import sys
-import os.path
 from PIL import Image
+from anime_face_detector import create_detector
+
+setuRoot = "/run/media/qzlzdy/Data/qzlzdy/setu"
+datasetRoot = "/home/qzlzdy/python/datasets/setu"
 
 def getPath(illust_id):
-    path = '/run/media/qzlzdy/Data/qzlzdy/setu/H{id}.{ext}'
     extensions = [
-        'jpg', 'png', 'bmp', 'jpeg', 'JPEG'
+        "jpg", "png", "bmp", "jpeg", "JPEG", "JPG"
     ]
     for ext in extensions:
         try:
-            probe = Image.open(path.format(id=illust_id, ext=ext))
-            return path.format(id=illust_id, ext=ext)
+            probe = Image.open(f"{setuRoot}/H{illust_id}.{ext}")
+            return f"{setuRoot}/H{illust_id}.{ext}"
         except:
             pass
-    return None
+    raise "unknown extension"
 
-def detect(fileid, cascade_file = "./lbpcascade_animeface.xml"):
-    cascade = cv2.CascadeClassifier(cascade_file)
-    image = cv2.imread(getPath(fileid), cv2.IMREAD_COLOR)
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    gray = cv2.equalizeHist(gray)
+detector = create_detector("yolov3", device="cpu")
 
-    faces = cascade.detectMultiScale(gray,
-                                     # detector options
-                                     scaleFactor = 1.1,
-                                     minNeighbors = 1,
-                                     minSize = (192, 192))
-    outname = '/home/qzlzdy/python/datasets/setu/{}-{}.jpg'
-    i = 1
-    for (x, y, w, h) in faces:
-        width = len(image[0])
-        height = len(image)
-        start_x = max(int(x - 0.15 * w), 0)
-        start_y = max(int(y - 0.4 * h), 0)
-        end_x = min(int(start_x + 1.3 * w), width)
-        end_y = min(int(start_y + 1.3 * h), height)
-        edge_len = min(end_x - start_x, end_y - start_y)
-        end_x = start_x + edge_len
-        end_y = start_y + edge_len
-        cropped = image[start_y: end_y, start_x: end_x]
-        cv2.imwrite(outname.format(fileid, i), cropped)
-        i += 1
-        #cv2.rectangle(image, (x, y), (x + w, y + h), (0, 0, 255), 2)
+def detect(fileid):
+    image = cv2.imread(getPath(fileid))
+    if image is None:
+        raise "setu not found"
+    preds = detector(image)
+    count = 0
+    width = len(image[0])
+    height = len(image)
+    for face in preds:
+        (x0, y0, x1, y1, _) = face["bbox"]
+        w = x1 - x0
+        h = y1 - y0
 
-l = [10524, 20650, 24267, 24661, 24907, 25038] + list(range(25225, 25556))
-for i in l:
-    print('cropping illustration', i)
-    detect(i)
+        left = max(x0 - 0.25 * w, 0)
+        right = min(x1 + 0.25 * w, width)
+        top = max(y0 - 0.5 * h, 0)
+        bottom = min(y1, height)
+
+        center = ((left + right) / 2, (top + bottom) / 2)
+        halfsize = min(right - left, bottom - top) / 2
+
+        start_x = int(center[0] - halfsize)
+        end_x = int(center[0] + halfsize)
+        start_y = int(center[1] - halfsize)
+        end_y = int(center[1] + halfsize)
+
+        cropped = image[start_y:end_y, start_x:end_x]
+        cv2.imwrite(f"{datasetRoot}/{fileid}-{count}.jpg", cropped)
+        count += 1
+
+l = [] + list(range(1440, 2000 + 1))
+
+if __name__ == "__main__":
+    for i in l:
+        print(f"cropping illustration {i}")
+        detect(i)
