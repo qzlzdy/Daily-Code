@@ -37,19 +37,21 @@ def detect(fileid):
         top = max(y0 - 0.5 * h, 0)
         bottom = min(y1, height)
 
-        center = ((left + right) / 2, (top + bottom) / 2)
-        halfsize = min(right - left, bottom - top) / 2
+        center = (int((left + right) / 2), int((top + bottom) / 2))
+        halfsize = int(min(right - left, bottom - top) / 2)
+        if halfsize < 98:
+            continue
 
-        start_x = int(center[0] - halfsize)
-        end_x = int(center[0] + halfsize)
-        start_y = int(center[1] - halfsize)
-        end_y = int(center[1] + halfsize)
+        start_x = center[0] - halfsize
+        end_x = center[0] + halfsize
+        start_y = center[1] - halfsize
+        end_y = center[1] + halfsize
 
         cropped = image[start_y:end_y, start_x:end_x]
         cv2.imwrite(f"{datasetRoot}/{fileid}-{count}.jpg", cropped)
         count += 1
 
-l = [] + list(range(1440, 2000 + 1))
+l = [] + list(range(7001, 8000 + 1))
 
 if __name__ == "__main__":
     for i in l:
