@@ -3,7 +3,7 @@ from PIL import Image
 from anime_face_detector import create_detector
 
 setuRoot = "/run/media/qzlzdy/Data/qzlzdy/setu"
-datasetRoot = "/home/qzlzdy/python/datasets/setu"
+datasetRoot = "/home/qzlzdy/Datasets/setu"
 
 def getPath(illust_id):
     extensions = [
@@ -51,7 +51,7 @@ def detect(fileid):
         cv2.imwrite(f"{datasetRoot}/{fileid}-{count}.jpg", cropped)
         count += 1
 
-l = [] + list(range(7001, 8000 + 1))
+l = [] + list(range(15001, 16000 + 1))
 
 if __name__ == "__main__":
     for i in l:
