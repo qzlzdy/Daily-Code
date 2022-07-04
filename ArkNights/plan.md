@@ -21,7 +21,7 @@
 | 闪灵             | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
+| 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
 | 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
