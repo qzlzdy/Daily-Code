@@ -16,25 +16,20 @@ int main(){
         fs::path filename = file.path().filename();
         string stem = filename.stem().string();
         string extension = filename.extension().string();
-        switch(stem.front()){
-        case 'G':
-        case 'V':
-            break;
-        case 'H':
+        if(stem.front() == 'H'){
             if(stem[1] == '0'){
                 fs::remove(root / filename);
-                cout << "remove file " << filename.string() << endl;
+                cout << "rm " << filename.string() << endl;
             }
-            break;
-        default:{
+        }
+        else{
             fs::path oldname = root / filename;
             fs::path newname =
                 root / fs::path("H" + to_string(++idx) + extension);
             fs::rename(oldname, newname);
-            cout << "rename " << oldname.string()
-                 << " as " << newname.string() << endl;
+            cout << "mv " << oldname.string()
+                 << " " << newname.string() << endl;
             break;
-        }
         }
     }
     return 0;

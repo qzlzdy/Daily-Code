@@ -21,15 +21,16 @@ int main(){
     int last = 1;
     for(auto &file : fs::directory_iterator(root)){
         fs::path fileName = file.path().filename();
-        fs::path stem = fileName.stem();
-        fs::path extension = fileName.extension();
-        if(extension != ".gif" && extension != ".mp4"){
-            ++count;
-            int id = getId(stem.string());
-            suffix[id] = extension.string().substr(1);
-            if(id > last){
-                last = id;
-            }
+        string stem = fileName.stem().string();
+        string extension = fileName.extension().string().substr(1);
+        if(extension == "JPEG" || extension == "JPG" || extension == "jpeg"){
+            extension = "jpg";
+        }
+        ++count;
+        int id = getId(stem);
+        suffix[id] = extension;
+        if(id > last){
+            last = id;
         }
     }
     int prevCount;
