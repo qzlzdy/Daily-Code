@@ -22,24 +22,24 @@
 | 夜莺             | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 安洁莉娜         | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
 | 澄闪             | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         | | 5       |
 | Stage 6          | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6       |
-| 令               | 召唤师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
-| 红               | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |         |
-| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5       |
 | 狮蝎             | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |         |
 | 黑               | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
+| Stage 5          | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5       
 | 早露             | 攻城手   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
 | 温蒂             | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
-| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
+| Stage 4          | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4       |
 | 歌蕾蒂娅         | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |         |
-| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 莫斯提马         | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |         |
+| Stage 3          | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3       |
 | 薄绿             | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
-| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 爱丽丝           | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
+| Stage 2          | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2       |
 | 惊蛰             | 链术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | 陈               | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |         |
+| Stage 1          | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1       |
 | 因陀罗           | 斗士     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |         |
 | 羽毛笔           | 收割者   | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
 | 鞭刃             | 教官     | 第一批   | $\surd$  |          |          |          | $\empty$ |         |
