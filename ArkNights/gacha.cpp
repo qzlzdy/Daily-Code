@@ -6,7 +6,13 @@
 
 using namespace std;
 
-// 六星出率
+/**
+ * @brief 计算六星出率
+ * 
+ * @param Count 当前连续未出六星的次数
+ * 
+ * @return 当次六星概率
+ */
 static double getSixProb(int Count){
     if(Count <= 50){
         return 0.02;
@@ -14,7 +20,13 @@ static double getSixProb(int Count){
     return 0.02 * Count - 0.98;
 }
 
-// 第X首次出六星
+/**
+ * @brief 计算首次六星出率
+ * 
+ * @param Count 当前抽卡次数
+ * 
+ * @return 当次为首次六星概率
+ */
 static double getFirstSixProb(int Count){
     static array<double, 99> FirstProb;
     static bool InitFirstProb = false;
@@ -32,7 +44,14 @@ static double getFirstSixProb(int Count){
 
 const unsigned MAX_GACHA_NB = 300;
 
-// 第Y首次出限定
+/**
+ * @brief 计算首次限定出率
+ * 
+ * @param Count 当前抽卡次数
+ * @param a     限定干员比重
+ * 
+ * @return 当次为首次限定概率
+ */
 static double getFirstSpecProb(int Count, double a){
     static array<double, MAX_GACHA_NB - 1> FirstProb;
     static bool InitFirstProb = false;
@@ -52,6 +71,12 @@ static double getFirstSpecProb(int Count, double a){
     return FirstProb[Count - 1];
 }
 
+/**
+ * @brief 计算随机变量的数学期望
+ * 
+ * @param Prob 概率分布，仅支持有限离散型随机变量
+ * @return 数学期望
+ */
 double E(vector<double> &Prob){
     double res = 0;
     for(int i = 0; i < Prob.size(); ++i){
@@ -60,6 +85,12 @@ double E(vector<double> &Prob){
     return res;
 }
 
+/**
+ * @brief 计算随机变量的方差
+ * 
+ * @param Prob 概率分布，仅支持有限离散型随机变量
+ * @return 方差
+ */
 double D(vector<double> &Prob){
     double EX = E(Prob);
     double res = 0;
