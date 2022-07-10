@@ -19,7 +19,7 @@ int main(){
     };
     int count = 0;
     int last = 1;
-    for(auto &file : fs::directory_iterator(root)){
+    for(auto &file: fs::directory_iterator(root)){
         fs::path fileName = file.path().filename();
         string stem = fileName.stem().string();
         string extension = fileName.extension().string().substr(1);
