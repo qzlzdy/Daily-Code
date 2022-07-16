@@ -10,7 +10,7 @@
 | 泥岩       | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 伊芙利特   | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 史尔特尔   | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 能天使     | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 能天使     | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 拉普兰德   | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 蜜莓       | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 耀骑士临光 | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
