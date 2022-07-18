@@ -10,7 +10,7 @@
 | 泥岩       | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 伊芙利特   | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 史尔特尔   | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 能天使     | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| 能天使     | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 拉普兰德   | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 蜜莓       | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 耀骑士临光 | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -32,16 +32,16 @@
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |             |
+| 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | Stage 3    | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3           |
-| 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
-| 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
-| Stage 2    | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2           |
-| 星源       | 链术师   | 第一批   |          |          |          |          | $\empty$ |             |
 | 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
+| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          |          |             |
+| 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| Stage 2    | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2           |
+| 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 星源       | 链术师   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | Stage 1    | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1           |
 | 因陀罗     | 斗士     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
-| 羽毛笔     | 收割者   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | 鞭刃       | 教官     | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | 赤冬       | 武者     | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 |            | 解放者   | 第一批   |          |          |          |          |          |             |
