@@ -39,7 +39,7 @@ def detect(fileid):
 
         center = (int((left + right) / 2), int((top + bottom) / 2))
         halfsize = int(min(right - left, bottom - top) / 2)
-        if halfsize < 98:
+        if halfsize < 115:
             continue
 
         start_x = center[0] - halfsize
@@ -51,7 +51,7 @@ def detect(fileid):
         cv2.imwrite(f"{datasetRoot}/{fileid}-{count}.jpg", cropped)
         count += 1
 
-l = [] + list(range(15001, 16000 + 1))
+l = [] + list(range(40000, 44000 + 1))
 
 if __name__ == "__main__":
     for i in l:
