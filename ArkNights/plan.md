@@ -19,7 +19,7 @@
 | 嵯峨       | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 桃金娘     | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 闪灵       | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 夜莺       | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 夜莺       | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 安洁莉娜   | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 澄闪       | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
