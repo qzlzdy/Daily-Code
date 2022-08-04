@@ -31,7 +31,7 @@
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        |             |
 | 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |             |
 | Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |             |
