@@ -24,7 +24,7 @@
 | 澄闪       | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 红         | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
-| 狮蝎       | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |  |
+| 狮蝎       | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 早露       | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
@@ -160,6 +160,7 @@
 | 凛冬       | 尖兵     | 成就     |          |          |          |          | $\empty$ |             |
 | 波登可     | 凝滞师   | 成就     |          |          |          |          | $\empty$ |             |
 | 艾丝黛尔   | 强攻手   | 成就     |          |          |          |          | $\empty$ |             |
+| 四月       | 速射手   | 成就     |          |          |          |          | $\empty$ |             |
 | 临光       | 守护者   | 任务     |          |          |          |          | $\empty$ |             |
 | 寒芒克洛丝 | 速射手   | 任务     |          |          |          |          | $\empty$ |             |
 | 芙蓉       | 医师     | 任务     | $\empty$ | $\surd$  | $\empty$ | $\empty$ | $\empty$ |             |
