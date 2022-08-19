@@ -20,9 +20,9 @@
 | 桃金娘     | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 闪灵       | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 夜莺       | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 安洁莉娜   | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| 安洁莉娜   | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪       | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 红         | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 | 狮蝎       | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
@@ -33,7 +33,7 @@
 | 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |             |
+| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
 | Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
