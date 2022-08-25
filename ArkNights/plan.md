@@ -29,8 +29,8 @@
 | 早露       | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | Stage 6    | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
-| 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  |          | $\empty$ |             |
+| 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  | $\triangle$ |
+| 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
