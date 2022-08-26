@@ -2,19 +2,21 @@
 
 ## [明日方舟](https://ak.hypergryph.com/)限定干员概率分布
 
-### Usage
+### 编译
 
-```C++
+```bash
 g++ -std=c++20 -O3 -fPIC -o gacha gacha.cpp
+```
+
+### 运行
+
+```bash
+./gacha
 ```
 
 ## 干员培养计划表
 
 自用
-
-# Conway
-
-Cellular automata
 
 # DolphinDBPlugin
 
@@ -28,6 +30,40 @@ Cellular automata
 
 部分本科期间课程设计源代码
 
+# Minecraft
+
+## [Minecraft](https://www.minecraft.net/)[TerraFirmaCraft](https://terrafirmacraft.com/)锻造辅助计算工具
+
+### 编译
+
+```bash
+g++ -std=c++20 -O3 -fPIC -o forge forge.cpp
+```
+
+### 运行
+
+```bash
+./forge target
+```
+
+`target`为目标偏移值
+
 # Setu
 
 [猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库PC端源代码
+
+# Trackers
+
+## Trackers更新工具
+
+### 编译
+
+```bash
+g++ -std=c++20 -O3 -fPIC -o merge merge.cpp
+```
+
+### 运行
+
+```bash
+./merge
+```
