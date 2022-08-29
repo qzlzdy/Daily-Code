@@ -33,7 +33,7 @@
 | 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | Stage 6    | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
 | 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 星源       | 链术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
