@@ -40,7 +40,7 @@ int main(){
             continue;
         }
         int illust_id = stoi(stem.substr(1));
-        string ext = filename.extension().string();
+        string ext = filename.extension().string().substr(1);
         sqlite3_stmt *stmt;
         res = sqlite3_prepare_v2(db, INSERT_SQL.c_str(), INSERT_SQL.length(),
                                 &stmt, nullptr);
