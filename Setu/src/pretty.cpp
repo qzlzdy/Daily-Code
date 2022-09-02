@@ -2,8 +2,8 @@
 #include <fstream>
 #include <iostream>
 #include <map>
-#include <sstream>
 #include <string>
+#include "sqlite3.h"
 
 using namespace std;
 namespace fs = filesystem;
@@ -20,9 +20,9 @@ int main(){
     int count = 0;
     int last = 1;
     for(auto &file: fs::directory_iterator(root)){
-        fs::path fileName = file.path().filename();
-        string stem = fileName.stem().string();
-        string extension = fileName.extension().string().substr(1);
+        fs::path filename = file.path().filename();
+        string stem = filename.stem().string();
+        string extension = filename.extension().string().substr(1);
         if(extension == "JPEG" || extension == "JPG" || extension == "jpeg"){
             extension = "jpg";
         }
@@ -42,19 +42,57 @@ int main(){
     currCountFile << count;
     currCountFile.close();
     cout << "Total Number of Images: " << prevCount << " -> " << count << endl;
-    
-    ofstream ChangeLog("ChangeLog.txt");
-    int cursor = 1;
-    auto emitSql = [&](const string &sql){
-        ChangeLog << sql << endl;
-        cout << sql << endl;
+
+    sqlite3 *db;
+    int res;
+    auto statusCheck = [&](const string &desc, int code){
+        if(res != SQLITE_OK && res != SQLITE_ROW && res != SQLITE_DONE){
+            cerr << desc << " (" << res << "): "
+                 << sqlite3_errmsg(db) << endl;
+            exit(-1);
+        }
     };
+    res = sqlite3_open_v2("D:\\qzlzdy\\Setu.db", &db,
+                          SQLITE_OPEN_READWRITE, nullptr);
+    statusCheck("Database open failed", res);
+    string INSERT_SQL =
+        "INSERT INTO changes(illust_id, extension) "
+        "VALUES(?, ?)";
+    auto insert = [&](int id, const string &ext){
+        sqlite3_stmt *stmt;
+        res = sqlite3_prepare_v2(db, INSERT_SQL.c_str(), INSERT_SQL.length(),
+                                 &stmt, nullptr);
+        statusCheck("Prepare failed", res);
+        res = sqlite3_bind_int(stmt, 1, id);
+        statusCheck("Bind illust_id failed", res);
+        res = sqlite3_bind_text(stmt, 2, ext.c_str(), ext.length(), SQLITE_STATIC);
+        statusCheck("Bind extension failed", res);
+        res = sqlite3_step(stmt);
+        statusCheck("Insert failed", res);
+        sqlite3_finalize(stmt);
+    };
+    string UPDATE_SQL =
+        "UPDATE setus "
+        "SET extension = ? "
+        "WHERE illust_id = ? ";
+    auto update = [&](int id, const string &ext){
+        sqlite3_stmt *stmt;
+        res = sqlite3_prepare_v2(db, UPDATE_SQL.c_str(), UPDATE_SQL.length(),
+                                 &stmt, nullptr);
+        statusCheck("Prepare failed", res);
+        res = sqlite3_bind_text(stmt, 1, ext.c_str(), ext.length(), SQLITE_STATIC);
+        statusCheck("Bind extension failed", res);
+        res = sqlite3_bind_int(stmt, 2, id);
+        statusCheck("Bind illust_id failed", res);
+        res = sqlite3_step(stmt);
+        statusCheck("Update failed", res);
+        sqlite3_finalize(stmt);
+    };
+    int cursor = 1;
     while(last > count){
         while(suffix.find(cursor) != suffix.end()){
             if(cursor > prevCount){
-                ostringstream sql;
-                sql << "new " << cursor;
-                emitSql(sql.str());
+                insert(cursor, suffix[cursor]);
             }
             ++cursor;
         }
@@ -62,14 +100,10 @@ int main(){
         fs::path new_p = root / fs::path(getName(cursor) + "." + suffix[last]);
         fs::rename(old_p, new_p);
         if(cursor > prevCount){
-            ostringstream sql;
-            sql << "new " << cursor;
-            emitSql(sql.str());
+            insert(cursor, suffix[last]);
         }
         else{
-            ostringstream sql;
-            sql << "rename " << cursor;
-            emitSql(sql.str());
+            update(cursor, suffix[last]);
         }
         ++cursor;
         do{
@@ -78,11 +112,9 @@ int main(){
     }
     cursor = cursor > prevCount ? cursor : prevCount + 1;
     while(cursor <= count){
-        ostringstream sql;
-        sql << "new " << cursor;
-        emitSql(sql.str());
+        insert(cursor, suffix[cursor]);
         ++cursor;
     }
-    ChangeLog.close();
+    sqlite3_close_v2(db);
     return 0;
 }
