@@ -43,6 +43,7 @@ int main(){
     currCountFile.close();
     cout << "Total Number of Images: " << prevCount << " -> " << count << endl;
 
+    ofstream logfile("ChangLog.txt");
     sqlite3 *db;
     int res;
     auto statusCheck = [&](const string &desc, int code){
@@ -56,7 +57,7 @@ int main(){
                           SQLITE_OPEN_READWRITE, nullptr);
     statusCheck("Database open failed", res);
     string INSERT_SQL =
-        "INSERT INTO changes(illust_id, extension) "
+        "INSERT INTO setus(illust_id, extension) "
         "VALUES(?, ?)";
     auto insert = [&](int id, const string &ext){
         sqlite3_stmt *stmt;
@@ -70,6 +71,8 @@ int main(){
         res = sqlite3_step(stmt);
         statusCheck("Insert failed", res);
         sqlite3_finalize(stmt);
+        cout << "insert H" << id << "." << ext << endl;
+        logfile << "insert H" << id << "." << ext << endl;
     };
     string UPDATE_SQL =
         "UPDATE setus "
@@ -87,6 +90,8 @@ int main(){
         res = sqlite3_step(stmt);
         statusCheck("Update failed", res);
         sqlite3_finalize(stmt);
+        cout << "update H" << id << "." << ext << endl;
+        logfile << "update H" << id << "." << ext << endl;
     };
     int cursor = 1;
     while(last > count){
@@ -116,5 +121,6 @@ int main(){
         ++cursor;
     }
     sqlite3_close_v2(db);
+    logfile.close();
     return 0;
 }
