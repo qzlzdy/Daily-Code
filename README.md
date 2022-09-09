@@ -52,9 +52,35 @@ g++ -std=c++20 -O3 -fPIC -o forge forge.cpp
 
 [猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库PC端源代码
 
+## 编译
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
+
+## 用途
+
+`dbinit`初始化色图扩展名数据库
+
+`pretty`用于在去除冗余色图后整理色图编号填补空缺
+
+`encode`对未编号的色图编号
+
 # Trackers
 
 ## Trackers更新工具
+
+用于合并多个仓库的trackers列表
+
+### 准备
+
+```bash
+git clone git@github.com:ngosang/trackerslist.git
+git clone git@github.com:XIU2/TrackersListCollection.git
+```
 
 ### 编译
 
@@ -67,3 +93,5 @@ g++ -std=c++20 -O3 -fPIC -o merge merge.cpp
 ```bash
 ./merge
 ```
+
+运行后生成`trackers.txt`文件
