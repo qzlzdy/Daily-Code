@@ -25,7 +25,7 @@
 | 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 红         | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 狮蝎       | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
-| 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 早露       | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
