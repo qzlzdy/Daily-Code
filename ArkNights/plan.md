@@ -25,31 +25,31 @@
 | 令         | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 红         | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 狮蝎       | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
-| 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| 黑         | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露       | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 温蒂       | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 歌蕾蒂娅   | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | 2           |
 | 羽毛笔     | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
-| 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
-| Stage 6    | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
-| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
+| 陈         | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | 1           |
+| 莫斯提马   | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 薄绿       | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
-| Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
+| Stage 6    | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
 | 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
-| 星源       | 链术师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
-| Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
+| 星源       | 链术师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
+| Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 因陀罗     | 斗士     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 鞭刃       | 教官     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
-| Stage 3    | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3           |
+| Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 赤冬       | 武者     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 |            | 解放者   | 第一批   |          |          |          |          |          |             |
+| 守林人     | 神射手   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| Stage 3    | 分割线   | 专三     | 3        | 3        | 3        | 3        | 3        | 3           |
+| 松果       | 散射手   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 森蚺       | 决战者   | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |             |
 | Stage 2    | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2           |
-| 守林人     | 神射手   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
-| 松果       | 散射手   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
-| Stage 1    | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1           |
-| 森蚺       | 决战者   | 第一批   | $\surd$  |          |          |          | $\surd$  |             |
 | 石棉       | 驭法铁卫 | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | 雷蛇       | 哨戒铁卫 | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
+| Stage 1    | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1           |
 | 灰毫       | 要塞     | 第一批   |          |          |          |          | $\empty$ |             |
 | 夜半       | 战术家   | 第一批   |          |          |          |          | $\empty$ |             |
 | 晓歌       | 情报官   | 第一批   |          |          |          |          | $\empty$ |             |
