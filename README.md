@@ -68,30 +68,3 @@ make
 `pretty`用于在去除冗余色图后整理色图编号填补空缺
 
 `encode`对未编号的色图编号
-
-# Trackers
-
-## Trackers更新工具
-
-用于合并多个仓库的trackers列表
-
-### 准备
-
-```bash
-git clone git@github.com:ngosang/trackerslist.git
-git clone git@github.com:XIU2/TrackersListCollection.git
-```
-
-### 编译
-
-```bash
-g++ -std=c++20 -O3 -fPIC -o merge merge.cpp
-```
-
-### 运行
-
-```bash
-./merge
-```
-
-运行后生成`trackers.txt`文件
