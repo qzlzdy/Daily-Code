@@ -37,7 +37,7 @@
 | 爱丽丝     | 秘术师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | 星源       | 链术师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
-| 因陀罗     | 斗士     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 因陀罗     | 斗士     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | 鞭刃       | 教官     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | Stage 4    | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 赤冬       | 武者     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
