@@ -3,11 +3,8 @@
 #include <iostream>
 #include <mutex>
 #include <vector>
-#include "boost/multiprecision/cpp_int.hpp"
-#include "boost/multiprecision/cpp_dec_float.hpp"
 
 using namespace std;
-using namespace boost::multiprecision;
 
 /**
  * @brief 计算六星出率
@@ -16,11 +13,11 @@ using namespace boost::multiprecision;
  * 
  * @return 当次六星概率
  */
-static cpp_rational getSixProb(unsigned Count){
+static double getSixProb(unsigned Count){
     if(Count <= 50){
-        return cpp_rational(2, 100);
+        return 0.02;
     }
-    return cpp_rational(2, 100) * Count - cpp_rational(98, 100);
+    return 0.02 * Count - 0.98;
 }
 
 /**
@@ -31,10 +28,10 @@ static cpp_rational getSixProb(unsigned Count){
  * @return 当次为首次六星概率
  */
 once_flag InitFirstSixProb;
-static cpp_rational getFirstSixProb(unsigned Count){
-    static array<cpp_rational, 99> FirstSixProb;
+static double getFirstSixProb(unsigned Count){
+    static array<double, 99> FirstSixProb;
     call_once(InitFirstSixProb, [&](){
-        cpp_rational t = 1;
+        double t = 1;
         for(int i = 1; i < 100; ++i){
             FirstSixProb[i - 1] = t * getSixProb(i);
             t *= 1 - getSixProb(i);
@@ -53,11 +50,11 @@ static cpp_rational getFirstSixProb(unsigned Count){
  */
 const unsigned MAX_GACHA_NB = 300;
 once_flag InitFirstSpecProb;
-static cpp_rational getFirstSpecProb(unsigned Count, cpp_rational a){
-    static array<cpp_rational, MAX_GACHA_NB - 1> FirstSpecProb;
+static double getFirstSpecProb(unsigned Count, double a){
+    static array<double, MAX_GACHA_NB - 1> FirstSpecProb;
     call_once(InitFirstSpecProb, [&](){
         for(int i = 1; i < MAX_GACHA_NB; ++i){
-            cpp_rational prob = 0;
+            double prob = 0;
             for(int j = 1; j < 100 && i - j > 0; ++j){
                 prob += FirstSpecProb[i - j - 1] * getFirstSixProb(j);
             }
@@ -75,8 +72,8 @@ static cpp_rational getFirstSpecProb(unsigned Count, cpp_rational a){
  * @param Prob 概率分布，仅支持有限离散型随机变量
  * @return 数学期望
  */
-cpp_rational E(vector<cpp_rational> &Prob){
-    cpp_rational res = 0;
+double E(vector<double> &Prob){
+    double res = 0;
     for(int i = 0; i < Prob.size(); ++i){
         res += Prob[i] * (i + 1);
     }
@@ -89,9 +86,9 @@ cpp_rational E(vector<cpp_rational> &Prob){
  * @param Prob 概率分布，仅支持有限离散型随机变量
  * @return 方差
  */
-cpp_rational D(vector<cpp_rational> &Prob){
-    cpp_rational EX = E(Prob);
-    cpp_rational res = 0;
+double D(vector<double> &Prob){
+    double EX = E(Prob);
+    double res = 0;
     for(int i = 0; i < Prob.size(); ++i){
         res += Prob[i] * (i - EX + 1) * (i - EX + 1);
     }
@@ -99,12 +96,12 @@ cpp_rational D(vector<cpp_rational> &Prob){
 }
 
 int main(){
-    vector<cpp_rational> Prob(MAX_GACHA_NB);
-    vector<cpp_rational> Acc(MAX_GACHA_NB);
-    cpp_rational sum = 0;
+    vector<double> Prob(MAX_GACHA_NB);
+    vector<double> Acc(MAX_GACHA_NB);
+    double sum = 0;
     for(int i = 1; i < MAX_GACHA_NB; ++i){
         Acc[i - 1] = sum;
-        Prob[i - 1] = getFirstSpecProb(i, cpp_rational(35, 100));
+        Prob[i - 1] = getFirstSpecProb(i, 0.35);
         sum += Prob[i - 1];
     }
     Acc[MAX_GACHA_NB - 1] = 1;
@@ -113,11 +110,11 @@ int main(){
     // Display
     cout << scientific;
     for(int i = 0; i < MAX_GACHA_NB; ++i){
-        cout << "P{Y == " << i + 1 << "} = " << static_cast<cpp_dec_float_100>(Prob[i]) << endl;
+        cout << "P{Y == " << i + 1 << "} = " << Prob[i] << endl;
     }
 
-    cout << "E(X) = " << static_cast<cpp_dec_float_100>(E(Prob)) << endl;
-    cout << "D(X) = " << static_cast<cpp_dec_float_100>(D(Prob)) << endl;
+    cout << "E(X) = " << E(Prob) << endl;
+    cout << "D(X) = " << D(Prob) << endl;
 
     return 0;
 }
