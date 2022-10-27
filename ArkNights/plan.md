@@ -37,7 +37,7 @@
 | 星源       | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 | Stage 6    | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
 | 因陀罗     | 斗士     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
-| 鞭刃       | 教官     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
+| 鞭刃       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | Stage 5    | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 赤冬       | 武者     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 |            | 解放者   | 第一批   |          |          |          |          |          |             |
