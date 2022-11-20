@@ -16,14 +16,14 @@
 | 耀骑士临光   | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
 | 桃金娘       | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令           | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  |          |          |          | $\triangle$ |
+| 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
@@ -184,7 +184,6 @@
 | 亚叶         | 医师     | 活动     |          |          |          |          | $\empty$ |             |
 | 暴雨         | 铁卫     | 活动     |          |          |          |          | $\empty$ |             |
 
-嵯峨 聚合剂 2 纳米片 3 钢丝球 4
 缄默德克萨斯 纳米片 2 单元 3 聚合剂 4
 陈 单元 3 聚合剂 4 
 莫斯提马 单元 2 聚合剂 3 纳米片 4
@@ -192,6 +191,6 @@
 星源 白马醇 3 电路 4 精炼溶剂 5
 鞭刃 四号酯 3 四号酮 4 铁块 5
 
-单元 8 纳米片 9 聚合剂 13 钢丝球 4
+单元 8 纳米片 6 聚合剂 11
 铁块 8 大蓝月亮 4 红刺球 4 白马醇 3
 电路 4 精炼溶剂 5 四号酯 3 四号酮 4
