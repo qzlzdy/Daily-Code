@@ -16,7 +16,7 @@
 | 耀骑士临光   | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$ |
+| 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 桃金娘       | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -51,7 +51,7 @@
 | 灰毫         | 要塞     | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 夜半         | 战术家   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2        | 2        | 2        | 2           |
-| 晓歌         | 情报官   | 第一批   |          |          |          |          | $\empty$ |             |
+| 晓歌         | 情报官   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  |          |          |          | $\empty$ |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1        | 1        | 1        | 1           |
 | 濯尘芙蓉     | 咒愈师   | 第一批   |          |          |          |          | $\empty$ |             |
