@@ -26,11 +26,11 @@
 | 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 温蒂         | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 歌蕾蒂娅     | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
-| 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
+| 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 薄绿         | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 爱丽丝       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
@@ -39,9 +39,9 @@
 | 鞭刃         | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 |              | 解放者   | 第一批   |          |          |          |          |          |             |
-| 守林人       | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
+| 远牙         | 神射手   | 第一批   |          |          |          |          |          |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
-| 松果         | 散射手   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
+| 松果         | 散射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 森蚺         | 决战者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
@@ -99,7 +99,7 @@
 | 诗怀雅       | 教官     | 第二批   |          |          |          |          | $\empty$ |             |
 |              | 武者     | 第二批   |          |          |          |          |          |             |
 |              | 解放者   | 第二批   |          |          |          |          |          |             |
-| 子月         | 神射手   | 第二批   |          |          |          |          | $\empty$ |             |
+| 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 |              | 散射手   | 第二批   |          |          |          |          |          |             |
 | 极光         | 决战者   | 第二批   |          |          |          |          | $\empty$ |             |
 | 坚雷         | 驭法铁卫 | 第二批   |          |          |          |          | $\empty$ |             |
@@ -189,8 +189,6 @@
 | 亚叶         | 医师     | 活动     |          |          |          |          | $\empty$ |             |
 | 暴雨         | 铁卫     | 活动     |          |          |          |          | $\empty$ |             |
 
-早露 单元 4
-陈 单元 3 聚合剂 4 
 莫斯提马 单元 2 聚合剂 3 纳米片 4
 爱丽丝 铁块 3 大蓝月亮 4 红刺球 4
 星源 白马醇 3 电路 4 精炼溶剂 5
@@ -198,7 +196,7 @@
 守林人 四号酮 3 锰块 4 研磨石 5
 森蚺 纳米片 2 聚合剂 3 钢 4
 
-单元 9 聚合剂 10 纳米片 6 铁块 8
+单元 2 聚合剂 6 纳米片 6 铁块 8
 大蓝月亮 4 红刺球 4 白马醇 3 电路 4
 精炼溶剂 5 四号酯 3 四号酮 7 锰块 4
 研磨石 5 钢 4
