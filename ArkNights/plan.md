@@ -32,11 +32,11 @@
 | 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  |          |          | $\surd$  |             |
+| 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 爱丽丝       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
-| 鞭刃         | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
+| 鞭刃         | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
 |              | 解放者   | 第一批   |          |          |          |          |          |             |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
@@ -99,7 +99,7 @@
 | 诗怀雅       | 教官     | 第二批   |          |          |          |          | $\empty$ |             |
 |              | 武者     | 第二批   |          |          |          |          |          |             |
 |              | 解放者   | 第二批   |          |          |          |          |          |             |
-| 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\triangle$ |
+| 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 |              | 散射手   | 第二批   |          |          |          |          |          |             |
 | 极光         | 决战者   | 第二批   |          |          |          |          | $\empty$ |             |
 | 坚雷         | 驭法铁卫 | 第二批   |          |          |          |          | $\empty$ |             |
@@ -191,10 +191,9 @@
 | 暴雨         | 铁卫     | 活动     |          |          |          |          | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |          |          | $\empty$ |             |
 
-鞭刃 四号酯 3 四号酮 4 铁块 5
-守林人 四号酮 3 锰块 4 研磨石 5
+赤冬 土块 3 糖块 4 装置 5
 远牙 钢 2 纳米片 3 单元 4
 森蚺 纳米片 2 钢 3 单元 4
 
-四号酯 3 四号酮 7 铁块 5 锰块 4
-研磨石 5 钢 5 纳米片 5 单元 8
+土块 3 糖块 4 装置 5 钢 5
+纳米片 5 单元 8
