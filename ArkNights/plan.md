@@ -44,10 +44,10 @@
 | 森蚺         | 决战者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
-| 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
+| 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 灰毫         | 要塞     | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
-| 夜半         | 战术家   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
+| 夜半         | 战术家   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4        | 4        | 4        | 4           |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
