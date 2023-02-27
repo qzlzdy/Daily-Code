@@ -1,11 +1,12 @@
 # ArkNights
 
-## [明日方舟](https://ak.hypergryph.com/)限定干员概率分布
+## [明日方舟](https://ak.hypergryph.com/)限定干员概率分布计算
 
 ### 编译
 
 ```bash
-g++ -std=c++20 -O3 -fPIC -o gacha gacha.cpp
+cd ArkNights
+g++ gacha.cpp -o gacha -std=c++23 -O3 -fPIC -Wall -Wpedantic
 ```
 
 ### 运行
@@ -24,20 +25,17 @@ g++ -std=c++20 -O3 -fPIC -o gacha gacha.cpp
 
 # HDOJ
 
-[HDOJ](https://acm.hdu.edu.cn/)刷题源代码
-
-# Homework
-
-部分本科期间课程设计源代码
+[HDOJ](https://acm.hdu.edu.cn/)OJ源代码
 
 # Minecraft
 
-## [Minecraft](https://www.minecraft.net/)[TerraFirmaCraft](https://terrafirmacraft.com/)锻造辅助计算工具
+## [Minecraft](https://www.minecraft.net/) Mod [TerraFirmaCraft](https://terrafirmacraft.com/)锻造辅助计算工具
 
 ### 编译
 
 ```bash
-g++ -std=c++20 -O3 -fPIC -o forge forge.cpp
+cd Minecraft
+g++ forge.cpp -o forge -std=c++23 -O3 -fPIC -Wall -Wpedantic
 ```
 
 ### 运行
@@ -55,6 +53,7 @@ g++ -std=c++20 -O3 -fPIC -o forge forge.cpp
 ## 编译
 
 ```bash
+cd Setu
 mkdir build
 cd build
 cmake ..
@@ -68,3 +67,13 @@ make
 `pretty`用于在去除冗余色图后整理色图编号填补空缺
 
 `encode`对未编号的色图编号
+
+# Trackers
+
+## Trackers列表同步脚本
+
+## 运行
+
+```bash
+./merge.sh
+```
