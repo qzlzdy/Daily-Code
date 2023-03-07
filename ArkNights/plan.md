@@ -8,7 +8,7 @@
 | 风笛         | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 浊心斯卡蒂   | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 泥岩         | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
-| 伊芙利特     | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
+| 伊芙利特     | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 能天使       | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 拉普兰德     | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
@@ -23,11 +23,11 @@
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令           | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
+| 麒麟X夜刀    | 处决者   | 第一批   |          |          |          |          |          |             |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 温蒂         | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
+| 温蒂         | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 歌蕾蒂娅     | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -83,7 +83,7 @@
 | 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 耶拉         | 驭械术师 | 第二批   | $\surd$  |          |          |          | $\empty$ |             |
 | 麦哲伦       | 召唤师   | 第二批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 红           | 处决者   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
+| 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 绮良         | 伏击客   | 第二批   |          |          |          |          | $\empty$ |             |
 | 普罗旺斯     | 重射手   | 第二批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 埃拉托       | 攻城手   | 第二批   |          |          |          |          | $\empty$ |             |
@@ -179,6 +179,7 @@
 | 梅           | 速射手   | 成就     |          |          |          |          | $\empty$ |             |
 | 慕斯         | 术战者   | 成就     |          |          |          |          | $\empty$ |             |
 | 夏栎         | 护佑者   | 成就     |          |          |          |          | $\empty$ |             |
+| 酸糖         | 重射手   | 成就     |          |          |          |          | $\empty$ |             |
 | 炎狱炎熔     | 扩散术师 | ~~任务~~ |          |          |          |          | $\empty$ |             |
 | 临光         | 守护者   | ~~任务~~ |          |          |          |          | $\empty$ |             |
 | 寒芒克洛丝   | 速射手   | ~~任务~~ |          |          |          |          | $\empty$ |             |
@@ -192,7 +193,10 @@
 | 暴雨         | 铁卫     | 活动     |          |          |          |          | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |          |          | $\empty$ |             |
 
+伊芙利特 纳米片 2 单元 3 聚合剂 4
+温蒂 聚合剂 2 纳米片 3 钢 4
 远牙 钢 2 纳米片 3 单元 4
 森蚺 纳米片 2 钢 3 单元 4
 
-钢 5 纳米片 5 单元 8
+纳米片 10 单元 11 聚合剂 6
+钢 9
