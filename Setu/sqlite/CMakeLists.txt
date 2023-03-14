@@ -8,3 +8,4 @@ add_compile_definitions(
 target_link_libraries(sqlite pthread)
 
 target_include_directories(sqlite PUBLIC ${CMAKE_SOURCE_CURRENT_DIR})
+

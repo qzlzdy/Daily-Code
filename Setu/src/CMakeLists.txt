@@ -7,3 +7,4 @@ target_link_libraries(pretty sqlite)
 
 add_executable(dbinit dbinit.cpp)
 target_link_libraries(dbinit sqlite)
+

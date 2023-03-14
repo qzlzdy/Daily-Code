@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include <filesystem>
 #include <fstream>
 #include <iostream>
@@ -25,5 +26,5 @@ int main(){
                  << " " << newname.string() << endl;
         }
     }
-    return 0;
+    return EXIT_SUCCESS;
 }

@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include <filesystem>
 #include <iostream>
 #include <string>
@@ -54,5 +55,5 @@ int main(){
         sqlite3_finalize(stmt);
     }
     sqlite3_close_v2(db);
-    return 0;
+    return EXIT_SUCCESS;
 }

@@ -1,14 +1,12 @@
+from anime_face_detector import create_detector
 import cv2
 from PIL import Image
-from anime_face_detector import create_detector
 
 setuRoot = "/run/media/qzlzdy/Data/qzlzdy/setu"
 datasetRoot = "/home/qzlzdy/Datasets/setu"
 
 def getPath(illust_id):
-    extensions = [
-        "jpg", "png", "bmp", "jpeg", "JPEG", "JPG"
-    ]
+    extensions = ["jpg", "png", "bmp"]
     for ext in extensions:
         try:
             probe = Image.open(f"{setuRoot}/H{illust_id}.{ext}")
@@ -57,3 +55,4 @@ if __name__ == "__main__":
     for i in l:
         print(f"cropping illustration {i}")
         detect(i)
+

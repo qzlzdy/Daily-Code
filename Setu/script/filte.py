@@ -14,3 +14,4 @@ for path in setus:
     count += 1
     if count % 100 == 0:
         print(f"process [{count} / {total}]")
+

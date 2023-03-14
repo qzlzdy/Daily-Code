@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include <filesystem>
 #include <fstream>
 #include <iostream>
@@ -122,5 +123,5 @@ int main(){
     }
     sqlite3_close_v2(db);
     logfile.close();
-    return 0;
+    return EXIT_SUCCESS;
 }
