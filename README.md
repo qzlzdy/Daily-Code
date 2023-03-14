@@ -1,66 +1,84 @@
-# ArkNights
+- [1. ArkNights](#1-arknights)
+  - [1.1. 明日方舟限定干员抽取次数概率分布](#11-明日方舟限定干员抽取次数概率分布)
+    - [1.1.1. Build](#111-build)
+    - [1.1.2. Run](#112-run)
+  - [1.2. 干员培养计划表](#12-干员培养计划表)
+- [2. DolphinDBPlugin](#2-dolphindbplugin)
+- [3. HDOJ](#3-hdoj)
+- [4. Minecraft](#4-minecraft)
+  - [4.1. Minecraft Mod TerraFirmaCraft锻造辅助计算工具](#41-minecraft-mod-terrafirmacraft锻造辅助计算工具)
+    - [4.1.1. Build](#411-build)
+    - [4.1.2. Run](#412-run)
+- [5. Setu](#5-setu)
+  - [5.1. Build](#51-build)
+  - [5.2. Usage](#52-usage)
+- [6. Trackers](#6-trackers)
+  - [6.1. Trackers列表同步脚本](#61-trackers列表同步脚本)
+  - [6.2. Run](#62-run)
 
-## [明日方舟](https://ak.hypergryph.com/)限定干员概率分布计算
+# 1. ArkNights
 
-### 编译
+## 1.1. [明日方舟](https://ak.hypergryph.com/)限定干员抽取次数概率分布
+
+### 1.1.1. Build
 
 ```bash
 cd ArkNights
-g++ gacha.cpp -o gacha -std=c++23 -O3 -fPIC -Wall -Wpedantic
+g++ gacha.cpp -o gacha -std=c++23 -O3 -fPIC -Wall -Wpedantic -Werror
 ```
 
-### 运行
+### 1.1.2. Run
 
 ```bash
-./gacha
+gacha
 ```
 
-## 干员培养计划表
+## 1.2. 干员培养计划表
 
 自用
 
-# DolphinDBPlugin
+# 2. DolphinDBPlugin
 
 [DolphinDB](http://dolphindb.com)实习期间工作
 
-# HDOJ
+# 3. HDOJ
 
 [HDOJ](https://acm.hdu.edu.cn/)OJ源代码
 
-# Minecraft
+# 4. Minecraft
 
-## [Minecraft](https://www.minecraft.net/) Mod [TerraFirmaCraft](https://terrafirmacraft.com/)锻造辅助计算工具
+## 4.1. [Minecraft](https://www.minecraft.net/) Mod [TerraFirmaCraft](https://terrafirmacraft.com/)锻造辅助计算工具
 
-### 编译
+### 4.1.1. Build
 
 ```bash
 cd Minecraft
-g++ forge.cpp -o forge -std=c++23 -O3 -fPIC -Wall -Wpedantic
+g++ forge.cpp -o forge -std=c++23 -O3 -fPIC -Wall -Wpedantic -Werror
 ```
 
-### 运行
+### 4.1.2. Run
 
 ```bash
-./forge target
+forge target
 ```
 
 `target`为目标偏移值
 
-# Setu
+# 5. Setu
 
-[猫猫酱](https://github.com/qzlzdy/Neko-Chan)色图库PC端源代码
+[猫猫ちゃん](https://github.com/qzlzdy/Neko-Chan2.git)色图库PC端源代码
 
-## 编译
+## 5.1. Build
 
 ```bash
 cd Setu
 mkdir build
 cd build
-cmake ..
-make
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+make -j4
 ```
 
-## 用途
+## 5.2. Usage
 
 `dbinit`初始化色图扩展名数据库
 
@@ -68,12 +86,12 @@ make
 
 `encode`对未编号的色图编号
 
-# Trackers
+# 6. Trackers
 
-## Trackers列表同步脚本
+## 6.1. Trackers列表同步脚本
 
-## 运行
+## 6.2. Run
 
 ```bash
-./merge.sh
+merge.sh
 ```

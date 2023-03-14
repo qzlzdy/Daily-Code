@@ -1,4 +1,5 @@
 #include <array>
+#include <cstdlib>
 #include <iomanip>
 #include <iostream>
 #include <mutex>
@@ -48,12 +49,11 @@ static double getFirstSixProb(unsigned Count){
  * 
  * @return 当次为首次限定概率
  */
-const unsigned MAX_GACHA_NB = 300;
 once_flag InitFirstSpecProb;
 static double getFirstSpecProb(unsigned Count, double a){
-    static array<double, MAX_GACHA_NB - 1> FirstSpecProb;
+    static array<double, 299> FirstSpecProb;
     call_once(InitFirstSpecProb, [&](){
-        for(int i = 1; i < MAX_GACHA_NB; ++i){
+        for(size_t i = 1; i < 300; ++i){
             double prob = 0;
             for(int j = 1; j < 100 && i - j > 0; ++j){
                 prob += FirstSpecProb[i - j - 1] * getFirstSixProb(j);
@@ -74,7 +74,7 @@ static double getFirstSpecProb(unsigned Count, double a){
  */
 double E(vector<double> &Prob){
     double res = 0;
-    for(int i = 0; i < Prob.size(); ++i){
+    for(size_t i = 0; i < Prob.size(); ++i){
         res += Prob[i] * (i + 1);
     }
     return res;
@@ -89,32 +89,32 @@ double E(vector<double> &Prob){
 double D(vector<double> &Prob){
     double EX = E(Prob);
     double res = 0;
-    for(int i = 0; i < Prob.size(); ++i){
+    for(size_t i = 0; i < Prob.size(); ++i){
         res += Prob[i] * (i - EX + 1) * (i - EX + 1);
     }
     return res;
 }
 
 int main(){
-    vector<double> Prob(MAX_GACHA_NB);
-    vector<double> Acc(MAX_GACHA_NB);
+    vector<double> Prob(300);
+    vector<double> Acc(300);
     double sum = 0;
-    for(int i = 1; i < MAX_GACHA_NB; ++i){
+    for(int i = 1; i < 300; ++i){
         Acc[i - 1] = sum;
         Prob[i - 1] = getFirstSpecProb(i, 0.35);
         sum += Prob[i - 1];
     }
-    Acc[MAX_GACHA_NB - 1] = 1;
-    Prob[MAX_GACHA_NB - 1] = 1 - sum;
+    Acc[299] = 1;
+    Prob[299] = 1 - sum;
 
     // Display
     cout << scientific;
-    for(int i = 0; i < MAX_GACHA_NB; ++i){
+    for(int i = 0; i < 300; ++i){
         cout << "P{Y == " << i + 1 << "} = " << Prob[i] << endl;
     }
 
     cout << "E(X) = " << E(Prob) << endl;
     cout << "D(X) = " << D(Prob) << endl;
 
-    return 0;
+    return EXIT_SUCCESS;
 }
