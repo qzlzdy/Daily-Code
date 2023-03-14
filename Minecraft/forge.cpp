@@ -44,5 +44,5 @@ int main(int args, char **argv){
     };
     printSolution(Q.front());
     cout << endl;
-    return 0;
+    return EXIT_SUCCESS;
 }
