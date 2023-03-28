@@ -23,7 +23,7 @@
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令           | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  |          |          |          |          | $\triangle$ |
+| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  |          |          |          | $\triangle$ |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -83,7 +83,7 @@
 | 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 耶拉         | 驭械术师 | 第二批   | $\surd$  |          |          |          | $\empty$ |             |
 | 麦哲伦       | 召唤师   | 第二批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  |             |
-| 缄默德克萨斯 | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
+| 缄默德克萨斯 | 处决者   | 第二批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 绮良         | 伏击客   | 第二批   |          |          |          |          | $\empty$ |             |
 | 普罗旺斯     | 重射手   | 第二批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 埃拉托       | 攻城手   | 第二批   |          |          |          |          | $\empty$ |             |
@@ -92,7 +92,7 @@
 | 海沫         | 收割者   | 第二批   |          |          |          |          | $\empty$ |             |
 | 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  |          |          |          |             |
 | 天火         | 扩散术师 | 第二批   |          |          |          |          | $\empty$ |             |
-| 卡涅利安     | 阵法术士 | 第二批   |          |          |          |          |          |             |
+| 卡涅利安     | 阵法术士 | 第二批   | $\surd$  | $\surd$  |          |          |          |             |
 | 深靛         | 秘术师   | 第二批   |          |          |          |          | $\empty$ |             |
 | 惊蛰         | 链术师   | 第二批   | $\surd$  | $\surd$  |          |          | $\empty$ |             |
 | 达格达       | 斗士     | 第二批   |          |          |          |          | $\empty$ |             |
