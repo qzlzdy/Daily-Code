@@ -23,7 +23,7 @@
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令           | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  |          |          |          | $\triangle$ |
+| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  | $\surd$     |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -194,10 +194,9 @@
 | 暴雨         | 铁卫     | 活动     |          |          |          |          | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |          |          | $\empty$ |             |
 
-麒麟X夜刀X 钢 2 纳米片 3 单元 4
 温蒂X 聚合剂 2 纳米片 3 钢 4
 远牙X 钢 2 纳米片 3 单元 4
 森蚺X 纳米片 2 钢 3 单元 4
 
-钢 11 纳米片 11 单元 12
-聚合剂 2
+聚合剂 2 纳米片 8 钢 7
+单元 8
