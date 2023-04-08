@@ -23,7 +23,7 @@
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
 | 令           | 召唤师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\surd$  | $\surd$     |
+| 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 黑           | 重射手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
@@ -32,7 +32,7 @@
 | 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$     |
-| 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  |             |
+| 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\triangle$ |
 | 爱丽丝       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
@@ -181,6 +181,8 @@
 | 慕斯         | 术战者   | 成就     |          |          |          |          | $\empty$ |             |
 | 夏栎         | 护佑者   | 成就     |          |          |          |          | $\empty$ |             |
 | 酸糖         | 重射手   | 成就     |          |          |          |          | $\empty$ |             |
+| 摩根         | 无畏者   | 成就     |          |          |          |          | $\empty$ |             |
+| 卡达         | 驭械术师 | 成就     |          |          |          |          | $\empty$ |             |
 | 炎狱炎熔     | 扩散术师 | ~~任务~~ |          |          |          |          | $\empty$ |             |
 | 临光         | 守护者   | ~~任务~~ |          |          |          |          | $\empty$ |             |
 | 寒芒克洛丝   | 速射手   | ~~任务~~ |          |          |          |          | $\empty$ |             |
@@ -195,8 +197,9 @@
 | 截云         | 炮手     | 活动     |          |          |          |          | $\empty$ |             |
 
 温蒂X 聚合剂 2 纳米片 3 钢 4
+林X 钢 2 单元 3 聚合剂 4
 远牙X 钢 2 纳米片 3 单元 4
 森蚺X 纳米片 2 钢 3 单元 4
 
-聚合剂 2 纳米片 8 钢 7
-单元 8
+聚合剂 6 纳米片 8 钢 9
+单元 11
