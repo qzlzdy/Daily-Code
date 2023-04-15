@@ -48,7 +48,7 @@
 | 夜半         | 战术家   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6        | 6        | 6        | 6           |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
-| 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
+| 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$  | $\surd$  | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5        | 5        | 5        | 5           |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  |          | $\surd$  | $\empty$ |             |
