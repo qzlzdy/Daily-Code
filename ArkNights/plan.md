@@ -36,7 +36,7 @@
 | 爱丽丝       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 帕拉斯       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 帕拉斯       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 解放者   | 第一批   |          |          |         |         |          |             |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
@@ -45,14 +45,14 @@
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 灰毫         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 缪尔赛思     | 战术家   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
+| 缪尔赛思     | 战术家   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 淬羽赫默     | 护佑者   | 第一批   |          |          |         |         |          |             |
+| 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  |         |         |          |             |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  |         |         |          |             |
@@ -132,11 +132,9 @@
 | 摩根         | 无畏者   | 活动     |          |          |         |         |          |             |
 |              |          | 服装     |          |          |         |         |          |             |
 
-帕拉斯X 聚合剂 4
 远牙X 钢 2 纳米片 3 单元 4
 森蚺X 纳米片 2 钢 3 单元 4
 锡兰X 蓝月亮 3 大装置 4 电路 5
 
-聚合剂 4 钢 5 纳米片 5
-单元 8  蓝月亮 3 大装置 4
-电路 5
+钢 5 纳米片 5 单元 8
+蓝月亮 3 大装置 4 电路 5
