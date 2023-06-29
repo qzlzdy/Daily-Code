@@ -50,7 +50,7 @@
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
