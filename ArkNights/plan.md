@@ -17,7 +17,7 @@
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 桃金娘       | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 桃金娘       | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -132,10 +132,12 @@
 | 摩根         | 无畏者   | 活动     |          |          |         |         |          |             |
 |              |          | 服装     |          |          |         |         |          |             |
 
+桃金娘X 刺球 4 蓝酯 5 洗衣液 6
 森蚺X 纳米片 2 钢 3 单元 4
 锡兰X 蓝月亮 3 大装置 4 电路 5
 初雪X 大铁块 3 大装置 4 大锰块 5
 
+刺球 4 蓝酯 5 洗衣液 6
 纳米片 2 钢 3 单元 4
 蓝月亮 3 大装置 8 电路 5
 大铁块 3 大锰块 5
