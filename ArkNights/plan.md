@@ -52,7 +52,7 @@
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
