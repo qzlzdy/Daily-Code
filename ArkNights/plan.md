@@ -3,7 +3,7 @@
 | 干员         | 职业     | 备注     | 精二     | 满级     | 1-专三  | 2-专三  | 3-专三   | 模组        |
 | ------------ | -------- | -------- | -------- | -------- | ------- | ------- | -------- | ----------- |
 | 艾雅法拉     | 中坚术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 煌           | 强攻手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 煌           | 强攻手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 塞雷娅       | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 风笛         | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 浊心斯卡蒂   | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
@@ -12,12 +12,12 @@
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 能天使       | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 拉普兰德     | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 蜜莓         | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 纯烬艾雅法拉 | 行医     | 第一批   |          |          |         |         |          |             |
 | 耀骑士临光   | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  |         |         |          |             |
+| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  |         |         |          | $\surd$     |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -29,7 +29,7 @@
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 温蒂         | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 歌蕾蒂娅     | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -55,25 +55,25 @@
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-|              | 行商     | 第一批   |          |          |         |         |          |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
+| 琳琅诗怀雅   | 行商     | 第一批   |          |          |         |         |          |             |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
-| 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 海蒂         | 吟游者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 火神         | 不屈者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 |              | 轰击术师 | 第二批   |          |          |         |         |          |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 铸铁         | 术战者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 霜叶         | 领主     | 第二批   |          |          |         |         | $\empty$ |             |
-| 桑葚         | 行医     | 第二批   |          |          |         |         | $\empty$ |             |
+| 蜜莓         | 行医     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 陨星         | 炮手     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
@@ -134,13 +134,15 @@
 | 摩根         | 无畏者   | 活动     |          |          |         |         |          |             |
 |              |          | 服装     |          |          |         |         |          |             |
 
-琴柳X 钢 4
+煌X 聚合剂 2 纳米片 3 钢 4
+羽毛笔X 醇 3 电路 4 溶剂 5
 森蚺X 纳米片 2 钢 3 单元 4
 锡兰X 蓝月亮 3 大装置 4 电路 5
 初雪X 大铁块 3 大装置 4 大锰块 5
 罗比菈塔X 研磨石 4 蓝酮 5 口香糖 6
 
-钢 7 纳米片 2 单元 4
-蓝月亮 3 大装置 8 电路 5
+聚合剂 2 纳米片 5 钢 7
+醇 3 电路 9 溶剂 5
+单元 4 蓝月亮 3 大装置 8
 大铁块 3 大锰块 5 研磨石 4
 蓝酮 5 口香糖 6
