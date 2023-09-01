@@ -12,7 +12,7 @@
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 能天使       | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 拉普兰德     | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  |          | $\surd$ |         |          |             |
+| 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 耀骑士临光   | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -29,7 +29,7 @@
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 温蒂         | 推击手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 歌蕾蒂娅     | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 羽毛笔       | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -56,7 +56,7 @@
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 琳琅诗怀雅   | 行商     | 第一批   |          |          |         |         | $\surd$  |             |
+| 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  |             |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
@@ -134,13 +134,11 @@
 | 摩根         | 无畏者   | 活动     |          |          |         |         |          |             |
 |              |          | 服装     |          |          |         |         |          |             |
 
-羽毛笔X 醇 3 电路 4 溶剂 5
 森蚺X 纳米片 2 钢 3 单元 4
 锡兰X 蓝月亮 3 大装置 4 电路 5
 初雪X 大铁块 3 大装置 4 大锰块 5
 罗比菈塔X 研磨石 4 蓝酮 5 口香糖 6
 
-醇 3 电路 9 溶剂 5
 纳米片 2 钢 3 单元 4
 蓝月亮 3 大装置 8 大铁块 3
 大锰块 5 研磨石 4 蓝酮 5
