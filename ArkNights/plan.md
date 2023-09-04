@@ -17,7 +17,7 @@
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  | $\surd$     |
+| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  | $\surd$     |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -41,7 +41,7 @@
 |              | 解放者   | 第一批   |          |          |         |         |          |             |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 松果         | 散射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 森蚺         | 决战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 森蚺         | 决战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 灰毫         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -133,13 +133,3 @@
 | 截云         | 炮手     | 活动     |          |          |         |         | $\empty$ |             |
 | 摩根         | 无畏者   | 活动     |          |          |         |         |          |             |
 |              |          | 服装     |          |          |         |         |          |             |
-
-森蚺X 纳米片 2 钢 3 单元 4
-锡兰X 蓝月亮 3 大装置 4 电路 5
-初雪X 大铁块 3 大装置 4 大锰块 5
-罗比菈塔X 研磨石 4 蓝酮 5 口香糖 6
-
-纳米片 2 钢 3 单元 4
-蓝月亮 3 大装置 8 大铁块 3
-大锰块 5 研磨石 4 蓝酮 5
-口香糖 6
