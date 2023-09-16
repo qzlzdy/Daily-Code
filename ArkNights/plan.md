@@ -12,7 +12,7 @@
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 能天使       | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 拉普兰德     | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
+| 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 耀骑士临光   | 无畏者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -47,27 +47,28 @@
 | 灰毫         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 缪尔赛思     | 战术家   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
-| 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  |             |
+| 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 冰酿         | 猎手     | 第一批   |          |          |         |         | $\surd$  |             |
 | Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 海蒂         | 吟游者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| 海蒂         | 吟游者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 火神         | 不屈者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 |              | 轰击术师 | 第二批   |          |          |         |         |          |             |
 | 铸铁         | 术战者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
@@ -118,6 +119,7 @@
 |              | 行商     | 第二批   |          |          |         |         |          |             |
 |              | 重剑手   | 第二批   |          |          |         |         | $\empty$ |             |
 |              | 巫役     | 第二批   |          |          |         |         |          |             |
+|              | 猎手     | 第二批   |          |          |         |         |          |             |
 | 焰尾         | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 霍尔海雅     | 中坚术师 | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 阿米娅(C)    | 中坚术师 | 女儿     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
