@@ -17,7 +17,7 @@
 | W            | 炮手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 年           | 铁卫     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 嵯峨         | 尖兵     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  | $\surd$     |
+| 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 闪灵         | 医师     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 夜莺         | 群愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 安洁莉娜     | 凝滞师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -57,7 +57,7 @@
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 冰酿         | 猎手     | 第一批   |          |          |         |         | $\surd$  |             |
