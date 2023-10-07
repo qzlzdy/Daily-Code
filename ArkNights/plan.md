@@ -59,7 +59,7 @@
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
