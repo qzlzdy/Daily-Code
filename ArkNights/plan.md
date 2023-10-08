@@ -33,7 +33,7 @@
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 爱丽丝       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 戴菲恩       | 秘术师   | 第一批   |          |          |         |         | $\empty$ |             |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 帕拉斯       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -95,7 +95,7 @@
 | 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 天火         | 扩散术师 | 第二批   |          |          |         |         | $\empty$ |             |
 | 卡涅利安     | 阵法术士 | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
-| 深靛         | 秘术师   | 第二批   |          |          |         |         | $\empty$ |             |
+| 爱丽丝       | 秘术师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 惊蛰         | 链术师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 达格达       | 斗士     | 第二批   |          |          |         |         | $\empty$ |             |
 | 鞭刃         | 教官     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
