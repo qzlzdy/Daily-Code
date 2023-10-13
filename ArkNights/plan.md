@@ -33,7 +33,7 @@
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 戴菲恩       | 秘术师   | 第一批   |          |          |         |         | $\empty$ |             |
+| 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ | $\triangle$ |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 帕拉斯       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -49,7 +49,7 @@
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
