@@ -58,7 +58,7 @@
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -70,10 +70,10 @@
 | 火神         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 |              | 轰击术师 | 第二批   |          |          |         |         |          |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 铸铁         | 术战者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
+| 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
-| 霜叶         | 领主     | 第二批   |          |          |         |         | $\empty$ |             |
+| 霜叶         | 领主     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 蜜莓         | 行医     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 陨星         | 炮手     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
