@@ -33,7 +33,7 @@
 | 陈           | 剑豪     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 帕拉斯       | 教官     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -50,31 +50,31 @@
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
-| 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
+| Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
 | 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 海蒂         | 吟游者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 火神         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 |              | 轰击术师 | 第二批   |          |          |         |         |          |             |
-| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 霜叶         | 领主     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 蜜莓         | 行医     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 陨星         | 炮手     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
