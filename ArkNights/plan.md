@@ -7,7 +7,7 @@
 | 塞雷娅       | 守护者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 风笛         | 冲锋手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 浊心斯卡蒂   | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| 泥岩         | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 泥岩         | 不屈者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 伊芙利特     | 轰击术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 能天使       | 速射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -51,13 +51,14 @@
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 淬羽赫默     | 护佑者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 凛视         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 塑心         | 巫役     | 第一批   |          |          |         |         |          |             |
 | 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 跃跃         | 回环射手 | 第一批   | $\surd$  | $\surd$  | $\surd$ |         | $\empty$ |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
@@ -118,7 +119,7 @@
 |              | 陷阱师   | 第二批   |          |          |         |         |          |             |
 |              | 行商     | 第二批   |          |          |         |         |          |             |
 |              | 重剑手   | 第二批   |          |          |         |         | $\empty$ |             |
-|              | 巫役     | 第二批   |          |          |         |         |          |             |
+| 凛视         | 巫役     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 |              | 猎手     | 第二批   |          |          |         |         |          |             |
 | 焰尾         | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 霍尔海雅     | 中坚术师 | 六星     | $\surd$  | $\surd$  |         |         |          |             |
