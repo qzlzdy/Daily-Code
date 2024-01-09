@@ -64,7 +64,7 @@
 | 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ |          |             |
+| 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
