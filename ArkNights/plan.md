@@ -59,25 +59,25 @@
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 嵯峨         | 尖兵     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 凯尔希       | 强攻手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 瑕光         | 守护者   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 截云         | 炮手     | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| 炎狱炎熔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 亚叶         | 医师     | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 炎狱炎熔     | 扩散术师 | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
-| 亚叶         | 医师     | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 白面鸮       | 群愈师   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 |              | 轰击术师 | 第二批   |          |          |         |         |          |             |
 | 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 食铁兽       | 推击手   | 第二批   |          |          |         |         | $\empty$ |             |
 | 普罗旺斯     | 重射手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
