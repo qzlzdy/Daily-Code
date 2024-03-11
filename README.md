@@ -14,13 +14,13 @@
 
 ## 置顶
 - [ ] Ypologist - 红石计算机计划
-- [ ] Prosomoiotis - 生命模拟器计划
+- [ ] Prosomoiotis - 模拟器计划
 
 ## 2024年
 
 ### 2月前
 
-- [ ] Navidrome - 替换羊村广播站框架funkwhale为navidrome
+- [x] `(2024-03-11)`Navidrome - 替换羊村广播站框架funkwhale为navidrome
 - [ ] local music library - 完善本地音乐库
-- [ ] 二刷Psycho Pass(6/?)
+- [ ] 二刷Psycho Pass
 - [x] `(2024-02-17)` 建立TODO列表
