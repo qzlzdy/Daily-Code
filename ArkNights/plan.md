@@ -38,10 +38,10 @@
 | 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 塑心         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 艾拉         | 陷阱师   | 第一批   |          |          |         |         |          |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 罗宾         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 海沫         | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石英         | 重剑手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -66,7 +66,7 @@
 | 塞雷娅       | 守护者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 截云         | 炮手     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 菲亚梅塔     | 炮手     | 第二批   |          |          |         |         |          |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 炎狱炎熔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
@@ -100,10 +100,10 @@
 |              | 行商     | 第二批   |          |          |         |         |          |             |
 | 蜜莓         | 行医     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 凛视         | 巫役     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 罗宾         | 陷阱师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 达格达       | 斗士     | 第二批   |          |          |         |         | $\empty$ |             |
 | 絮雨         | 疗养师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 坚雷         | 驭法铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
-|              | 陷阱师   | 第二批   |          |          |         |         |          |             |
 | 惊蛰         | 链术师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 羽毛笔       | 收割者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 重剑手   | 第二批   |          |          |         |         |          |             |
@@ -148,5 +148,6 @@
 | 寒芒克洛丝   | 速射手   | 活动     |          |          |         |         | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |         |         | $\empty$ |             |
 | 摩根         | 无畏者   | 活动     |          |          |         |         | $\empty$ |             |
+| 截云         | 炮手     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | 红隼         | 尖兵     | 活动     |          |          |         |         | $\empty$ |             |
 |              |          | 服装     |          |          |         |         |          |             |
