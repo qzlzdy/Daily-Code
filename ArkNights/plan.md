@@ -27,7 +27,7 @@
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 浊心斯卡蒂   | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 魔王         | 吟游者   | 第一批   | $\surd$  |          |         |         |          |             |
 | 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -39,7 +39,8 @@
 | 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 塑心         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 艾拉         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 号角         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  | $\triangle$ |
+| 号角         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 维什戴尔     | 投掷手   | 第一批   |          |          |         |         |          |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -89,7 +90,7 @@
 | 耶拉         | 驭械术师 | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 贝娜         | 傀儡师   | 第二批   |          |          |         |         | $\empty$ |             |
-| 魔王         | 吟游者   | 第二批   |          |          |         |         |          |             |
+| 浊心斯卡蒂   | 吟游者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 缄默德克萨斯 | 处决者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 卡涅利安     | 阵法术士 | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
@@ -102,6 +103,7 @@
 | 凛视         | 巫役     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 罗宾         | 陷阱师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 灰毫         | 要塞     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+|              | 投掷手   | 第二批   |          |          |         |         |          |             |
 | 达格达       | 斗士     | 第二批   |          |          |         |         | $\empty$ |             |
 | 絮雨         | 疗养师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 坚雷         | 驭法铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
