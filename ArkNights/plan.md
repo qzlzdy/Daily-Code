@@ -27,7 +27,7 @@
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 魔王         | 吟游者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
+| 魔王         | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -46,8 +46,8 @@
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 海沫         | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 铎铃         | 重剑手   | 第一批   |          |          |         |         | $\empty$ |             |
-| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 铎铃         | 重剑手   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 跃跃         | 回环射手 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
