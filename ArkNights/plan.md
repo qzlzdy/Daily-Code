@@ -41,7 +41,7 @@
 | 艾拉         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 号角         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 维什戴尔     | 投掷手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 妮芙         | 本源术师 | 第一批   | $\surd$  | $\surd$  |         |         |          |             |
+| 妮芙         | 本源术师 | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -130,7 +130,7 @@
 | 灰烬         | 速射手   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 阿米娅(C)    | 中坚术师 | 主线     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 阿米娅(B)    | 术战者   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ | $\empty$    |
-| 阿米娅(A)    | 咒愈师   | 主线     | $\empty$ | $\empty$ |         |         | $\empty$ | $\empty$    |
+| 阿米娅(A)    | 咒愈师   | 主线     | $\empty$ | $\empty$ |         |         | $\empty$ |             |
 | 海蒂         | 吟游者   | 主线     | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 |              |          | 成就     |          |          |         |         |          |             |
 | 古米         | 守护者   | 礼包     |          |          |         |         | $\empty$ |             |
