@@ -57,7 +57,7 @@
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 假日威龙陈   | 散射手   | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  | $\triangle$ |
+| 假日威龙陈   | 散射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 罗比菈塔     | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -73,7 +73,7 @@
 | 菲亚梅塔     | 炮手     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 炎狱炎熔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 玛露西尔     | 扩散术师 | 第二批   |          |          |         |         | $\empty$ |             |
 | 亚叶         | 医师     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 白面鸮       | 群愈师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
@@ -154,6 +154,7 @@
 | 薄绿         | 阵法术士 | 活动     |          |          |         |         | $\empty$ |             |
 | 罗宾         | 陷阱师   | 活动     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 图耶         | 医师     | 活动     |          |          |         |         | $\empty$ |             |
+| 炎狱炎熔     | 扩散术师 | 活动     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 暴雨         | 铁卫     | 活动     |          |          |         |         | $\empty$ |             |
 | 布丁         | 链术师   | 活动     |          |          |         |         | $\empty$ |             |
 | 野鬃         | 冲锋手   | 活动     |          |          |         |         | $\empty$ |             |
