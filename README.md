@@ -22,5 +22,5 @@
 
 - [x] `(2024-03-11)`Navidrome - 替换羊村广播站框架funkwhale为navidrome
 - [ ] local music library - 完善本地音乐库
-- [ ] 二刷Psycho Pass
+- [x] 二刷Psycho Pass
 - [x] `(2024-02-17)` 建立TODO列表
