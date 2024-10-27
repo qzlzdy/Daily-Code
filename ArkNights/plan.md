@@ -27,7 +27,7 @@
 | 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 魔王         | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 魔王         | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 麒麟X夜刀    | 处决者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 远牙         | 神射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 林           | 阵法术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -58,7 +58,7 @@
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 凯瑟琳       | 工匠     | 第一批   |          |          |         |         | $\empty$ |             |
+| 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ | $\triangle$ |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 莎草         | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -74,7 +74,7 @@
 | 菲亚梅塔     | 炮手     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 玛露西尔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  |         |         |  |             |
+| 玛露西尔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 亚叶         | 医师     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 白面鸮       | 群愈师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
