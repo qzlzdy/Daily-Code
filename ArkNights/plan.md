@@ -24,7 +24,7 @@
 | 森蚺         | 决战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 歌蕾蒂娅     | 钩索师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 早露         | 攻城手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 澄闪         | 驭械术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 荒芜拉普兰德 | 驭械术师 | 第一批   |          |          |         |         |          |             |
 | 史尔特尔     | 术战者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 归溟幽灵鲨   | 傀儡师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 魔王         | 吟游者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -37,7 +37,7 @@
 | 琴柳         | 执旗手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 琳琅诗怀雅   | 行商     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 纯烬艾雅法拉 | 行医     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 塑心         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 塑心         | 巫役     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 艾拉         | 陷阱师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 号角         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 维什戴尔     | 投掷手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -58,11 +58,12 @@
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ | $\triangle$ |
+| 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 濯尘芙蓉     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 莎草         | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 空构         | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 云迹         | 巡空者   | 第一批   |          |          |         |         | $\empty$ |             |
 | 嵯峨         | 尖兵     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂       | 无畏者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -91,7 +92,7 @@
 | 极光         | 决战者   | 第二批   |          |          |         |         | $\empty$ |             |
 | 崖心         | 钩索师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 埃拉托       | 攻城手   | 第二批   |          |          |         |         | $\empty$ |             |
-| 耶拉         | 驭械术师 | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
+| 澄闪         | 驭械术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 贝娜         | 傀儡师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 浊心斯卡蒂   | 吟游者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
@@ -131,10 +132,12 @@
 | 刺玫         | 咒愈师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 明椒         | 链愈师   | 第二批   |          |          |         |         | $\empty$ |             |
 |              | 怪杰     | 第二批   |          |          |         |         |          |             |
+|              | 巡空者   | 第二批   |          |          |         |         | $\empty$ |             |
 | 瑕光         | 守护者   | 六星     | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 焰尾         | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 霍尔海雅     | 中坚术师 | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 灰烬         | 速射手   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
+| 弑君者       | 处决者   | 六星     |          |          |         |         |          |             |
 | 阿米娅(C)    | 中坚术师 | 主线     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 阿米娅(B)    | 术战者   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |
 | 阿米娅(A)    | 咒愈师   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |
@@ -161,6 +164,7 @@
 | 暴雨         | 铁卫     | 活动     |          |          |         |         | $\empty$ |             |
 | 布丁         | 链术师   | 活动     |          |          |         |         | $\empty$ |             |
 | 野鬃         | 冲锋手   | 活动     |          |          |         |         | $\empty$ |             |
+| 耶拉         | 驭械术师 | 活动     | $\surd$  |          |         |         | $\empty$ |             |
 | 寒芒克洛丝   | 速射手   | 活动     |          |          |         |         | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |         |         | $\empty$ |             |
 | 摩根         | 无畏者   | 活动     |          |          |         |         | $\empty$ |             |
