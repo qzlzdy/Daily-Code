@@ -12,7 +12,7 @@ int main(){
     ifstream CountFile(".prevCount");
     CountFile >> idx;
     CountFile.close();
-    fs::path root = "D:\\qzlzdy\\setu";
+    fs::path root = "D:\\Pictures\\setu";
     for(auto &file: fs::directory_iterator(root)){
         fs::path filename = file.path().filename();
         string stem = filename.stem().string();

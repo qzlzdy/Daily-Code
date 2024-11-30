@@ -10,7 +10,7 @@ using namespace std;
 namespace fs = filesystem;
 
 int main(){
-    fs::path root = "D:\\qzlzdy\\setu";
+    fs::path root = "D:\\Pictures\\setu";
     map<int, string> suffix;
     auto getId = [](const string &name){
         return stoi(name.substr(1));
@@ -54,7 +54,7 @@ int main(){
             exit(-1);
         }
     };
-    res = sqlite3_open_v2("D:\\qzlzdy\\Setu.db", &db,
+    res = sqlite3_open_v2("D:\\Pictures\\Setu.db", &db,
                           SQLITE_OPEN_READWRITE, nullptr);
     statusCheck("Database open failed", res);
     string INSERT_SQL =

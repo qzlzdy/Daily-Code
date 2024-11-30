@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_CXX_COMPILE_LAUNCHER ccache)
 
-add_compile_options(-Wall -Wpedantic)
+add_compile_options(-Wall)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 add_subdirectory(sqlite)
