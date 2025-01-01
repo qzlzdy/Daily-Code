@@ -60,10 +60,10 @@
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 焰影苇草     | 咒愈师   | 第一批   | $\surd$  |          |         |         |          | $\triangle$ |
+| 焰影苇草     | 咒愈师   | 第一批   | $\surd$  |          | $\surd$ | $\surd$ | $\surd$  | $\surd$$    |
 | 莎草         | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 空构         | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 云迹         | 巡空者   | 第一批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 云迹         | 巡空者   | 第一批   | $\surd$  |          | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | 第一批   | $\surd$  |          |         |         | $\empty$ |             |
 | 嵯峨         | 尖兵     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
