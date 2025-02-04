@@ -43,7 +43,7 @@
 | 维什戴尔     | 投掷手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 妮芙         | 本源术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 娜仁图亚     | 回环射手 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| 佩佩         | 撼地者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 佩佩         | 撼地者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 假日威龙陈   | 散射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -54,16 +54,16 @@
 | 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 拉普兰德     | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 仇白         | 领主     | 第一批   |          |          |         |         |          | $\triangle$ |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 晓歌         | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 焰影苇草     | 咒愈师   | 第一批   | $\surd$  |          | $\surd$ | $\surd$ | $\surd$  | $\surd$$    |
+| 焰影苇草     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$$    |
 | 莎草         | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 空构         | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 云迹         | 巡空者   | 第一批   | $\surd$  |          | $\surd$ | $\surd$ | $\empty$ |             |
+| 云迹         | 巡空者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | 第一批   | $\surd$  |          | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -87,7 +87,7 @@
 | 食铁兽       | 推击手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
-| 斥罪         | 不屈者   | 第二批   | $\surd$  |          |         |         |          |             |
+| 斥罪         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 麦哲伦       | 召唤师   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 极光         | 决战者   | 第二批   |          |          |         |         | $\empty$ |             |
@@ -109,7 +109,7 @@
 | 凛视         | 巫役     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 多萝西       | 陷阱师   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 灰毫         | 要塞     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 迷迭香       | 投掷手   | 第二批   | $\surd$  |          |         |         |          |             |
+| 迷迭香       | 投掷手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 温米         | 本源术师 | 第二批   |          |          |         |         | $\empty$ |             |
 | 跃跃         | 回环射手 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 |              | 撼地者   | 第二批   |          |          |         |         |          |             |
@@ -123,8 +123,7 @@
 |              | 猎手     | 第二批   |          |          |         |         |          |             |
 | 爱丽丝       | 秘术师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 巫恋         | 削弱者   | 第二批   |          |          |         |         | $\empty$ |             |
-| 烈夏         | 领主     | 第二批   |          |          |         |         | $\empty$ |             |
-| 霜叶         | 领主     | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 拉普兰德     | 领主     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 绮良         | 伏击客   | 第二批   |          |          |         |         | $\empty$ |             |
 | 深巡         | 哨戒铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
 | 宴           | 武者     | 第二批   |          |          |         |         | $\empty$ |             |
