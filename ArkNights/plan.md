@@ -54,7 +54,7 @@
 | 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 仇白         | 领主     | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
+| 仇白         | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 狮蝎         | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -72,24 +72,24 @@
 | 星熊         | 铁卫     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 塞雷娅       | 守护者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 空弦         | 速射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 菲亚梅塔     | 炮手     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 菲亚梅塔     | 炮手     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 玛露西尔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 亚叶         | 医师     | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 白面鸮       | 群愈师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 阿罗玛       | 轰击术师 | 第二批   |          |          |         |         | $\empty$ |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
-| 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
+| 阿罗玛       | 轰击术师 | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
 | 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 食铁兽       | 推击手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 斥罪         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 麦哲伦       | 召唤师   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 极光         | 决战者   | 第二批   |          |          |         |         | $\empty$ |             |
 | 崖心         | 钩索师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 埃拉托       | 攻城手   | 第二批   |          |          |         |         | $\empty$ |             |
