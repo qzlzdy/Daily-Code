@@ -2,22 +2,6 @@
     "version": "2.5.0",
     "records": [
         {
-            "operator_id": "char_4087_ines",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4087_ines",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 2,
-            "target": 3,
-            "hidden": false,
-            "selected": false
-        },
-        {
             "operator_id": "char_4132_ascln",
             "attribute": "ELITE_RANK",
             "current": 1,
