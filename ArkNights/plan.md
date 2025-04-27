@@ -49,8 +49,8 @@
 | 仇白         | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 死芒         | 塑灵术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 伊内丝       | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 阿斯卡纶     | 伏击客   | 第一批   |          |          |         |         |          |             |
-| Mon3tr       | 链愈师   | 第一批   |          |          |         |         |          |             |
+| 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  |          |         |         |          | $\triangle$ |
+| Mon3tr       | 链愈师   | 第一批   | $\surd$  |          |         |         |          |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
