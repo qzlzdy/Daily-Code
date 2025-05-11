@@ -49,8 +49,9 @@
 | 仇白         | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 死芒         | 塑灵术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 伊内丝       | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  |          |         |         |          | $\triangle$ |
+| 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
 | Mon3tr       | 链愈师   | 第一批   | $\surd$  |          |         |         |          |             |
+| 新约能天使   | 怪杰     | 第一批   |          |          |         |         |          |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -63,7 +64,6 @@
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
-| 空构         | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 云迹         | 巡空者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -121,6 +121,7 @@
 | 晓歌         | 情报官   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 狮蝎         | 伏击客   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 莎草         | 链愈师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 空构         | 怪杰     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 达格达       | 斗士     | 第二批   |          |          |         |         | $\empty$ |             |
 | 絮雨         | 疗养师   | 第二批   |          |          |         |         | $\empty$ |             |
 | 坚雷         | 驭法铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
@@ -133,7 +134,6 @@
 | 深巡         | 哨戒铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
 | 宴           | 武者     | 第二批   |          |          |         |         | $\empty$ |             |
 | 阿兰娜       | 工匠     | 第二批   |          |          |         |         | $\empty$ |             |
-|              | 怪杰     | 第二批   |          |          |         |         |          |             |
 |              | 巡空者   | 第二批   |          |          |         |         | $\empty$ |             |
 |              | 本源铁卫 | 第二批   |          |          |         |         |          |             |
 | 弑君者       | 处决者   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
