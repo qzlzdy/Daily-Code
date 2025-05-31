@@ -49,9 +49,9 @@
 | 仇白         | 领主     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 死芒         | 塑灵术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 伊内丝       | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
-| Mon3tr       | 链愈师   | 第一批   | $\surd$  |          |         |         |          |             |
-| 新约能天使   | 怪杰     | 第一批   |          |          |         |         |          |             |
+| 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  |             |
+| 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -61,6 +61,7 @@
 | 冰酿         | 猎手     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 戴菲恩       | 秘术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 初雪         | 削弱者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
 | 雷蛇         | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
