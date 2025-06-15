@@ -2,24 +2,8 @@
     "version": "2.5.0",
     "records": [
         {
-            "operator_id": "char_4132_ascln",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4132_ascln",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 2,
-            "target": 3,
-            "hidden": false,
-            "selected": false
-        },
-        {
             "operator_id": "char_1041_angel2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
+            "attribute": "MASTER_SKILL_3",
             "current": 0,
             "target": 1,
             "hidden": false,
@@ -27,7 +11,7 @@
         },
         {
             "operator_id": "char_1041_angel2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
+            "attribute": "MASTER_SKILL_3",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -35,14 +19,46 @@
         },
         {
             "operator_id": "char_1041_angel2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
+            "attribute": "MASTER_SKILL_3",
             "current": 2,
             "target": 3,
             "hidden": false,
             "selected": false
         },
         {
-            "operator_id": "char_4179_monstr",
+            "operator_id": "char_1041_angel2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1041_angel2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1041_angel2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1041_angel2",
+            "attribute": "MASTER_SKILL_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1041_angel2",
             "attribute": "MASTER_SKILL_1",
             "current": 1,
             "target": 2,
@@ -50,8 +66,32 @@
             "selected": false
         },
         {
-            "operator_id": "char_4179_monstr",
+            "operator_id": "char_1041_angel2",
             "attribute": "MASTER_SKILL_1",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1034_jesca2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1034_jesca2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1034_jesca2",
+            "attribute": "MASTER_SKILL_3",
             "current": 2,
             "target": 3,
             "hidden": false,
