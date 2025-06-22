@@ -50,8 +50,8 @@
 | 死芒         | 塑灵术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 伊内丝       | 情报官   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 阿斯卡纶     | 伏击客   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
-| 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  |         |         |          | $\surd$     |
+| Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
