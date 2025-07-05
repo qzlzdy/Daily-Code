@@ -20,9 +20,14 @@ int main(){
     };
     int count = 0;
     int last = 1;
+    cout << "Find largest id" << endl;
     for(auto &file: fs::directory_iterator(root)){
         fs::path filename = file.path().filename();
         string stem = filename.stem().string();
+        if (stem.front() != 'H') {
+            cout << "[WARNING] " << filename.string() << " not setu" << endl;
+            continue;
+        }
         string extension = filename.extension().string().substr(1);
         if(extension == "JPEG" || extension == "JPG" || extension == "jpeg"){
             extension = "jpg";
@@ -38,7 +43,9 @@ int main(){
     ifstream prevCountFile(".prevCount");
     prevCountFile >> prevCount;
     prevCountFile.close();
-    
+    cout << "Close .prevCount" << endl;
+
+    cout << "Write .prevCount" << endl;
     ofstream currCountFile(".prevCount");
     currCountFile << count;
     currCountFile.close();

@@ -15,6 +15,10 @@ int main(){
     fs::path root = "D:\\Pictures\\setu";
     for(auto &file: fs::directory_iterator(root)){
         fs::path filename = file.path().filename();
+        if (filename.string() == ".syncrootid") {
+            cout << "[WARNINGN] .syncrootid not setu" << endl;
+            continue;
+        }
         string stem = filename.stem().string();
         string extension = filename.extension().string();
         if(stem.front() != 'H'){
