@@ -53,7 +53,7 @@
 | Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
+| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  | $\triangle$ |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
