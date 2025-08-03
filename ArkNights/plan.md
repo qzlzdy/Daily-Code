@@ -53,7 +53,7 @@
 | Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  | $\triangle$ |
+| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  | $\triangle$ |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -103,7 +103,7 @@
 | 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 卡涅利安     | 阵法术士 | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 鞭刃         | 教官     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 九色鹿       | 护佑者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 遥           | 护佑者   | 第二批   |          |          |         |         |          |             |
 | 夜半         | 战术家   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 桃金娘       | 执旗手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 行商     | 第二批   |          |          |         |         |          |             |
@@ -173,6 +173,7 @@
 | 布丁         | 链术师   | 活动     |          |          |         |         | $\empty$ |             |
 | 野鬃         | 冲锋手   | 活动     |          |          |         |         | $\empty$ |             |
 | 耶拉         | 驭械术师 | 活动     | $\surd$  |          |         |         | $\empty$ |             |
+| 九色鹿       | 护佑者   | 活动     | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 寒芒克洛丝   | 速射手   | 活动     |          |          |         |         | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |         |         | $\empty$ |             |
 | 摩根         | 无畏者   | 活动     |          |          |         |         | $\empty$ |             |

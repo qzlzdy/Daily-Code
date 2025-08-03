@@ -2,8 +2,8 @@
     "version": "2.5.0",
     "records": [
         {
-            "operator_id": "char_1043_leizi2",
-            "attribute": "MASTER_SKILL_2",
+            "operator_id": "char_4202_haruka",
+            "attribute": "ELITE_RANK",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -11,7 +11,7 @@
         },
         {
             "operator_id": "char_1043_leizi2",
-            "attribute": "MASTER_SKILL_2",
+            "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
             "hidden": false,
@@ -19,7 +19,7 @@
         },
         {
             "operator_id": "char_1043_leizi2",
-            "attribute": "MASTER_SKILL_1",
+            "attribute": "ADVANCED_EQUIPMENT_1",
             "current": 0,
             "target": 1,
             "hidden": false,
@@ -27,7 +27,7 @@
         },
         {
             "operator_id": "char_1043_leizi2",
-            "attribute": "MASTER_SKILL_1",
+            "attribute": "ADVANCED_EQUIPMENT_1",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -35,7 +35,7 @@
         },
         {
             "operator_id": "char_1043_leizi2",
-            "attribute": "MASTER_SKILL_1",
+            "attribute": "ADVANCED_EQUIPMENT_1",
             "current": 2,
             "target": 3,
             "hidden": false,
