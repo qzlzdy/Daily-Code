@@ -2,6 +2,14 @@
     "version": "2.5.0",
     "records": [
         {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "ELITE_RANK",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
             "operator_id": "char_4202_haruka",
             "attribute": "ELITE_RANK",
             "current": 1,
@@ -10,7 +18,71 @@
             "selected": false
         },
         {
-            "operator_id": "char_1043_leizi2",
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
+            "attribute": "MASTER_SKILL_1",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1044_hsgma2",
             "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
@@ -18,26 +90,10 @@
             "selected": false
         },
         {
-            "operator_id": "char_1043_leizi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 0,
-            "target": 1,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1043_leizi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
+            "operator_id": "char_422_aurora",
+            "attribute": "ELITE_RANK",
             "current": 1,
             "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1043_leizi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 2,
-            "target": 3,
             "hidden": false,
             "selected": false
         }

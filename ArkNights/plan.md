@@ -53,10 +53,10 @@
 | Mon3tr       | 链愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  | $\triangle$ |
+| 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 斩业星熊     | 驭法铁卫 | 第一批   |          |          |         |         |          |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 石棉         | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 海沫         | 收割者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 铎铃         | 重剑手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -94,7 +94,7 @@
 | 极光         | 决战者   | 第二批   |          |          |         |         | $\empty$ |             |
 | 崖心         | 钩索师   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
-| 埃拉托       | 攻城手   | 第二批   |          |          |         |         | $\empty$ |             |
+|              | 攻城手   | 第二批   |          |          |         |         |          |             |
 | 澄闪         | 驭械术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 贝娜         | 傀儡师   | 第二批   |          |          |         |         | $\empty$ |             |
@@ -115,7 +115,7 @@
 | 温米         | 本源术师 | 第二批   |          |          |         |         | $\empty$ |             |
 | 跃跃         | 回环射手 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 |              | 撼地者   | 第二批   |          |          |         |         |          |             |
-| 松果         | 散射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 吉星         | 散射手   | 第二批   |          |          |         |         |          |             |
 | 濯尘芙蓉     | 咒愈师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 拉普兰德     | 领主     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 塑灵术师 | 第二批   |          |          |         |         |          |             |
@@ -125,9 +125,9 @@
 | 空构         | 怪杰     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 解放者   | 第二批   |          |          |         |         |          |             |
+| 石棉         | 驭法铁卫 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 达格达       | 斗士     | 第二批   |          |          |         |         | $\empty$ |             |
 | 絮雨         | 疗养师   | 第二批   |          |          |         |         | $\empty$ |             |
-| 坚雷         | 驭法铁卫 | 第二批   |          |          |         |         | $\empty$ |             |
 | 惊蛰         | 链术师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 羽毛笔       | 收割者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石英         | 重剑手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -155,6 +155,7 @@
 | 火神         | 不屈者   | 公开寻访 | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 艾丝黛尔     | 强攻手   | 公开寻访 |          |          |         |         | $\empty$ |             |
 | 嘉维尔       | 医师     | 信用商店 |          |          |         |         | $\empty$ |             |
+| 坚雷         | 驭法铁卫 | 信用商店 |          |          |         |         | $\empty$ |             |
 | 蛇屠箱       | 铁卫     | 红票区   |          |          |         |         | $\empty$ |             |
 | 微风         | 群愈师   | 红票区   |          |          |         |         | $\empty$ |             |
 | 暴行         | 强攻手   | 奖励     |          |          |         |         | $\empty$ |             |
@@ -175,9 +176,9 @@
 | 耶拉         | 驭械术师 | 活动     | $\surd$  |          |         |         | $\empty$ |             |
 | 九色鹿       | 护佑者   | 活动     | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 寒芒克洛丝   | 速射手   | 活动     |          |          |         |         | $\empty$ |             |
+| 埃拉托       | 攻城手   | 活动     |          |          |         |         | $\empty$ |             |
 | 截云         | 炮手     | 活动     |          |          |         |         | $\empty$ |             |
 | 摩根         | 无畏者   | 活动     |          |          |         |         | $\empty$ |             |
-| 截云         | 炮手     | 活动     | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | 红隼         | 尖兵     | 活动     |          |          |         |         | $\empty$ |             |
 | 深巡         | 哨戒铁卫 | 活动     |          |          |         |         | $\empty$ |             |
 | 瑰盐         | 群愈师   | 活动     |          |          |         |         | $\empty$ |             |
