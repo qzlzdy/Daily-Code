@@ -54,7 +54,7 @@
 | 新约能天使   | 怪杰     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 司霆惊蛰     | 解放者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 斩业星熊     | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  |         |         | $\surd$  |             |
+| 斩业星熊     | 驭法铁卫 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 因陀罗       | 斗士     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -86,7 +86,7 @@
 | 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 食铁兽       | 推击手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
+| 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
 | Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 斥罪         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 令           | 召唤师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -114,13 +114,13 @@
 | 迷迭香       | 投掷手   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
 | 温米         | 本源术师 | 第二批   |          |          |         |         | $\empty$ |             |
 | 跃跃         | 回环射手 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-|              | 撼地者   | 第二批   |          |          |         |         |          |             |
+| 祐天寺若麦   | 撼地者   | 第二批   |          |          |         |         | $\empty$ |             |
 | 吉星         | 散射手   | 第二批   |          |          |         |         |          |             |
 | 濯尘芙蓉     | 咒愈师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 拉普兰德     | 领主     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 丰川祥子     | 领主     | 第二批   |          |          |         |         |          |             | 
 |              | 塑灵术师 | 第二批   |          |          |         |         |          |             |
 | 晓歌         | 情报官   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 狮蝎         | 伏击客   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 八幡海铃     | 伏击客   | 第二批   |          |          |         |         | $\empty$ |             |
 | 莎草         | 链愈师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 空构         | 怪杰     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 雷蛇         | 哨戒铁卫 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
