@@ -2,6 +2,14 @@
     "version": "2.5.0",
     "records": [
         {
+            "operator_id": "char_4186_tmoris",
+            "attribute": "ELITE_RANK",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
             "operator_id": "char_4182_oblvns",
             "attribute": "ELITE_RANK",
             "current": 1,
