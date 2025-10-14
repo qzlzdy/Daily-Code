@@ -42,7 +42,7 @@
 | 号角         | 要塞     | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 维什戴尔     | 投掷手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 妮芙         | 本源术师 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 娜仁图亚     | 回环射手 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 娜仁图亚     | 回环射手 | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 佩佩         | 撼地者   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 假日威龙陈   | 散射手   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 焰影苇草     | 咒愈师   | 第一批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -78,26 +78,26 @@
 | 刻俄伯       | 中坚术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 玛露西尔     | 扩散术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 亚叶         | 医师     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 白面鸮       | 群愈师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 阿罗玛       | 轰击术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
+| 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 白面鸮       | 群愈师   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| 阿罗玛       | 轰击术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 食铁兽       | 推击手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         | $\empty$ |             |
+| 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 艾丽妮       | 剑豪     | 第二批   | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
-| 铃兰         | 凝滞师   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
-| 食铁兽       | 推击手   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 鸿雪         | 重射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
-| 斥罪         | 不屈者   | 第二批   | $\surd$  | $\surd$  |         |         |          |             |
+| 斥罪         | 不屈者   | 第二批   | $\surd$  | $\surd$  | $\surd$ |         |          |             |
 | 麦哲伦       | 召唤师   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 极光         | 决战者   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
-| 崖心         | 钩索师   | 第二批   | $\surd$  |          |         |         | $\empty$ |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| 极光         | 决战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 崖心         | 钩索师   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 提丰         | 攻城手   | 第二批   | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | 澄闪         | 驭械术师 | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 铸铁         | 术战者   | 第二批   | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 贝娜         | 傀儡师   | 第二批   |          |          |         |         | $\empty$ |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 浊心斯卡蒂   | 吟游者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 缄默德克萨斯 | 处决者   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 守林人       | 神射手   | 第二批   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
