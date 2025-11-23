@@ -16,7 +16,7 @@
 | 夜莺         | 群愈师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莫斯提马     | 扩散术师 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 陈           | 剑豪     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 溯光星源     | 凝滞师   | P1       |          |          |         |         |          |             |
+| 溯光星源     | 凝滞师   | P1       | $\surd$  |          |         | $\surd$ |          |             |
 | 温蒂         | 推击手   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 黑           | 重射手   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 泥岩         | 不屈者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -54,7 +54,7 @@
 | 新约能天使   | 怪杰     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 涤火杰西卡   | 哨戒铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 司霆惊蛰     | 解放者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 斩业星熊     | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 斩业星熊     | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 因陀罗       | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -67,7 +67,7 @@
 | 凯瑟琳       | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\triangle$ |
 | 云迹         | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 哈蒂娅       | 佣兵     | P1       |          |          |         |         |          |             |
+| 哈蒂娅       | 佣兵     | P1       | $\surd$  |          |         |         | $\empty$ |             |
 | 嵯峨         | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂       | 无畏者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -101,7 +101,7 @@
 | 贝娜         | 傀儡师   | P2       | $\surd$  |          |         |         | $\empty$ |             |
 | 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 雷缪安       | 神射手   | P2       |          |          |         |         |          |             |
+| 雷缪安       | 神射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 卡涅利安     | 阵法术士 | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 鞭刃         | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 遥           | 护佑者   | P2       |          |          |         |         |          |             |
@@ -159,7 +159,7 @@
 | 坚雷         | 驭法铁卫 | 信用商店 |          |          |         |         | $\empty$ |             |
 | 蛇屠箱       | 铁卫     | 红票区   |          |          |         |         | $\empty$ |             |
 | 微风         | 群愈师   | 红票区   |          |          |         |         | $\empty$ |             |
-| 协律         | 轰击术师 | 红票区   |          |          |         |         |          |             |
+| 协律         | 轰击术师 | 红票区   |          |          |         |         | $\empty$ |             |
 | 暴行         | 强攻手   | 奖励     |          |          |         |         | $\empty$ |             |
 | 德克萨斯     | 尖兵     | 奖励     |          |          |         |         | $\empty$ |             |
 | 雪稚         | 钩索师   | 活动     |          |          |         |         | $\empty$ |             |
