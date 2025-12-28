@@ -28,14 +28,6 @@
         {
             "operator_id": "char_4065_judge",
             "attribute": "MASTER_SKILL_2",
-            "current": 0,
-            "target": 1,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4065_judge",
-            "attribute": "MASTER_SKILL_2",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -44,6 +36,30 @@
         {
             "operator_id": "char_4065_judge",
             "attribute": "MASTER_SKILL_2",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_248_mgllan",
+            "attribute": "MASTER_SKILL_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_248_mgllan",
+            "attribute": "MASTER_SKILL_1",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_248_mgllan",
+            "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
             "hidden": false,
