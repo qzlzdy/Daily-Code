@@ -55,17 +55,17 @@
 | 涤火杰西卡   | 哨戒铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 司霆惊蛰     | 解放者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斩业星熊     | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 莱伊         | 猎手     | P1       |          |          |         |         |          |             |
 | 因陀罗       | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 海沫         | 收割者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 铎铃         | 重剑手   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 冰酿         | 猎手     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 戴菲恩       | 秘术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 初雪         | 削弱者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 云迹         | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 蒂比         | 巡空者   | P1       |          |          |         |         |          |             |
 | 菲莱         | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅       | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -86,18 +86,18 @@
 | 食铁兽       | 推击手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 鸿雪         | 重射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斥罪         | 不屈者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 麦哲伦       | 召唤师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 麦哲伦       | 召唤师   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 极光         | 决战者   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 崖心         | 钩索师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 提丰         | 攻城手   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 澄闪         | 驭械术师 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 铸铁         | 术战者   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 贝娜         | 傀儡师   | P2       | $\surd$  |          |         |         | $\empty$ |             |
 | 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -127,17 +127,17 @@
 | 雷蛇         | 哨戒铁卫 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 解放者   | P2       |          |          |         |         |          |             |
 | 石棉         | 驭法铁卫 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 冰酿         | 猎手     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 达格达       | 斗士     | P2       |          |          |         |         | $\empty$ |             |
 | 絮雨         | 疗养师   | P2       |          |          |         |         | $\empty$ |             |
 | 惊蛰         | 链术师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 羽毛笔       | 收割者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 石英         | 重剑手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-|              | 猎手     | P2       |          |          |         |         |          |             |
 | 爱丽丝       | 秘术师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 巫恋         | 削弱者   | P2       |          |          |         |         | $\empty$ |             |
 | 宴           | 武者     | P2       |          |          |         |         | $\empty$ |             |
 | 阿兰娜       | 工匠     | P2       |          |          |         |         | $\empty$ |             |
-|              | 巡空者   | P2       |          |          |         |         | $\empty$ |             |
+| 云迹         | 巡空者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 响石         | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
 | 铃兰         | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 瑕光         | 守护者   | 六星     | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
