@@ -85,7 +85,7 @@
 | 安洁莉娜     | 凝滞师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 食铁兽       | 推击手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 鸿雪         | 重射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 斥罪         | 不屈者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 斥罪         | 不屈者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 麦哲伦       | 召唤师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
 | 极光         | 决战者   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
