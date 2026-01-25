@@ -55,7 +55,7 @@
 | 涤火杰西卡   | 哨戒铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 司霆惊蛰     | 解放者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斩业星熊     | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 莱伊         | 猎手     | P1       |          |          |         |         |          |             |
+| 莱伊         | 猎手     | P1       | $\surd$  | $\surd$  |         | $\surd$ |          |             |
 | 因陀罗       | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |

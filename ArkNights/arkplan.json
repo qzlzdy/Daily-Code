@@ -3,15 +3,7 @@
     "records": [
         {
             "operator_id": "char_4117_ray",
-            "attribute": "ELITE_RANK",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_2",
+            "attribute": "MASTER_SKILL_3",
             "current": 0,
             "target": 1,
             "hidden": false,
@@ -19,7 +11,7 @@
         },
         {
             "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_2",
+            "attribute": "MASTER_SKILL_3",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -27,7 +19,7 @@
         },
         {
             "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_2",
+            "attribute": "MASTER_SKILL_3",
             "current": 2,
             "target": 3,
             "hidden": false,
@@ -35,7 +27,7 @@
         },
         {
             "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_3",
+            "attribute": "MASTER_SKILL_1",
             "current": 0,
             "target": 1,
             "hidden": false,
@@ -43,7 +35,7 @@
         },
         {
             "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_3",
+            "attribute": "MASTER_SKILL_1",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -51,7 +43,31 @@
         },
         {
             "operator_id": "char_4117_ray",
-            "attribute": "MASTER_SKILL_3",
+            "attribute": "MASTER_SKILL_1",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4117_ray",
+            "attribute": "ADVANCED_EQUIPMENT_2",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4117_ray",
+            "attribute": "ADVANCED_EQUIPMENT_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4117_ray",
+            "attribute": "ADVANCED_EQUIPMENT_2",
             "current": 2,
             "target": 3,
             "hidden": false,
