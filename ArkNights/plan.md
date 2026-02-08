@@ -55,7 +55,7 @@
 | 涤火杰西卡   | 哨戒铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 司霆惊蛰     | 解放者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斩业星熊     | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 莱伊         | 猎手     | P1       | $\surd$  | $\surd$  |         | $\surd$ |          |             |
+| 莱伊         | 猎手     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 因陀罗       | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰         | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源         | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -65,7 +65,7 @@
 | 初雪         | 削弱者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬         | 武者     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳       | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 蒂比         | 巡空者   | P1       |          |          |         |         |          |             |
+| 蒂比         | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅       | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
