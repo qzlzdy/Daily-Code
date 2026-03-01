@@ -87,19 +87,19 @@
 | 鸿雪         | 重射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斥罪         | 不屈者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 麦哲伦       | 召唤师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
-| 极光         | 决战者   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 极光         | 决战者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 崖心         | 钩索师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 崖心         | 钩索师   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\empty$ |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 提丰         | 攻城手   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 澄闪         | 驭械术师 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
-| 铸铁         | 术战者   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 贝娜         | 傀儡师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 贝娜         | 傀儡师   | P2       | $\surd$  |          |         |         | $\empty$ |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 雷缪安       | 神射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 卡涅利安     | 阵法术士 | P2       | $\surd$  | $\surd$  |         |         |          |             |
@@ -165,6 +165,7 @@
 | 雪稚         | 钩索师   | 活动     |          |          |         |         | $\empty$ |             |
 | 柏喙         | 剑豪     | 活动     |          |          |         |         | $\empty$ |             |
 | 断罪者       | 无畏者   | 活动     |          |          |         |         | $\empty$ |             |
+| 铸铁         | 术战者   | 活动     | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 苦艾         | 中坚术师 | 活动     |          |          |         |         | $\empty$ |             |
 | 稀音         | 召唤师   | 活动     |          |          |         |         | $\empty$ |             |
 | 特米米       | 中坚术师 | 活动     |          |          |         |         | $\empty$ |             |
