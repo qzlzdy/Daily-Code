@@ -91,20 +91,20 @@
 | 崖心         | 钩索师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 提丰         | 攻城手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 澄闪         | 驭械术师 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 贝娜         | 傀儡师   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
-| 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 贝娜         | 傀儡师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 雷缪安       | 神射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| 蕾缪安       | 神射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 卡涅利安     | 阵法术士 | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 鞭刃         | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 遥           | 护佑者   | P2       |          |          |         |         |          |             |
+| Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| 遥           | 护佑者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 夜半         | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 桃金娘       | 执旗手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |              | 行商     | P2       |          |          |         |         |          |             |
@@ -146,6 +146,7 @@
 | 灰烬         | 速射手   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 弑君者       | 处决者   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 忍冬         | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
+| 锏           | 剑豪     | 六星     |          |          |         |         |          |             |
 | 阿米娅(C)    | 中坚术师 | 主线     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 阿米娅(B)    | 术战者   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |
 | 阿米娅(A)    | 咒愈师   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |

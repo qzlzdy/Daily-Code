@@ -27,39 +27,15 @@
         },
         {
             "operator_id": "char_369_bena",
-            "attribute": "MASTER_SKILL_2",
-            "current": 0,
-            "target": 1,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_369_bena",
-            "attribute": "MASTER_SKILL_2",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_369_bena",
-            "attribute": "MASTER_SKILL_2",
+            "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
             "hidden": false,
             "selected": false
         },
         {
-            "operator_id": "char_1050_chen3",
-            "attribute": "MASTER_SKILL_1",
-            "current": 0,
-            "target": 1,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1050_chen3",
-            "attribute": "MASTER_SKILL_1",
+            "operator_id": "char_4116_blkkgt",
+            "attribute": "ELITE_RANK",
             "current": 1,
             "target": 2,
             "hidden": false,
@@ -67,6 +43,46 @@
         },
         {
             "operator_id": "char_1050_chen3",
+            "attribute": "ADVANCED_EQUIPMENT_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1050_chen3",
+            "attribute": "ADVANCED_EQUIPMENT_1",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1050_chen3",
+            "attribute": "ADVANCED_EQUIPMENT_1",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4193_lemuen",
+            "attribute": "MASTER_SKILL_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4193_lemuen",
+            "attribute": "MASTER_SKILL_1",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4193_lemuen",
             "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
