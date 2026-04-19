@@ -92,7 +92,7 @@
 | 崖心         | 钩索师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 提丰         | 攻城手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 澄闪         | 驭械术师 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 贝娜         | 傀儡师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
