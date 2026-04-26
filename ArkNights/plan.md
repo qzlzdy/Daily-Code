@@ -68,7 +68,7 @@
 | 蒂比         | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅       | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 聆音         | 本源近卫 | P1       |          |          |         |         | $\empty$ |             |
+| 聆音         | 本源近卫 | P1       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂       | 无畏者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
