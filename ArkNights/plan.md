@@ -68,7 +68,7 @@
 | 蒂比         | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱         | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅       | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 聆音         | 本源近卫 | P1       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
+| 聆音         | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨         | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼       | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂       | 无畏者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -94,16 +94,16 @@
 | 澄闪         | 驭械术师 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 赤刃明霄陈   | 术战者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 贝娜         | 傀儡师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 浊心斯卡蒂   | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 缄默德克萨斯 | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | 6           |
+| Stage 6      | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 蕾缪安       | 神射手   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | Stage 5      | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 卡涅利安     | 阵法术士 | P2       | $\surd$  | $\surd$  |         |         | $\surd$  |             |
+| 卡涅利安     | 阵法术士 | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | Stage 4      | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 鞭刃         | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | Stage 3      | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
-| 遥           | 护佑者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| 遥           | 护佑者   | P2       | $\surd$  | $\surd$  |         | $\surd$ |          |             |
 | Stage 2      | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 夜半         | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 1      | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
@@ -142,7 +142,7 @@
 | 响石         | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
 |              | 佣兵     | P2       |          |          |         |         |          |             |
 |              | 本源近卫 | P2       |          |          |         |         |          |             |
-| 铃兰         | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 铃兰         | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 瑕光         | 守护者   | 六星     | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 焰尾         | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 霍尔海雅     | 中坚术师 | 六星     | $\surd$  | $\surd$  |         |         |          |             |

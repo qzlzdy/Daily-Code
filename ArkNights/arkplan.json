@@ -1,48 +1,8 @@
 {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "records": [
         {
-            "operator_id": "char_1012_skadi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 0,
-            "target": 1,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1012_skadi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1012_skadi2",
-            "attribute": "ADVANCED_EQUIPMENT_1",
-            "current": 2,
-            "target": 3,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4187_graceb",
-            "attribute": "MASTER_SKILL_1",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_4187_graceb",
-            "attribute": "MASTER_SKILL_1",
-            "current": 2,
-            "target": 3,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_426_billro",
+            "operator_id": "char_4193_lemuen",
             "attribute": "MASTER_SKILL_2",
             "current": 0,
             "target": 1,
@@ -50,7 +10,7 @@
             "selected": false
         },
         {
-            "operator_id": "char_426_billro",
+            "operator_id": "char_4193_lemuen",
             "attribute": "MASTER_SKILL_2",
             "current": 1,
             "target": 2,
@@ -58,8 +18,88 @@
             "selected": false
         },
         {
-            "operator_id": "char_426_billro",
+            "operator_id": "char_4193_lemuen",
             "attribute": "MASTER_SKILL_2",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "ELITE_RANK",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_3",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_2",
+            "current": 2,
+            "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_1",
+            "current": 0,
+            "target": 1,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_1",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_1052_kalts2",
+            "attribute": "MASTER_SKILL_1",
             "current": 2,
             "target": 3,
             "hidden": false,
@@ -172,6 +212,14 @@
         },
         {
             "id": "M-4-19",
+            "options": {}
+        },
+        {
+            "id": "M-4-20",
+            "options": {}
+        },
+        {
+            "id": "M-4-21",
             "options": {}
         }
     ]
