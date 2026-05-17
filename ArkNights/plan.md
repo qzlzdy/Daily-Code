@@ -56,7 +56,7 @@
 | 司霆惊蛰      | 解放者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 斩业星熊      | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莱伊          | 猎手     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 凯尔希=思衡托 | 守望者   | P1       |          |          |         |         |          |             |
+| 凯尔希=思衡托 | 守望者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 因陀罗        | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰          | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源          | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -98,20 +98,20 @@
 | 浊心斯卡蒂    | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 缄默德克萨斯  | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 蕾缪安        | 神射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
-| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 卡涅利安      | 阵法术士 | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 鞭刃          | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 遥            | 护佑者   | P2       | $\surd$  | $\surd$  |         | $\surd$ |          |             |
-| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 夜半          | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 桃金娘        | 执旗手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
