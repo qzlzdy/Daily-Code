@@ -58,7 +58,6 @@
 | 莱伊          | 猎手     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 凯尔希=思衡托 | 守望者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 隐德来希      | 收割者   | P1       | $\surd$  | $\surd$  |         |         |          |             |
-| 雷狼龙S空爆   | 佣兵     | P1       |          |          |         |         |          |             |
 | 因陀罗        | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰          | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源          | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -69,6 +68,7 @@
 | 凯瑟琳        | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 蒂比          | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨          | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼        | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -97,8 +97,8 @@
 | 贝娜          | 傀儡师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 浊心斯卡蒂    | 吟游者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 缄默德克萨斯  | 处决者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 蕾缪安        | 神射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
-| 卡涅利安      | 阵法术士 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 蕾缪安        | 神射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
+| 卡涅利安      | 阵法术士 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 鞭刃          | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
@@ -132,7 +132,6 @@
 | 冰酿          | 猎手     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 |               | 守望者   | P2       |          |          |         |         |          |             |
 | 海沫          | 收割者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 哈蒂娅        | 佣兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 达格达        | 斗士     | P2       |          |          |         |         | $\empty$ |             |
 | 絮雨          | 疗养师   | P2       |          |          |         |         | $\empty$ |             |
 | 惊蛰          | 链术师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
@@ -143,6 +142,7 @@
 | 阿兰娜        | 工匠     | P2       |          |          |         |         | $\empty$ |             |
 | 云迹          | 巡空者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 响石          | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
+| 雷狼龙S空爆   | 佣兵     | P2       |          |          |         |         | $\empty$ |             |
 |               | 本源近卫 | P2       |          |          |         |         |          |             |
 | 铃兰          | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 瑕光          | 守护者   | 六星     | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
