@@ -57,7 +57,7 @@
 | 斩业星熊      | 驭法铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 莱伊          | 猎手     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 凯尔希=思衡托 | 守望者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
-| 隐德来希      | 收割者   | P1       | $\surd$  | $\surd$  |         |         |          |             |
+| 隐德来希      | 收割者   | P1       | $\surd$  | $\surd$  |         |         |          | $\triangle$ |
 | 因陀罗        | 斗士     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 锡兰          | 疗养师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 星源          | 链术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
@@ -102,7 +102,7 @@
 | 鞭刃          | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
-| 可露希尔      | 战术家   | P2       |          |          |         |         |          |             |
+| 可露希尔      | 战术家   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 桃金娘        | 执旗手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
@@ -152,7 +152,7 @@
 | 弑君者        | 处决者   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 忍冬          | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 锏            | 剑豪     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
-| 焰狐龙梓兰    | 重射手   | 六星     |          |          |         |         |          |             |
+| 焰狐龙梓兰    | 重射手   | 六星     | $\surd$  | $\surd$  |         |         |          |             |
 | 阿米娅        | 中坚术师 | 主线     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 近卫阿米娅    | 术战者   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |
 | 医疗阿米娅    | 咒愈师   | 主线     | $\empty$ | $\empty$ | $\surd$ | $\surd$ | $\empty$ |             |

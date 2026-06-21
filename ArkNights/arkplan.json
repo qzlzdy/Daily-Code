@@ -2,22 +2,6 @@
     "version": "2.6.0",
     "records": [
         {
-            "operator_id": "char_4228_closur",
-            "attribute": "ELITE_RANK",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
-            "operator_id": "char_1048_orchd2",
-            "attribute": "ELITE_RANK",
-            "current": 1,
-            "target": 2,
-            "hidden": false,
-            "selected": false
-        },
-        {
             "operator_id": "char_4010_etlchi",
             "attribute": "MASTER_SKILL_1",
             "current": 1,
@@ -78,6 +62,30 @@
             "attribute": "MASTER_SKILL_3",
             "current": 2,
             "target": 3,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4010_etlchi",
+            "attribute": "ADVANCED_EQUIPMENT_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4010_etlchi",
+            "attribute": "ADVANCED_EQUIPMENT_2",
+            "current": 1,
+            "target": 2,
+            "hidden": false,
+            "selected": false
+        },
+        {
+            "operator_id": "char_4010_etlchi",
+            "attribute": "ADVANCED_EQUIPMENT_2",
+            "current": 1,
+            "target": 2,
             "hidden": false,
             "selected": false
         },
