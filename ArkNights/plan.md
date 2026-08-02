@@ -66,7 +66,7 @@
 | 初雪          | 削弱者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬          | 武者     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳        | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 蒂比          | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 予愿安洁莉娜  | 巡空者   | P1       |          |          |         |         |          |             |
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -100,16 +100,16 @@
 | 蕾缪安        | 神射手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 卡涅利安      | 阵法术士 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 鞭刃          | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 可露希尔      | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
-| 桃金娘        | 执旗手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 嘉辛塔        | 执旗手   | P2       |          |          |         |         | $\empty$ |             |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
-| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         | $\surd$  |             |
 | Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
@@ -140,7 +140,7 @@
 | 巫恋          | 削弱者   | P2       |          |          |         |         | $\empty$ |             |
 | 宴            | 武者     | P2       |          |          |         |         | $\empty$ |             |
 | 阿兰娜        | 工匠     | P2       |          |          |         |         | $\empty$ |             |
-| 云迹          | 巡空者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 蒂比          | 巡空者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 响石          | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
 | 雷狼龙S空爆   | 佣兵     | P2       |          |          |         |         | $\empty$ |             |
 |               | 本源近卫 | P2       |          |          |         |         |          |             |
@@ -159,6 +159,7 @@
 | 海蒂          | 吟游者   | 主线     | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 |               |          | 成就     |          |          |         |         |          |             |
 | 古米          | 守护者   | 礼包     |          |          |         |         | $\empty$ |             |
+| 桃金娘        | 执旗手   | 礼包     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 清流          | 疗养师   | 礼包     |          |          |         |         | $\empty$ |             |
 | 火神          | 不屈者   | 公开寻访 | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 艾丝黛尔      | 强攻手   | 公开寻访 |          |          |         |         | $\empty$ |             |
@@ -166,6 +167,7 @@
 | 坚雷          | 驭法铁卫 | 信用商店 |          |          |         |         | $\empty$ |             |
 | 蛇屠箱        | 铁卫     | 红票区   |          |          |         |         | $\empty$ |             |
 | 微风          | 群愈师   | 红票区   |          |          |         |         | $\empty$ |             |
+| 云迹          | 巡空者   | 红票区   | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 协律          | 轰击术师 | 红票区   |          |          |         |         | $\empty$ |             |
 | 暴行          | 强攻手   | 奖励     |          |          |         |         | $\empty$ |             |
 | 德克萨斯      | 尖兵     | 奖励     |          |          |         |         | $\empty$ |             |
@@ -195,4 +197,5 @@
 | 行箸          | 护佑者   | 活动     |          |          |         |         | $\empty$ |             |
 | 祐天寺若麦    | 撼地者   | 活动     |          |          |         |         | $\empty$ |             |
 | 伯塔尼        | 巫役     | 活动     |          |          |         |         | $\empty$ |             |
+| 时隙          | 驭械术师 | 活动     |          |          |         |         | $\empty$ |             |
 |               |          | 服装     |          |          |         |         |          |             |
