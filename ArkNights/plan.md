@@ -66,7 +66,7 @@
 | 初雪          | 削弱者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬          | 武者     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 凯瑟琳        | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 予愿安洁莉娜  | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ |         |          |             |
+| 予愿安洁莉娜  | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -103,19 +103,19 @@
 | 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 可露希尔      | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 嘉辛塔        | 执旗手   | P2       |          |          |         |         | $\empty$ |             |
-| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
+| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         | $\surd$  |             |
-| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
-| 温米          | 本源术师 | P2       |          |          |         |         | $\empty$ |             |
 | 跃跃          | 回环射手 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 怒潮凛冬      | 撼地者   | P2       |          |          |         |         |          |             |
 | 吉星          | 散射手   | P2       |          |          |         |         |          |             |
