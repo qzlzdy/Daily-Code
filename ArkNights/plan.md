@@ -102,22 +102,22 @@
 | 鞭刃          | 教官     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 遥            | 护佑者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 可露希尔      | 战术家   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
-| 嘉辛塔        | 执旗手   | P2       |          |          |         |         | $\empty$ |             |
+| 嘉辛塔        | 执旗手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         | $\surd$  |             |
-| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 跃跃          | 回环射手 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 怒潮凛冬      | 撼地者   | P2       |          |          |         |         |          |             |
+| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| 怒潮凛冬      | 撼地者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 吉星          | 散射手   | P2       |          |          |         |         |          |             |
 | 濯尘芙蓉      | 咒愈师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 丰川祥子      | 领主     | P2       | $\surd$  | $\surd$  |         |         |          |             |
