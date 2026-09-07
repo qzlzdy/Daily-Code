@@ -106,11 +106,11 @@
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         |         | $\surd$  |             |
+| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
+| 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
