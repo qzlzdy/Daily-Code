@@ -70,6 +70,8 @@
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 埃癸斯        | 裂空炮手 | P1       |          |          |         |         | $\empty$ |             |
+| 岳羽由加莉    | 游击手   | P1       |          |          |         |         | $\empty$ |             |
 | 嵯峨          | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼        | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂        | 无畏者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -106,19 +108,19 @@
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\surd$  |             |
-| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
+| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
+| Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
-| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 跃跃          | 回环射手 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 怒潮凛冬      | 撼地者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 吉星          | 散射手   | P2       |          |          |         |         |          |             |
+| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 濯尘芙蓉      | 咒愈师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 丰川祥子      | 领主     | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 特克诺        | 塑灵术师 | P2       |          |          |         |         |          |             |
@@ -144,6 +146,8 @@
 | 响石          | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
 | 雷狼龙S空爆   | 佣兵     | P2       |          |          |         |         | $\empty$ |             |
 |               | 本源近卫 | P2       |          |          |         |         |          |             |
+|               | 裂空炮手 | P2       |          |          |         |         |          |             |
+|               | 游击手   | P2       |          |          |         |         |          |             |
 | 铃兰          | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 瑕光          | 守护者   | 六星     | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | 焰尾          | 尖兵     | 六星     | $\surd$  | $\surd$  |         |         |          |             |
