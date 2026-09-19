@@ -70,7 +70,7 @@
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 埃癸斯        | 裂空炮手 | P1       |          |          |         |         | $\empty$ |             |
+| 埃癸斯        | 裂空炮手 | P1       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 岳羽由加莉    | 游击手   | P1       |          |          |         |         | $\empty$ |             |
 | 嵯峨          | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼        | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
