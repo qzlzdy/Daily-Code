@@ -70,8 +70,8 @@
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 埃癸斯        | 裂空炮手 | P1       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
-| 岳羽由加莉    | 游击手   | P1       |          |          |         |         | $\empty$ |             |
+| 埃癸斯        | 裂空炮手 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 岳羽由加莉    | 游击手   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨          | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 格拉尼        | 冲锋手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 斯卡蒂        | 无畏者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -108,18 +108,18 @@
 |               | 行商     | P2       |          |          |         |         |          |             |
 | 蜜莓          | 行医     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
+| 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
 | 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
 | Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
-| 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
+| 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
 | Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 跃跃          | 回环射手 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 怒潮凛冬      | 撼地者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
-| 吉星          | 散射手   | P2       |          |          |         |         |          |             |
+| 吉星          | 散射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 濯尘芙蓉      | 咒愈师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 丰川祥子      | 领主     | P2       | $\surd$  | $\surd$  |         |         |          |             |
