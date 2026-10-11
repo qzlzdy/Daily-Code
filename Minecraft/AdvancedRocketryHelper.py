@@ -22,5 +22,3 @@ if __name__ == "__main__":
     n_engine = 4
     print(f"use {n_engine} engines")
     computeFuelNeed(n_engine)
-
-    

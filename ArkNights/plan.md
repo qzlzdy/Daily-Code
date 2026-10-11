@@ -65,11 +65,11 @@
 | 戴菲恩        | 秘术师   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 初雪          | 削弱者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
 | 赤冬          | 武者     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 凯瑟琳        | 工匠     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 阿兰娜        | 工匠     | P1       |          |          |         |         | $\empty$ |             |
 | 予愿安洁莉娜  | 巡空者   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  |             |
+| 克莱门莎      | 本源近卫 | P1       |          |          |         |         |          |             |
 | 菲莱          | 本源铁卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 哈蒂娅        | 佣兵     | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| 聆音          | 本源近卫 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 埃癸斯        | 裂空炮手 | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 岳羽由加莉    | 游击手   | P1       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 嵯峨          | 尖兵     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
@@ -110,18 +110,18 @@
 | 凛视          | 巫役     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 多萝西        | 陷阱师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
 | 灰毫          | 要塞     | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\triangle$ |
 | Stage 6       | 分割线   | 模组     | 6        | 6        | 6       | 6       | 6        | $\triangle$ |
-| 迷迭香        | 投掷手   | P2       | $\surd$  | $\surd$  | $\surd$ |         | $\surd$  |             |
-| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 温米          | 本源术师 | P2       | $\surd$  | $\surd$  |         | $\surd$ | $\empty$ |             |
-| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
+| Stage 5       | 分割线   | 专九     | 5        | 5        | 5       | 5       | 5        | 5           |
 | 跃跃          | 回环射手 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
-| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
+| Stage 4       | 分割线   | 专六     | 4        | 4        | 4       | 4       | 4        | 4           |
 | 怒潮凛冬      | 撼地者   | P2       | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
+| Stage 3       | 分割线   | 专三     | 3        | 3        | 3       | 3       | 3        | 3           |
 | 吉星          | 散射手   | P2       | $\surd$  | $\surd$  |         |         |          |             |
-| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
+| Stage 2       | 分割线   | 满级     | 2        | 2        | 2       | 2       | 2        | 2           |
 | 濯尘芙蓉      | 咒愈师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
+| Stage 1       | 分割线   | 精二     | 1        | 1        | 1       | 1       | 1        | 1           |
 | 丰川祥子      | 领主     | P2       | $\surd$  | $\surd$  |         |         |          |             |
 | 特克诺        | 塑灵术师 | P2       |          |          |         |         |          |             |
 | 晓歌          | 情报官   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
@@ -139,13 +139,13 @@
 | 惊蛰          | 链术师   | P2       | $\surd$  | $\surd$  |         |         | $\empty$ |             |
 | 石英          | 重剑手   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 爱丽丝        | 秘术师   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ | $\surd$     |
-| 巫恋          | 削弱者   | P2       |          |          |         |         | $\empty$ |             |
+| 德=托莱多     | 削弱者   | P2       |          |          |         |         | $\empty$ |             |
 | 宴            | 武者     | P2       |          |          |         |         | $\empty$ |             |
-| 阿兰娜        | 工匠     | P2       |          |          |         |         | $\empty$ |             |
+|               | 工匠     | P2       |          |          |         |         |          |             |
 | 蒂比          | 巡空者   | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
+| 聆音          | 本源近卫 | P2       | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\empty$ |             |
 | 响石          | 本源铁卫 | P2       |          |          |         |         | $\empty$ |             |
 | 雷狼龙S空爆   | 佣兵     | P2       |          |          |         |         | $\empty$ |             |
-|               | 本源近卫 | P2       |          |          |         |         |          |             |
 |               | 裂空炮手 | P2       |          |          |         |         |          |             |
 |               | 游击手   | P2       |          |          |         |         |          |             |
 | 铃兰          | 凝滞师   | 六星     | $\surd$  | $\surd$  | $\surd$ | $\surd$ | $\surd$  | $\surd$     |
